@@ -1,5 +1,85 @@
 [
   {
+    "dealer": "27020",
+    "vin": "3TMKB5FN9RM000138",
+    "year": "2024",
+    "vehicle": "tacoma",
+    "model": "trdsport",
+    "enginge": "i-FORCE 2.4L Turbocharged Engine",
+    "transmission": "8-Speed Automatic Transmission",
+    "drivetrain": "Rear-Wheel Drive",
+    "cab": "Double Cab",
+    "bed": "5-ft bed",
+    "color": "Ice Cap",
+    "interior": "Boulder/Black Fabric w/ Smoke Silver",
+    "base_msrp": "39400",
+    "total_msrp": "41025.0",
+    "availability_date": null,
+    "total_packages": 5,
+    "packages": "Quick Charging Cable Package[installed_msrp], Owner's Portfolio, 50 State Emissions, TRD Sport Package, Mud Guards",
+    "created_at": "2024-02-07 11:24:16"
+  },
+  {
+    "dealer": "27020",
+    "vin": "3TMLB5JN0RM000380",
+    "year": "2024",
+    "vehicle": "tacoma",
+    "model": "trdoffroad",
+    "enginge": "i-FORCE 2.4L Turbocharged Engine",
+    "transmission": "8-Speed Automatic Transmission",
+    "drivetrain": "4-Wheel Drive",
+    "cab": "Double Cab",
+    "bed": "5-ft bed",
+    "color": "Ice Cap",
+    "interior": "Boulder/Black Fabric w/ Smoke Silver",
+    "base_msrp": "42900",
+    "total_msrp": "45040.0",
+    "availability_date": null,
+    "total_packages": 5,
+    "packages": "Owner's Portfolio, TRD Off-Road Package, 50 State Emissions, Heated Seats, Mud Guards",
+    "created_at": "2024-02-07 11:24:16"
+  },
+  {
+    "dealer": "27020",
+    "vin": "3TMKB5FN5RM000072",
+    "year": "2024",
+    "vehicle": "tacoma",
+    "model": "trdsport",
+    "enginge": "i-FORCE 2.4L Turbocharged Engine",
+    "transmission": "8-Speed Automatic Transmission",
+    "drivetrain": "Rear-Wheel Drive",
+    "cab": "Double Cab",
+    "bed": "5-ft bed",
+    "color": "Celestial Silver Metallic",
+    "interior": "Boulder/Black Fabric w/ Smoke Silver",
+    "base_msrp": "39400",
+    "total_msrp": "46300.0",
+    "availability_date": null,
+    "total_packages": 7,
+    "packages": "Audio Multimedia Upgrade, Bed Mat<br>[installed_msrp], Owner's Portfolio, TRD Sport Upgrade Package, Quick Charging Cable Package[installed_msrp], Mud Guards, 50 State Emissions",
+    "created_at": "2024-02-07 11:24:16"
+  },
+  {
+    "dealer": "27020",
+    "vin": "3TMLB5FN3RM000091",
+    "year": "2024",
+    "vehicle": "tacoma",
+    "model": "trdsport",
+    "enginge": "i-FORCE 2.4L Turbocharged Engine",
+    "transmission": "8-Speed Automatic Transmission",
+    "drivetrain": "Rear-Wheel Drive",
+    "cab": "Double Cab",
+    "bed": "6-ft bed",
+    "color": "Ice Cap",
+    "interior": "Boulder/Black Fabric w/ Smoke Silver",
+    "base_msrp": "39900",
+    "total_msrp": "46575.0",
+    "availability_date": null,
+    "total_packages": 7,
+    "packages": "Mud Guards, Audio Multimedia Upgrade, Mini Tie-Downs with Hooks[installed_msrp], Owner's Portfolio, TRD Sport Upgrade Package, 50 State Emissions, Long Bed with Inverter",
+    "created_at": "2024-02-07 11:24:16"
+  },
+  {
     "dealer": "27024",
     "vin": "3TYKB5FN5RT000206",
     "year": "2024",
@@ -16,8 +96,8 @@
     "total_msrp": "46110.0",
     "availability_date": null,
     "total_packages": 4,
-    "packages": "50 State Emissions, Door Edge Guards[installed_msrp], Audio Multimedia Upgrade, TRD Sport Upgrade Package",
-    "created_at": "2024-02-06 11:24:20"
+    "packages": "Door Edge Guards[installed_msrp], TRD Sport Upgrade Package, 50 State Emissions, Audio Multimedia Upgrade",
+    "created_at": "2024-02-07 11:24:17"
   },
   {
     "dealer": "27022",
@@ -36,8 +116,8 @@
     "total_msrp": "42575.0",
     "availability_date": null,
     "total_packages": 5,
-    "packages": "Deck Rail + Cleats, 50 State Emissions, SR5 Upgrade + Cold Weather Package, Owner's Portfolio, Quick Charging Cable Package[installed_msrp]",
-    "created_at": "2024-02-06 11:24:21"
+    "packages": "Owner's Portfolio, Quick Charging Cable Package[installed_msrp], 50 State Emissions, SR5 Upgrade + Cold Weather Package, Deck Rail + Cleats",
+    "created_at": "2024-02-07 11:24:18"
   },
   {
     "dealer": "27022",
@@ -56,8 +136,8 @@
     "total_msrp": "53835.0",
     "availability_date": null,
     "total_packages": 5,
-    "packages": "Door Edge Guards[installed_msrp], 50 State Emissions, Long Bed with Inverter, TRD Off-Road Premium Package<br>, Owner's Portfolio",
-    "created_at": "2024-02-06 11:24:21"
+    "packages": "Long Bed with Inverter, Door Edge Guards[installed_msrp], Owner's Portfolio, 50 State Emissions, TRD Off-Road Premium Package<br>",
+    "created_at": "2024-02-07 11:24:18"
   },
   {
     "dealer": "04285",
@@ -76,8 +156,8 @@
     "total_msrp": "49665.0",
     "availability_date": null,
     "total_packages": 6,
-    "packages": "TRD Sport Upgrade Package, Door Edge Guards[installed_msrp], Owner's Portfolio, 50 State Emissions, Quick Charging Cable Package[installed_msrp], Audio Multimedia Upgrade",
-    "created_at": "2024-02-06 11:24:25"
+    "packages": "Owner's Portfolio, TRD Sport Upgrade Package, Door Edge Guards[installed_msrp], 50 State Emissions, Audio Multimedia Upgrade, Quick Charging Cable Package[installed_msrp]",
+    "created_at": "2024-02-07 11:24:21"
   },
   {
     "dealer": "04136",
@@ -96,8 +176,8 @@
     "total_msrp": "39023.0",
     "availability_date": null,
     "total_packages": 3,
-    "packages": "50 State Emissions, Carpet Floor Mats and Door Sill Protectors[installed_msrp], Deck Rail + Cleats",
-    "created_at": "2024-02-06 11:24:31"
+    "packages": "50 State Emissions, Deck Rail + Cleats, Carpet Floor Mats and Door Sill Protectors[installed_msrp]",
+    "created_at": "2024-02-07 11:24:28"
   },
   {
     "dealer": "04543",
@@ -117,7 +197,7 @@
     "availability_date": null,
     "total_packages": 3,
     "packages": "Deck Rail + Cleats, SR5 Upgrade + Cold Weather Package, 50 State Emissions",
-    "created_at": "2024-02-06 11:24:41"
+    "created_at": "2024-02-07 11:24:37"
   },
   {
     "dealer": "04819",
@@ -137,27 +217,7 @@
     "availability_date": null,
     "total_packages": 2,
     "packages": "Deck Rail + Cleats, 50 State Emissions",
-    "created_at": "2024-02-06 11:24:59"
-  },
-  {
-    "dealer": "04676",
-    "vin": "3TYLB5JN7RT000221",
-    "year": "2024",
-    "vehicle": "tacoma",
-    "model": "trdoffroad",
-    "enginge": "i-FORCE 2.4L Turbocharged Engine",
-    "transmission": "8-Speed Automatic Transmission",
-    "drivetrain": "4-Wheel Drive",
-    "cab": "Double Cab",
-    "bed": "5-ft bed",
-    "color": "Ice Cap",
-    "interior": "Black SofTex",
-    "base_msrp": "42900",
-    "total_msrp": "53405.0",
-    "availability_date": null,
-    "total_packages": 5,
-    "packages": "TRD Off-Road Premium Package<br>, Owner's Portfolio, 50 State Emissions, Door Edge Guards[installed_msrp], Quick Charging Cable Package[installed_msrp]",
-    "created_at": "2024-02-06 11:25:02"
+    "created_at": "2024-02-07 11:24:53"
   },
   {
     "dealer": "04181",
@@ -176,8 +236,8 @@
     "total_msrp": "45110.0",
     "availability_date": null,
     "total_packages": 4,
-    "packages": "SR5 Upgrade Package, Door Edge Guards[installed_msrp], Deck Rail + Cleats, 50 State Emissions",
-    "created_at": "2024-02-06 11:25:04"
+    "packages": "Deck Rail + Cleats, 50 State Emissions, SR5 Upgrade Package, Door Edge Guards[installed_msrp]",
+    "created_at": "2024-02-07 11:24:57"
   },
   {
     "dealer": "04232",
@@ -196,8 +256,8 @@
     "total_msrp": "46302.0",
     "availability_date": null,
     "total_packages": 10,
-    "packages": "Premium Paint Charge, SR5 Upgrade + Cold Weather Package, Bed Cargo Net[installed_msrp], Deck Rail + Cleats, Carpet Floor Mats and Door Sill Protectors[installed_msrp], Door Edge Guards[installed_msrp], Quick Charging Cable Package[installed_msrp], Alloy Wheel Locks - Chrome[installed_msrp], 50 State Emissions, Owner's Portfolio",
-    "created_at": "2024-02-06 11:25:05"
+    "packages": "Bed Cargo Net[installed_msrp], Alloy Wheel Locks - Chrome[installed_msrp], Deck Rail + Cleats, Premium Paint Charge, Door Edge Guards[installed_msrp], SR5 Upgrade + Cold Weather Package, Quick Charging Cable Package[installed_msrp], Owner's Portfolio, 50 State Emissions, Carpet Floor Mats and Door Sill Protectors[installed_msrp]",
+    "created_at": "2024-02-07 11:24:58"
   },
   {
     "dealer": "04140",
@@ -216,8 +276,8 @@
     "total_msrp": "49675.0",
     "availability_date": null,
     "total_packages": 5,
-    "packages": "Owner's Portfolio, 50 State Emissions, Door Edge Guards[installed_msrp], Long Bed with Inverter, TRD Off-Road Upgrade Package<br>",
-    "created_at": "2024-02-06 11:25:06"
+    "packages": "Door Edge Guards[installed_msrp], TRD Off-Road Upgrade Package<br>, Long Bed with Inverter, Owner's Portfolio, 50 State Emissions",
+    "created_at": "2024-02-07 11:24:59"
   },
   {
     "dealer": "04143",
@@ -236,8 +296,8 @@
     "total_msrp": "50210.0",
     "availability_date": null,
     "total_packages": 8,
-    "packages": "Bed Mat<br>[installed_msrp], Door Edge Guards[installed_msrp], TRD Off-Road Upgrade Package<br>, Quick Charging Cable Package[installed_msrp], Owner's Portfolio, Mini Tie-Downs with Hooks[installed_msrp], 50 State Emissions, Audio Multimedia Upgrade",
-    "created_at": "2024-02-06 11:25:14"
+    "packages": "Mini Tie-Downs with Hooks[installed_msrp], Audio Multimedia Upgrade, Owner's Portfolio, Bed Mat<br>[installed_msrp], Door Edge Guards[installed_msrp], Quick Charging Cable Package[installed_msrp], 50 State Emissions, TRD Off-Road Upgrade Package<br>",
+    "created_at": "2024-02-07 11:25:06"
   },
   {
     "dealer": "04256",
@@ -256,8 +316,8 @@
     "total_msrp": "42465.0",
     "availability_date": null,
     "total_packages": 3,
-    "packages": "Deck Rail + Cleats, Long Bed, 50 State Emissions",
-    "created_at": "2024-02-06 11:25:14"
+    "packages": "Long Bed, Deck Rail + Cleats, 50 State Emissions",
+    "created_at": "2024-02-07 11:25:07"
   },
   {
     "dealer": "04201",
@@ -276,8 +336,28 @@
     "total_msrp": "49290.0",
     "availability_date": null,
     "total_packages": 5,
-    "packages": "TRD Off-Road Upgrade Package<br>, Mini Tie-Downs with Hooks[installed_msrp], 50 State Emissions, Quick Charging Cable Package[installed_msrp], Door Edge Guards[installed_msrp]",
-    "created_at": "2024-02-06 11:25:25"
+    "packages": "Door Edge Guards[installed_msrp], 50 State Emissions, TRD Off-Road Upgrade Package<br>, Quick Charging Cable Package[installed_msrp], Mini Tie-Downs with Hooks[installed_msrp]",
+    "created_at": "2024-02-07 11:25:17"
+  },
+  {
+    "dealer": "04077",
+    "vin": "3TYLB5JN6RT000579",
+    "year": "2024",
+    "vehicle": "tacoma",
+    "model": "SR5",
+    "enginge": "i-FORCE 2.4L Turbocharged Engine",
+    "transmission": "8-Speed Automatic Transmission",
+    "drivetrain": "4-Wheel Drive",
+    "cab": "Double Cab",
+    "bed": "6-ft bed",
+    "color": "Ice Cap",
+    "interior": "Black Fabric",
+    "base_msrp": "40900",
+    "total_msrp": "42465.0",
+    "availability_date": null,
+    "total_packages": 3,
+    "packages": "Deck Rail + Cleats, Long Bed, 50 State Emissions",
+    "created_at": "2024-02-07 11:25:18"
   },
   {
     "dealer": "04039",
@@ -296,8 +376,8 @@
     "total_msrp": "49175.0",
     "availability_date": null,
     "total_packages": 4,
-    "packages": "50 State Emissions, Owner's Portfolio, Door Edge Guards[installed_msrp], TRD Off-Road Upgrade Package<br>",
-    "created_at": "2024-02-06 11:25:31"
+    "packages": "50 State Emissions, Door Edge Guards[installed_msrp], Owner's Portfolio, TRD Off-Road Upgrade Package<br>",
+    "created_at": "2024-02-07 11:25:24"
   },
   {
     "dealer": "43028",
@@ -316,8 +396,8 @@
     "total_msrp": "46490.0",
     "availability_date": null,
     "total_packages": 7,
-    "packages": "SR5 Upgrade + Cold Weather Package, Deck Rail + Cleats, Long Bed, 50 State Emissions, Quick Charging Cable Package[installed_msrp], Emergency Assistance Kit[installed_msrp], Door Edge Guards[installed_msrp]",
-    "created_at": "2024-02-06 11:25:43"
+    "packages": "Long Bed, Emergency Assistance Kit[installed_msrp], Deck Rail + Cleats, Door Edge Guards[installed_msrp], Quick Charging Cable Package[installed_msrp], SR5 Upgrade + Cold Weather Package, 50 State Emissions",
+    "created_at": "2024-02-07 11:25:35"
   },
   {
     "dealer": "05063",
@@ -336,8 +416,8 @@
     "total_msrp": "53879.0",
     "availability_date": null,
     "total_packages": 6,
-    "packages": "Premium Paint Charge, Spray On Bedliner[installed_msrp], 50 State Emissions, TRD Sport Premium Package<br>, Door Panel Scuff Protectors[installed_msrp], Tailgate Insert - Black[installed_msrp]",
-    "created_at": "2024-02-06 11:26:15"
+    "packages": "Door Panel Scuff Protectors[installed_msrp], TRD Sport Premium Package<br>, 50 State Emissions, Premium Paint Charge, Tailgate Insert - Black[installed_msrp], Spray On Bedliner[installed_msrp]",
+    "created_at": "2024-02-07 11:26:05"
   },
   {
     "dealer": "41070",
@@ -356,8 +436,8 @@
     "total_msrp": "39103.0",
     "availability_date": null,
     "total_packages": 7,
-    "packages": "Quick Charging Cable Package[installed_msrp], Deck Rail + Cleats, All-Weather Floor Liners and Door Sill Protectors[installed_msrp], Owner's Portfolio, Mud Guards, Body Side Molding[installed_msrp], 50 State Emissions",
-    "created_at": "2024-02-06 11:27:53"
+    "packages": "All-Weather Floor Liners and Door Sill Protectors[installed_msrp], Mud Guards, Quick Charging Cable Package[installed_msrp], Body Side Molding[installed_msrp], Deck Rail + Cleats, 50 State Emissions, Owner's Portfolio",
+    "created_at": "2024-02-07 11:27:42"
   },
   {
     "dealer": "41070",
@@ -376,8 +456,8 @@
     "total_msrp": "46545.0",
     "availability_date": null,
     "total_packages": 8,
-    "packages": "Owner's Portfolio, Door Panel Scuff Protectors[installed_msrp], Quick Charging Cable Package[installed_msrp], Deck Rail + Cleats, 50 State Emissions, Mud Guards, SR5 Upgrade + Cold Weather Package, Spray On Bedliner[installed_msrp]",
-    "created_at": "2024-02-06 11:27:53"
+    "packages": "Spray On Bedliner[installed_msrp], Quick Charging Cable Package[installed_msrp], Mud Guards, Door Panel Scuff Protectors[installed_msrp], Owner's Portfolio, 50 State Emissions, Deck Rail + Cleats, SR5 Upgrade + Cold Weather Package",
+    "created_at": "2024-02-07 11:27:42"
   },
   {
     "dealer": "41070",
@@ -396,8 +476,8 @@
     "total_msrp": "48347.0",
     "availability_date": null,
     "total_packages": 12,
-    "packages": "Tailgate Insert - Black[installed_msrp], Mud Guards, Quick Charging Cable Package[installed_msrp], Exhaust Tip - Dark Chrome[installed_msrp], 50 State Emissions, Deck Rail + Cleats, All-Weather Floor Liners and Door Sill Protectors[installed_msrp], Spray On Bedliner[installed_msrp], Owner's Portfolio, Door Panel Scuff Protectors[installed_msrp], TRD 18-in Black Wheel[installed_msrp], SR5 Upgrade + Cold Weather Package",
-    "created_at": "2024-02-06 11:27:53"
+    "packages": "Quick Charging Cable Package[installed_msrp], Deck Rail + Cleats, Mud Guards, Door Panel Scuff Protectors[installed_msrp], Spray On Bedliner[installed_msrp], SR5 Upgrade + Cold Weather Package, TRD 18-in Black Wheel[installed_msrp], All-Weather Floor Liners and Door Sill Protectors[installed_msrp], Tailgate Insert - Black[installed_msrp], 50 State Emissions, Owner's Portfolio, Exhaust Tip - Dark Chrome[installed_msrp]",
+    "created_at": "2024-02-07 11:27:42"
   },
   {
     "dealer": "41070",
@@ -416,28 +496,28 @@
     "total_msrp": "52427.0",
     "availability_date": null,
     "total_packages": 15,
-    "packages": "Premium Paint Charge, Audio Multimedia Upgrade, Emergency Assistance Kit[installed_msrp], Integrated Dashcam[installed_msrp], Paint Protection Film - <br>Hood, Fenders, Mirror Backs and Door Cups[installed_msrp], Ball Mount, Moonroof<br>, Body Side Molding[installed_msrp], Owner's Portfolio, Door Panel Scuff Protectors[installed_msrp], TRD Sport Upgrade Package, Quick Charging Cable Package[installed_msrp], Tailgate Insert - Black[installed_msrp], 50 State Emissions, Mud Guards",
-    "created_at": "2024-02-06 11:27:53"
+    "packages": "Moonroof<br>, Emergency Assistance Kit[installed_msrp], Paint Protection Film - <br>Hood, Fenders, Mirror Backs and Door Cups[installed_msrp], Integrated Dashcam[installed_msrp], Premium Paint Charge, TRD Sport Upgrade Package, Tailgate Insert - Black[installed_msrp], 50 State Emissions, Door Panel Scuff Protectors[installed_msrp], Mud Guards, Body Side Molding[installed_msrp], Ball Mount, Audio Multimedia Upgrade, Owner's Portfolio, Quick Charging Cable Package[installed_msrp]",
+    "created_at": "2024-02-07 11:27:42"
   },
   {
-    "dealer": "14044",
-    "vin": "3TYLB5JN6RT000288",
+    "dealer": "24073",
+    "vin": "3TYLD5KN3RT000029",
     "year": "2024",
     "vehicle": "tacoma",
-    "model": "SR5",
+    "model": "SR",
     "enginge": "i-FORCE 2.4L Turbocharged Engine",
     "transmission": "8-Speed Automatic Transmission",
     "drivetrain": "4-Wheel Drive",
     "cab": "Double Cab",
     "bed": "5-ft bed",
-    "color": "Supersonic Red [extra_cost_color]",
+    "color": "Celestial Silver Metallic",
     "interior": "Black Fabric",
-    "base_msrp": "40400",
-    "total_msrp": "46370.0",
+    "base_msrp": "36900",
+    "total_msrp": "38723.0",
     "availability_date": null,
-    "total_packages": 10,
-    "packages": "50 State Emissions, Premium Paint Charge, Quick Charging Cable Package[installed_msrp], Body Side Molding[installed_msrp], Door Edge Guards[installed_msrp], SR5 Upgrade + Cold Weather Package, Ball Mount, Deck Rail + Cleats, Door Panel Scuff Protectors[installed_msrp], Owner's Portfolio",
-    "created_at": "2024-02-06 11:27:56"
+    "total_packages": 3,
+    "packages": "All-Weather Floor Liners and Door Sill Protectors[installed_msrp], Ball Mount, 50 State Emissions",
+    "created_at": "2024-02-07 11:28:17"
   },
   {
     "dealer": "24077",
@@ -456,8 +536,8 @@
     "total_msrp": "39298.0",
     "availability_date": null,
     "total_packages": 4,
-    "packages": "Ball Mount, 50 State Emissions, All-Weather Floor Liners and Door Sill Protectors[installed_msrp], Spray On Bedliner[installed_msrp]",
-    "created_at": "2024-02-06 11:28:32"
+    "packages": "Spray On Bedliner[installed_msrp], Ball Mount, 50 State Emissions, All-Weather Floor Liners and Door Sill Protectors[installed_msrp]",
+    "created_at": "2024-02-07 11:28:19"
   },
   {
     "dealer": "12112",
@@ -476,8 +556,8 @@
     "total_msrp": "53335.0",
     "availability_date": null,
     "total_packages": 4,
-    "packages": "TRD Off-Road Premium Package<br>, Premium Paint Charge, Door Edge Guards[installed_msrp], 50 State Emissions",
-    "created_at": "2024-02-06 11:28:32"
+    "packages": "Premium Paint Charge, 50 State Emissions, Door Edge Guards[installed_msrp], TRD Off-Road Premium Package<br>",
+    "created_at": "2024-02-07 11:28:19"
   },
   {
     "dealer": "01064",
@@ -497,7 +577,7 @@
     "availability_date": "Now",
     "total_packages": 12,
     "packages": "SR5 Upgrade Package + Cold Weather Package, Predator Drop Step, TOYOGUARD Platinum [set_global_lio_disclaimer], Carpeted Floor Mats, Clear Paint Protection - Door Package [set_global_lio_disclaimer], Exhaust Tip - Black Chrome, Multimedia Screen Protector [set_global_lio_disclaimer], Phone Cable Charge Package [set_global_lio_disclaimer], Deck Rail and Cleats, 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-02-06 11:28:45"
+    "created_at": "2024-02-07 11:28:30"
   },
   {
     "dealer": "01084",
@@ -517,7 +597,7 @@
     "availability_date": "Now",
     "total_packages": 7,
     "packages": "Special Color, All Weather Floor Liners, Clear Paint Protection - Door Package [set_global_lio_disclaimer], Deck Rail and Cleats, 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-02-06 11:28:48"
+    "created_at": "2024-02-07 11:28:32"
   },
   {
     "dealer": "01082",
@@ -537,7 +617,7 @@
     "availability_date": "Now",
     "total_packages": 10,
     "packages": "Audio Multimedia Upgrade - includes, TOYOGUARD Platinum [set_global_lio_disclaimer], Special Color, All Weather Floor Mats [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], Phone Cable Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Sport Package:, SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-02-06 11:28:50"
+    "created_at": "2024-02-07 11:28:33"
   },
   {
     "dealer": "10118",
@@ -554,10 +634,10 @@
     "interior": "Black Fabric",
     "base_msrp": "37200",
     "total_msrp": "47313.0",
-    "availability_date": "02/08/2024",
+    "availability_date": "Now",
     "total_packages": 15,
     "packages": "SR5 Upgrade + Cold Weather Package, Predator Drop Step, Paint Protection Film - Hood & Door Package [set_global_lio_disclaimer], TOYOGUARD Platinum [set_global_lio_disclaimer], Dashcam [set_global_lio_disclaimer], Bed Step (Non-Powered), Carpeted Floor Mats, Exhaust Tip - Black Chrome, Multimedia Screen Protector [set_global_lio_disclaimer], Ball Mount with Trailer Ball [set_global_lio_disclaimer], Phone Cable Charge Package [set_global_lio_disclaimer], Deck Rail and Cleats, 6-Gallons of Gas [set_global_lio_disclaimer], Southeast Toyota Distributor [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-02-06 11:28:54"
+    "created_at": "2024-02-07 11:28:38"
   },
   {
     "dealer": "10134",
@@ -577,7 +657,7 @@
     "availability_date": "Now",
     "total_packages": 13,
     "packages": "SR5 Upgrade Package (Double Cab) - includi, Predator Drop Step, TOYOGUARD Platinum [set_global_lio_disclaimer], Carpeted Floor Mats, Clear Paint Protection - Door Package [set_global_lio_disclaimer], Exhaust Tip - Black Chrome, Multimedia Screen Protector [set_global_lio_disclaimer], Ball Mount with Trailer Ball [set_global_lio_disclaimer], Phone Cable Charge Package [set_global_lio_disclaimer], Deck Rail and Cleats, 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-02-06 11:28:55"
+    "created_at": "2024-02-07 11:28:39"
   },
   {
     "dealer": "10015",
@@ -597,7 +677,7 @@
     "availability_date": "Now",
     "total_packages": 9,
     "packages": "Paint Protection Film - Hood & Door Package [set_global_lio_disclaimer], TOYOGUARD Platinum [set_global_lio_disclaimer], All Weather Floor Liners, Multimedia Screen Protector [set_global_lio_disclaimer], Phone Cable Charge Package [set_global_lio_disclaimer], Deck Rail and Cleats, 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-02-06 11:29:01"
+    "created_at": "2024-02-07 11:28:43"
   },
   {
     "dealer": "10124",
@@ -614,10 +694,10 @@
     "interior": "Black SofTex",
     "base_msrp": "52100",
     "total_msrp": "56319.0",
-    "availability_date": "02/07/2024",
+    "availability_date": "02/08/2024",
     "total_packages": 8,
     "packages": "Paint Protection Film - Hood & Door Package [set_global_lio_disclaimer], TOYOGUARD Platinum [set_global_lio_disclaimer], Bed Step (Non-Powered), Phone Cable Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], Limited Package, SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-02-06 11:29:01"
+    "created_at": "2024-02-07 11:28:44"
   },
   {
     "dealer": "10130",
@@ -637,7 +717,7 @@
     "availability_date": "Now",
     "total_packages": 8,
     "packages": "Paint Protection Film - Hood & Door Package [set_global_lio_disclaimer], TOYOGUARD Platinum [set_global_lio_disclaimer], All Weather Floor Liners, Phone Cable Charge Package [set_global_lio_disclaimer], Deck Rail and Cleats, 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-02-06 11:29:02"
+    "created_at": "2024-02-07 11:28:44"
   },
   {
     "dealer": "39055",
@@ -657,7 +737,7 @@
     "availability_date": "Now",
     "total_packages": 8,
     "packages": "TOYOGUARD Platinum [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], Carpeted Floor Mats, Phone Cable Charge Package [set_global_lio_disclaimer], Deck Rail and Cleats, 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-02-06 11:29:07"
+    "created_at": "2024-02-07 11:28:48"
   },
   {
     "dealer": "39055",
@@ -674,10 +754,10 @@
     "interior": "Boulder Fabric",
     "base_msrp": "40400",
     "total_msrp": "44657.0",
-    "availability_date": "02/07/2024",
+    "availability_date": "Now",
     "total_packages": 10,
     "packages": "Paint Protection Film - Hood & Door Package [set_global_lio_disclaimer], TOYOGUARD Platinum [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], Gloss Black Overlays and Tailgate Insert Package [set_global_lio_disclaimer], Multimedia Screen Protector [set_global_lio_disclaimer], Phone Cable Charge Package [set_global_lio_disclaimer], Deck Rail and Cleats, 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-02-06 11:29:07"
+    "created_at": "2024-02-07 11:28:48"
   },
   {
     "dealer": "09208",
@@ -697,7 +777,7 @@
     "availability_date": "Now",
     "total_packages": 9,
     "packages": "SR5 Upgrade Package (XtraCab) - including, Predator Drop Step, TOYOGUARD Platinum [set_global_lio_disclaimer], Carpeted Floor Mats, Exhaust Tip - Black Chrome, Deck Rail and Cleats, 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-02-06 11:29:17"
+    "created_at": "2024-02-07 11:28:56"
   },
   {
     "dealer": "09241",
@@ -717,27 +797,7 @@
     "availability_date": "Now",
     "total_packages": 10,
     "packages": "SR5 Upgrade Package (XtraCab) - including, TOYOGUARD Platinum [set_global_lio_disclaimer], Dashcam [set_global_lio_disclaimer], Multimedia Screen Protector [set_global_lio_disclaimer], Ball Mount with Trailer Ball [set_global_lio_disclaimer], Phone Cable Charge Package [set_global_lio_disclaimer], Deck Rail and Cleats, 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-02-06 11:29:34"
-  },
-  {
-    "dealer": "09196",
-    "vin": "3TYKE5JNXRT001043",
-    "year": "2024",
-    "vehicle": "tacoma",
-    "model": "SR",
-    "enginge": "i-FORCE 2.4L Turbocharged Engine",
-    "transmission": "6-Speed Manual Transmission",
-    "drivetrain": "4-Wheel Drive",
-    "cab": "Double Cab",
-    "bed": "5-ft bed",
-    "color": "Celestial Silver Metallic",
-    "interior": "Black Fabric",
-    "base_msrp": "36900",
-    "total_msrp": "39703.0",
-    "availability_date": "Now",
-    "total_packages": 5,
-    "packages": "All Weather Floor Liners, Deck Rail and Cleats, 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-02-06 11:29:36"
+    "created_at": "2024-02-07 11:29:10"
   },
   {
     "dealer": "09126",
@@ -753,11 +813,11 @@
     "color": "Underground",
     "interior": "Black Fabric",
     "base_msrp": "37700",
-    "total_msrp": "43683.0",
+    "total_msrp": "44282.0",
     "availability_date": "Now",
     "total_packages": 8,
-    "packages": "SR5 Upgrade Package (Double Cab) - includi, Carpeted Floor Mats, Phone Cable Charge Package [set_global_lio_disclaimer], Deck Rail and Cleats, 6-Gallons of Gas [set_global_lio_disclaimer], Long Bed, Southeast Toyota Distributor [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-02-06 11:29:41"
+    "packages": "SR5 Upgrade Package (Double Cab) - includi, Long Bed, Carpeted Floor Mats, Phone Cable Charge Package [set_global_lio_disclaimer], Deck Rail and Cleats, 6-Gallons of Gas [set_global_lio_disclaimer], Southeast Toyota Distributor [set_global_lio_disclaimer], 50 State Emissions",
+    "created_at": "2024-02-07 11:29:17"
   },
   {
     "dealer": "09228",
@@ -777,7 +837,7 @@
     "availability_date": "Now",
     "total_packages": 9,
     "packages": "SR5 Upgrade Package (XtraCab) - including, TOYOGUARD Platinum [set_global_lio_disclaimer], Carpet Floor Mats [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], Multimedia Screen Protector [set_global_lio_disclaimer], Deck Rail and Cleats, 6-Gallons of Gas [set_global_lio_disclaimer], Southeast Toyota Distributor [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-02-06 11:29:43"
+    "created_at": "2024-02-07 11:29:18"
   },
   {
     "dealer": "32001",
@@ -797,27 +857,7 @@
     "availability_date": "Now",
     "total_packages": 13,
     "packages": "SR5 Upgrade Package + Cold Weather Package, Predator Drop Step, TOYOGUARD Platinum [set_global_lio_disclaimer], Dashcam [set_global_lio_disclaimer], Carpeted Floor Mats, Exhaust Tip - Black Chrome, Multimedia Screen Protector [set_global_lio_disclaimer], Ball Mount with Trailer Ball [set_global_lio_disclaimer], Phone Cable Charge Package [set_global_lio_disclaimer], Deck Rail and Cleats, 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-02-06 11:29:45"
-  },
-  {
-    "dealer": "32142",
-    "vin": "3TYLB5JN1RT000330",
-    "year": "2024",
-    "vehicle": "tacoma",
-    "model": "trdoffroad",
-    "enginge": "i-FORCE 2.4L Turbocharged Engine",
-    "transmission": "8-Speed Automatic Transmission",
-    "drivetrain": "4-Wheel Drive",
-    "cab": "Double Cab",
-    "bed": "5-ft bed",
-    "color": "Supersonic Red [extra_cost_color]",
-    "interior": "Black SofTex",
-    "base_msrp": "42900",
-    "total_msrp": "56303.0",
-    "availability_date": "Now",
-    "total_packages": 11,
-    "packages": "TRD Off-Road Premium Package (5ft bed) - i, TOYOGUARD Platinum [set_global_lio_disclaimer], Dashcam [set_global_lio_disclaimer], Special Color, All Weather Floor Mats [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], Ball Mount with Trailer Ball [set_global_lio_disclaimer], Phone Cable Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-02-06 11:29:46"
+    "created_at": "2024-02-07 11:29:19"
   },
   {
     "dealer": "32121",
@@ -834,10 +874,10 @@
     "interior": "Boulder Fabric",
     "base_msrp": "40400",
     "total_msrp": "46054.0",
-    "availability_date": "02/07/2024",
+    "availability_date": "Now",
     "total_packages": 13,
     "packages": "Predator Drop Step, TOYOGUARD Platinum [set_global_lio_disclaimer], Bed Step (Non-Powered), Carpeted Floor Mats, Gloss Black Overlays and Tailgate Insert Package [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], Exhaust Tip - Black Chrome, Multimedia Screen Protector [set_global_lio_disclaimer], Phone Cable Charge Package [set_global_lio_disclaimer], Deck Rail and Cleats, 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-02-06 11:29:47"
+    "created_at": "2024-02-07 11:29:20"
   },
   {
     "dealer": "32145",
@@ -857,7 +897,7 @@
     "availability_date": "Now",
     "total_packages": 9,
     "packages": "SR5 Upgrade Package (Double Cab) - includi, Predator Drop Step, TOYOGUARD Platinum [set_global_lio_disclaimer], Carpeted Floor Mats, Exhaust Tip - Black Chrome, Deck Rail and Cleats, 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-02-06 11:29:49"
+    "created_at": "2024-02-07 11:29:22"
   },
   {
     "dealer": "32115",
@@ -877,7 +917,7 @@
     "availability_date": "Now",
     "total_packages": 10,
     "packages": "SR5 Upgrade Package (XtraCab) - including, TOYOGUARD Platinum [set_global_lio_disclaimer], Dashcam [set_global_lio_disclaimer], Bed Step (Non-Powered), Multimedia Screen Protector [set_global_lio_disclaimer], Phone Cable Charge Package [set_global_lio_disclaimer], Deck Rail and Cleats, 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-02-06 11:29:53"
+    "created_at": "2024-02-07 11:29:26"
   },
   {
     "dealer": "32125",
@@ -897,7 +937,7 @@
     "availability_date": "Now",
     "total_packages": 13,
     "packages": "SR5 Upgrade Package (Double Cab) - includi, Predator Drop Step, TOYOGUARD Platinum [set_global_lio_disclaimer], Dashcam [set_global_lio_disclaimer], Carpeted Floor Mats, Clear Paint Protection - Door Package [set_global_lio_disclaimer], Exhaust Tip - Black Chrome, Ball Mount with Trailer Ball [set_global_lio_disclaimer], Phone Cable Charge Package [set_global_lio_disclaimer], Deck Rail and Cleats, 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-02-06 11:29:54"
+    "created_at": "2024-02-07 11:29:27"
   },
   {
     "dealer": "32139",
@@ -914,10 +954,10 @@
     "interior": "Boulder Fabric",
     "base_msrp": "40400",
     "total_msrp": "46425.0",
-    "availability_date": "02/07/2024",
+    "availability_date": "Now",
     "total_packages": 12,
     "packages": "Predator Drop Step, Paint Protection Film - Hood & Door Package [set_global_lio_disclaimer], TOYOGUARD Platinum [set_global_lio_disclaimer], Dashcam [set_global_lio_disclaimer], Carpeted Floor Mats, Gloss Black Overlays and Tailgate Insert Package [set_global_lio_disclaimer], Exhaust Tip - Black Chrome, Phone Cable Charge Package [set_global_lio_disclaimer], Deck Rail and Cleats, 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-02-06 11:29:55"
+    "created_at": "2024-02-07 11:29:27"
   },
   {
     "dealer": "39058",
@@ -937,7 +977,7 @@
     "availability_date": "Now",
     "total_packages": 11,
     "packages": "TOYOGUARD Platinum [set_global_lio_disclaimer], Dashcam [set_global_lio_disclaimer], Bed Step (Non-Powered), All Weather Floor Mats [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], Ball Mount with Trailer Ball [set_global_lio_disclaimer], Phone Cable Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], Limited Package, SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-02-06 11:29:55"
+    "created_at": "2024-02-07 11:29:28"
   },
   {
     "dealer": "32076",
@@ -957,7 +997,7 @@
     "availability_date": "Now",
     "total_packages": 8,
     "packages": "SR Upgrade Package - includes Smark Key (d, TOYOGUARD Platinum [set_global_lio_disclaimer], All Weather Floor Liners, Multimedia Screen Protector [set_global_lio_disclaimer], Phone Cable Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-02-06 11:29:56"
+    "created_at": "2024-02-07 11:29:28"
   },
   {
     "dealer": "32148",
@@ -977,7 +1017,7 @@
     "availability_date": "Now",
     "total_packages": 8,
     "packages": "SR Upgrade Package - includes Smark Key (d, Paint Protection Film - Hood & Door Package [set_global_lio_disclaimer], TOYOGUARD Platinum [set_global_lio_disclaimer], All Weather Floor Liners, Phone Cable Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-02-06 11:29:59"
+    "created_at": "2024-02-07 11:29:30"
   },
   {
     "dealer": "32148",
@@ -993,11 +1033,11 @@
     "color": "Ice Cap",
     "interior": "Black Fabric",
     "base_msrp": "40900",
-    "total_msrp": "46996.0",
-    "availability_date": "02/07/2024",
+    "total_msrp": "47595.0",
+    "availability_date": "Now",
     "total_packages": 8,
-    "packages": "SR5 Upgrade Package (Double Cab) - includi, Paint Protection Film - Hood & Door Package [set_global_lio_disclaimer], Phone Cable Charge Package [set_global_lio_disclaimer], Deck Rail and Cleats, 6-Gallons of Gas [set_global_lio_disclaimer], Long Bed, SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-02-06 11:29:59"
+    "packages": "SR5 Upgrade Package (Double Cab) - includi, Paint Protection Film - Hood & Door Package [set_global_lio_disclaimer], Long Bed, Phone Cable Charge Package [set_global_lio_disclaimer], Deck Rail and Cleats, 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
+    "created_at": "2024-02-07 11:29:30"
   },
   {
     "dealer": "39049",
@@ -1017,7 +1057,7 @@
     "availability_date": "Now",
     "total_packages": 11,
     "packages": "SR5 Upgrade Package (XtraCab) - including, TOYOGUARD Platinum [set_global_lio_disclaimer], Dashcam [set_global_lio_disclaimer], Special Color, Multimedia Screen Protector [set_global_lio_disclaimer], Ball Mount with Trailer Ball [set_global_lio_disclaimer], Phone Cable Charge Package [set_global_lio_disclaimer], Deck Rail and Cleats, 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-02-06 11:30:01"
+    "created_at": "2024-02-07 11:29:32"
   },
   {
     "dealer": "39028",
@@ -1037,7 +1077,7 @@
     "availability_date": "Now",
     "total_packages": 10,
     "packages": "SR5 Upgrade Package (XtraCab) - including, Paint Protection Film - Hood & Door Package [set_global_lio_disclaimer], TOYOGUARD Platinum [set_global_lio_disclaimer], Dashcam [set_global_lio_disclaimer], Multimedia Screen Protector [set_global_lio_disclaimer], Phone Cable Charge Package [set_global_lio_disclaimer], Deck Rail and Cleats, 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-02-06 11:30:07"
+    "created_at": "2024-02-07 11:29:38"
   },
   {
     "dealer": "16051",
@@ -1056,8 +1096,8 @@
     "total_msrp": "46873.0",
     "availability_date": null,
     "total_packages": 10,
-    "packages": "Deck Rail + Cleats, 50 State Emissions, SR5 Upgrade + Cold Weather Package, Tailgate Insert - Black[installed_msrp], Door Edge Guards[installed_msrp], Mud Guards, Door Panel Scuff Protectors[installed_msrp], Spray On Bedliner[installed_msrp], Emblem Overlays - Black[installed_msrp], Quick Charging Cable Package[installed_msrp]",
-    "created_at": "2024-02-06 11:30:12"
+    "packages": "50 State Emissions, Door Edge Guards[installed_msrp], Mud Guards, Quick Charging Cable Package[installed_msrp], Spray On Bedliner[installed_msrp], Emblem Overlays - Black[installed_msrp], Door Panel Scuff Protectors[installed_msrp], SR5 Upgrade + Cold Weather Package, Tailgate Insert - Black[installed_msrp], Deck Rail + Cleats",
+    "created_at": "2024-02-07 11:29:43"
   },
   {
     "dealer": "13054",
@@ -1076,8 +1116,8 @@
     "total_msrp": "42550.0",
     "availability_date": null,
     "total_packages": 3,
-    "packages": "Deck Rail + Cleats, 50 State Emissions, Heated Seats",
-    "created_at": "2024-02-06 11:30:15"
+    "packages": "50 State Emissions, Heated Seats, Deck Rail + Cleats",
+    "created_at": "2024-02-07 11:29:45"
   },
   {
     "dealer": "13054",
@@ -1096,12 +1136,12 @@
     "total_msrp": "46023.0",
     "availability_date": null,
     "total_packages": 5,
-    "packages": "SR5 Upgrade + Cold Weather Package, All-Weather Floor Liners and Door Sill Protectors[installed_msrp], 50 State Emissions, Deck Rail + Cleats, Mud Guards",
-    "created_at": "2024-02-06 11:30:15"
+    "packages": "SR5 Upgrade + Cold Weather Package, 50 State Emissions, Mud Guards, All-Weather Floor Liners and Door Sill Protectors[installed_msrp], Deck Rail + Cleats",
+    "created_at": "2024-02-07 11:29:45"
   },
   {
     "dealer": "16049",
-    "vin": "3TYLB5JN9RT000852",
+    "vin": "3TYLB5JN2RT004399",
     "year": "2024",
     "vehicle": "tacoma",
     "model": "trdsport",
@@ -1110,14 +1150,34 @@
     "drivetrain": "4-Wheel Drive",
     "cab": "Double Cab",
     "bed": "5-ft bed",
-    "color": "Black",
+    "color": "Underground",
     "interior": "Boulder/Black Fabric w/ Smoke Silver",
     "base_msrp": "42600",
-    "total_msrp": "51473.0",
+    "total_msrp": "49845.0",
     "availability_date": null,
-    "total_packages": 11,
-    "packages": "50 State Emissions, Door Edge Guards[installed_msrp], Emblem Overlays - Black[installed_msrp], Quick Charging Cable Package[installed_msrp], Mud Guards, TRD Sport Upgrade Package, Door Panel Scuff Protectors[installed_msrp], Spray On Bedliner[installed_msrp], Tailgate Insert - Black[installed_msrp], Moonroof<br>, Audio Multimedia Upgrade",
-    "created_at": "2024-02-06 11:30:16"
+    "total_packages": 6,
+    "packages": "TRD Sport Upgrade Package, Door Edge Guards[installed_msrp], 50 State Emissions, Body Side Molding[installed_msrp], Audio Multimedia Upgrade, Owner's Portfolio",
+    "created_at": "2024-02-07 11:29:46"
+  },
+  {
+    "dealer": "16049",
+    "vin": "3TYLB5JN1RT004040",
+    "year": "2024",
+    "vehicle": "tacoma",
+    "model": "trdsport",
+    "enginge": "i-FORCE 2.4L Turbocharged Engine",
+    "transmission": "8-Speed Automatic Transmission",
+    "drivetrain": "4-Wheel Drive",
+    "cab": "Double Cab",
+    "bed": "5-ft bed",
+    "color": "Underground",
+    "interior": "Black SofTex",
+    "base_msrp": "42600",
+    "total_msrp": "52855.0",
+    "availability_date": null,
+    "total_packages": 4,
+    "packages": "TRD Sport Premium Package<br>, Door Edge Guards[installed_msrp], 50 State Emissions, Quick Charging Cable Package[installed_msrp]",
+    "created_at": "2024-02-07 11:29:46"
   },
   {
     "dealer": "41052",
@@ -1136,8 +1196,8 @@
     "total_msrp": "44724.0",
     "availability_date": null,
     "total_packages": 10,
-    "packages": "Emergency Assistance Kit[installed_msrp], Owner's Portfolio, Quick Charging Cable Package[installed_msrp], 50 State Emissions, Integrated Dashcam[installed_msrp], Front &amp; Rear Stabilizer, Heated Seats, TRD Off-Road Package, Door Edge Guards[installed_msrp], Mud Guards",
-    "created_at": "2024-02-06 11:30:19"
+    "packages": "Quick Charging Cable Package[installed_msrp], Heated Seats, 50 State Emissions, Emergency Assistance Kit[installed_msrp], Owner's Portfolio, Mud Guards, TRD Off-Road Package, Door Edge Guards[installed_msrp], Front &amp; Rear Stabilizer, Integrated Dashcam[installed_msrp]",
+    "created_at": "2024-02-07 11:29:48"
   },
   {
     "dealer": "34073",
@@ -1156,8 +1216,8 @@
     "total_msrp": "47082.0",
     "availability_date": null,
     "total_packages": 9,
-    "packages": "Mud Guards, All-Weather Floor Liners and Door Sill Protectors[installed_msrp], Deck Rail + Cleats, Exhaust Tip - Dark Chrome[installed_msrp], Tailgate Insert - Black[installed_msrp], Predator Tube Steps[installed_msrp], SR5 Upgrade + Cold Weather Package, Door Edge Guards[installed_msrp], 50 State Emissions",
-    "created_at": "2024-02-06 11:30:23"
+    "packages": "50 State Emissions, SR5 Upgrade + Cold Weather Package, Mud Guards, Deck Rail + Cleats, Door Edge Guards[installed_msrp], All-Weather Floor Liners and Door Sill Protectors[installed_msrp], Predator Tube Steps[installed_msrp], Exhaust Tip - Dark Chrome[installed_msrp], Tailgate Insert - Black[installed_msrp]",
+    "created_at": "2024-02-07 11:29:51"
   },
   {
     "dealer": "16065",
@@ -1176,8 +1236,8 @@
     "total_msrp": "39404.0",
     "availability_date": null,
     "total_packages": 8,
-    "packages": "Tailgate Insert - Black[installed_msrp], 50 State Emissions, Quick Charging Cable Package[installed_msrp], Spray On Bedliner[installed_msrp], Owner's Portfolio, Mud Guards, Door Panel Scuff Protectors[installed_msrp], Deck Rail + Cleats",
-    "created_at": "2024-02-06 11:30:23"
+    "packages": "Tailgate Insert - Black[installed_msrp], 50 State Emissions, Owner's Portfolio, Mud Guards, Quick Charging Cable Package[installed_msrp], Door Panel Scuff Protectors[installed_msrp], Spray On Bedliner[installed_msrp], Deck Rail + Cleats",
+    "created_at": "2024-02-07 11:29:51"
   },
   {
     "dealer": "47028",
@@ -1196,8 +1256,8 @@
     "total_msrp": "53865.0",
     "availability_date": null,
     "total_packages": 6,
-    "packages": "Limited Package, 50 State Emissions, Owner's Portfolio, Mud Guards, Door Edge Guards[installed_msrp], Quick Charging Cable Package[installed_msrp]",
-    "created_at": "2024-02-06 11:30:23"
+    "packages": "Door Edge Guards[installed_msrp], 50 State Emissions, Mud Guards, Quick Charging Cable Package[installed_msrp], Owner's Portfolio, Limited Package",
+    "created_at": "2024-02-07 11:29:52"
   },
   {
     "dealer": "47033",
@@ -1216,8 +1276,8 @@
     "total_msrp": "46173.0",
     "availability_date": null,
     "total_packages": 7,
-    "packages": "Quick Charging Cable Package[installed_msrp], SR5 Upgrade + Cold Weather Package, All-Weather Floor Liners and Door Sill Protectors[installed_msrp], 50 State Emissions, Door Edge Guards[installed_msrp], Owner's Portfolio, Deck Rail + Cleats",
-    "created_at": "2024-02-06 11:30:25"
+    "packages": "All-Weather Floor Liners and Door Sill Protectors[installed_msrp], SR5 Upgrade + Cold Weather Package, Deck Rail + Cleats, Door Edge Guards[installed_msrp], Owner's Portfolio, 50 State Emissions, Quick Charging Cable Package[installed_msrp]",
+    "created_at": "2024-02-07 11:29:53"
   },
   {
     "dealer": "16062",
@@ -1236,8 +1296,8 @@
     "total_msrp": "38783.0",
     "availability_date": null,
     "total_packages": 5,
-    "packages": "Owner's Portfolio, Mud Guards, Deck Rail + Cleats, All-Weather Floor Liners and Door Sill Protectors[installed_msrp], 50 State Emissions",
-    "created_at": "2024-02-06 11:30:26"
+    "packages": "Mud Guards, All-Weather Floor Liners and Door Sill Protectors[installed_msrp], Deck Rail + Cleats, 50 State Emissions, Owner's Portfolio",
+    "created_at": "2024-02-07 11:29:53"
   },
   {
     "dealer": "41062",
@@ -1256,8 +1316,8 @@
     "total_msrp": "46522.0",
     "availability_date": null,
     "total_packages": 7,
-    "packages": "SR5 Upgrade + Cold Weather Package, 50 State Emissions, All-Weather Floor Liners and Door Sill Protectors[installed_msrp], Deck Rail + Cleats, Premium Paint Charge, Integrated Dashcam[installed_msrp], Mud Guards",
-    "created_at": "2024-02-06 11:30:33"
+    "packages": "SR5 Upgrade + Cold Weather Package, Mud Guards, All-Weather Floor Liners and Door Sill Protectors[installed_msrp], Integrated Dashcam[installed_msrp], Deck Rail + Cleats, 50 State Emissions, Premium Paint Charge",
+    "created_at": "2024-02-07 11:29:59"
   },
   {
     "dealer": "41021",
@@ -1276,8 +1336,8 @@
     "total_msrp": "42750.0",
     "availability_date": null,
     "total_packages": 5,
-    "packages": "Deck Rail + Cleats, Mud Guards, 50 State Emissions, Door Edge Guards[installed_msrp], Heated Seats",
-    "created_at": "2024-02-06 11:30:33"
+    "packages": "50 State Emissions, Heated Seats, Door Edge Guards[installed_msrp], Mud Guards, Deck Rail + Cleats",
+    "created_at": "2024-02-07 11:29:59"
   },
   {
     "dealer": "41079",
@@ -1296,8 +1356,8 @@
     "total_msrp": "46774.0",
     "availability_date": null,
     "total_packages": 10,
-    "packages": "Emblem Overlays - Black[installed_msrp], Owner's Portfolio, Door Edge Guards[installed_msrp], Mud Guards, Deck Rail + Cleats, SR5 Upgrade + Cold Weather Package, Spray On Bedliner[installed_msrp], Door Panel Scuff Protectors[installed_msrp], Quick Charging Cable Package[installed_msrp], 50 State Emissions",
-    "created_at": "2024-02-06 11:30:33"
+    "packages": "SR5 Upgrade + Cold Weather Package, Door Panel Scuff Protectors[installed_msrp], Quick Charging Cable Package[installed_msrp], Emblem Overlays - Black[installed_msrp], Spray On Bedliner[installed_msrp], Deck Rail + Cleats, Door Edge Guards[installed_msrp], Owner's Portfolio, Mud Guards, 50 State Emissions",
+    "created_at": "2024-02-07 11:30:00"
   },
   {
     "dealer": "41057",
@@ -1316,8 +1376,8 @@
     "total_msrp": "56883.0",
     "availability_date": null,
     "total_packages": 12,
-    "packages": "BedStep®[installed_msrp], TRD 18-in Black Wheel[installed_msrp], Door Panel Scuff Protectors[installed_msrp], Spray On Bedliner[installed_msrp], Emblem Overlays - Black[installed_msrp], Door Edge Guards[installed_msrp], Limited Package, Owner's Portfolio, Mud Guards, 50 State Emissions, Paint Protection Film - <br>Hood, Fenders, Mirror Backs and Door Cups[installed_msrp], Quick Charging Cable Package[installed_msrp]",
-    "created_at": "2024-02-06 11:30:34"
+    "packages": "Mud Guards, Limited Package, Paint Protection Film - <br>Hood, Fenders, Mirror Backs and Door Cups[installed_msrp], Quick Charging Cable Package[installed_msrp], Spray On Bedliner[installed_msrp], TRD 18-in Black Wheel[installed_msrp], BedStep®[installed_msrp], Door Edge Guards[installed_msrp], Owner's Portfolio, 50 State Emissions, Door Panel Scuff Protectors[installed_msrp], Emblem Overlays - Black[installed_msrp]",
+    "created_at": "2024-02-07 11:30:01"
   },
   {
     "dealer": "41001",
@@ -1336,8 +1396,8 @@
     "total_msrp": "47283.0",
     "availability_date": null,
     "total_packages": 11,
-    "packages": "Deck Rail + Cleats, 50 State Emissions, Body Side Molding[installed_msrp], Door Edge Guards[installed_msrp], Bed Mat<br>[installed_msrp], Owner's Portfolio, Quick Charging Cable Package[installed_msrp], Tube Steps - Black<br><br>[installed_msrp], Mud Guards, All-Weather Floor Liners and Door Sill Protectors[installed_msrp], SR5 Upgrade + Cold Weather Package",
-    "created_at": "2024-02-06 11:30:34"
+    "packages": "All-Weather Floor Liners and Door Sill Protectors[installed_msrp], Quick Charging Cable Package[installed_msrp], 50 State Emissions, Bed Mat<br>[installed_msrp], Body Side Molding[installed_msrp], Tube Steps - Black<br><br>[installed_msrp], Door Edge Guards[installed_msrp], Deck Rail + Cleats, Owner's Portfolio, Mud Guards, SR5 Upgrade + Cold Weather Package",
+    "created_at": "2024-02-07 11:30:01"
   },
   {
     "dealer": "41082",
@@ -1356,8 +1416,8 @@
     "total_msrp": "43443.0",
     "availability_date": null,
     "total_packages": 6,
-    "packages": "Heated Seats, Deck Rail + Cleats, Spray On Bedliner[installed_msrp], All-Weather Floor Liners and Door Sill Protectors[installed_msrp], 50 State Emissions, Mud Guards",
-    "created_at": "2024-02-06 11:30:35"
+    "packages": "Mud Guards, All-Weather Floor Liners and Door Sill Protectors[installed_msrp], 50 State Emissions, Spray On Bedliner[installed_msrp], Heated Seats, Deck Rail + Cleats",
+    "created_at": "2024-02-07 11:30:02"
   },
   {
     "dealer": "41082",
@@ -1376,28 +1436,8 @@
     "total_msrp": "50940.0",
     "availability_date": null,
     "total_packages": 6,
-    "packages": "Audio Multimedia Upgrade, Spray On Bedliner[installed_msrp], 50 State Emissions, TRD Sport Upgrade Package, Mud Guards, Moonroof<br>",
-    "created_at": "2024-02-06 11:30:35"
-  },
-  {
-    "dealer": "41060",
-    "vin": "3TYLB5JN6RT003580",
-    "year": "2024",
-    "vehicle": "tacoma",
-    "model": "SR5",
-    "enginge": "i-FORCE 2.4L Turbocharged Engine",
-    "transmission": "8-Speed Automatic Transmission",
-    "drivetrain": "4-Wheel Drive",
-    "cab": "Double Cab",
-    "bed": "5-ft bed",
-    "color": "Ice Cap",
-    "interior": "Black Fabric",
-    "base_msrp": "40400",
-    "total_msrp": "46023.0",
-    "availability_date": null,
-    "total_packages": 6,
-    "packages": "Owner's Portfolio, 50 State Emissions, SR5 Upgrade + Cold Weather Package, Mud Guards, All-Weather Floor Liners and Door Sill Protectors[installed_msrp], Deck Rail + Cleats",
-    "created_at": "2024-02-06 11:30:36"
+    "packages": "Mud Guards, Spray On Bedliner[installed_msrp], TRD Sport Upgrade Package, 50 State Emissions, Moonroof<br>, Audio Multimedia Upgrade",
+    "created_at": "2024-02-07 11:30:02"
   },
   {
     "dealer": "41060",
@@ -1416,28 +1456,28 @@
     "total_msrp": "46023.0",
     "availability_date": null,
     "total_packages": 6,
-    "packages": "Owner's Portfolio, 50 State Emissions, Mud Guards, Deck Rail + Cleats, All-Weather Floor Liners and Door Sill Protectors[installed_msrp], SR5 Upgrade + Cold Weather Package",
-    "created_at": "2024-02-06 11:30:36"
+    "packages": "Deck Rail + Cleats, Mud Guards, 50 State Emissions, SR5 Upgrade + Cold Weather Package, All-Weather Floor Liners and Door Sill Protectors[installed_msrp], Owner's Portfolio",
+    "created_at": "2024-02-07 11:30:04"
   },
   {
     "dealer": "41060",
-    "vin": "3TYLB5JN5RT003683",
+    "vin": "3TYLB5JN6RT003580",
     "year": "2024",
     "vehicle": "tacoma",
-    "model": "trdoffroad",
+    "model": "SR5",
     "enginge": "i-FORCE 2.4L Turbocharged Engine",
     "transmission": "8-Speed Automatic Transmission",
     "drivetrain": "4-Wheel Drive",
     "cab": "Double Cab",
     "bed": "5-ft bed",
-    "color": "Underground",
-    "interior": "Black SofTex",
-    "base_msrp": "42900",
-    "total_msrp": "53255.0",
+    "color": "Ice Cap",
+    "interior": "Black Fabric",
+    "base_msrp": "40400",
+    "total_msrp": "46023.0",
     "availability_date": null,
-    "total_packages": 4,
-    "packages": "Mud Guards, TRD Off-Road Premium Package<br>, Owner's Portfolio, 50 State Emissions",
-    "created_at": "2024-02-06 11:30:36"
+    "total_packages": 6,
+    "packages": "All-Weather Floor Liners and Door Sill Protectors[installed_msrp], Mud Guards, SR5 Upgrade + Cold Weather Package, Deck Rail + Cleats, Owner's Portfolio, 50 State Emissions",
+    "created_at": "2024-02-07 11:30:04"
   },
   {
     "dealer": "41086",
@@ -1456,8 +1496,8 @@
     "total_msrp": "46163.0",
     "availability_date": null,
     "total_packages": 6,
-    "packages": "SR5 Upgrade + Cold Weather Package, Door Edge Guards[installed_msrp], 50 State Emissions, Mud Guards, All-Weather Floor Liners and Door Sill Protectors[installed_msrp], Deck Rail + Cleats",
-    "created_at": "2024-02-06 11:30:37"
+    "packages": "Door Edge Guards[installed_msrp], All-Weather Floor Liners and Door Sill Protectors[installed_msrp], Deck Rail + Cleats, 50 State Emissions, Mud Guards, SR5 Upgrade + Cold Weather Package",
+    "created_at": "2024-02-07 11:30:05"
   },
   {
     "dealer": "41086",
@@ -1476,8 +1516,8 @@
     "total_msrp": "52845.0",
     "availability_date": null,
     "total_packages": 4,
-    "packages": "Mud Guards, Door Edge Guards[installed_msrp], TRD Sport Premium Package<br>, 50 State Emissions",
-    "created_at": "2024-02-06 11:30:37"
+    "packages": "Door Edge Guards[installed_msrp], TRD Sport Premium Package<br>, 50 State Emissions, Mud Guards",
+    "created_at": "2024-02-07 11:30:05"
   },
   {
     "dealer": "19045",
@@ -1496,8 +1536,8 @@
     "total_msrp": "54865.0",
     "availability_date": null,
     "total_packages": 8,
-    "packages": "Quick Charging Cable Package[installed_msrp], Spray On Bedliner[installed_msrp], 50 State Emissions, Limited Package, Owner's Portfolio, Door Edge Guards[installed_msrp], Premium Paint Charge, Mud Guards",
-    "created_at": "2024-02-06 11:30:42"
+    "packages": "Mud Guards, Spray On Bedliner[installed_msrp], Premium Paint Charge, Door Edge Guards[installed_msrp], 50 State Emissions, Quick Charging Cable Package[installed_msrp], Owner's Portfolio, Limited Package",
+    "created_at": "2024-02-07 11:30:09"
   },
   {
     "dealer": "19052",
@@ -1516,8 +1556,8 @@
     "total_msrp": "53954.0",
     "availability_date": null,
     "total_packages": 8,
-    "packages": "Tailgate Insert - Black[installed_msrp], Premium Paint Charge, 50 State Emissions, TRD Sport Premium Package<br>, Door Edge Guards[installed_msrp], Owner's Portfolio, Quick Charging Cable Package[installed_msrp], Spray On Bedliner[installed_msrp]",
-    "created_at": "2024-02-06 11:30:44"
+    "packages": "50 State Emissions, Owner's Portfolio, Door Edge Guards[installed_msrp], Quick Charging Cable Package[installed_msrp], Spray On Bedliner[installed_msrp], Premium Paint Charge, TRD Sport Premium Package<br>, Tailgate Insert - Black[installed_msrp]",
+    "created_at": "2024-02-07 11:30:10"
   },
   {
     "dealer": "19072",
@@ -1536,8 +1576,8 @@
     "total_msrp": "50218.0",
     "availability_date": null,
     "total_packages": 8,
-    "packages": "50 State Emissions, Door Panel Scuff Protectors[installed_msrp], Emblem Overlays - Black[installed_msrp], Audio Multimedia Upgrade, Owner's Portfolio, Tailgate Insert - Black[installed_msrp], TRD Off-Road Upgrade Package<br>, Door Edge Guards[installed_msrp]",
-    "created_at": "2024-02-06 11:30:56"
+    "packages": "Emblem Overlays - Black[installed_msrp], 50 State Emissions, Door Panel Scuff Protectors[installed_msrp], Tailgate Insert - Black[installed_msrp], Owner's Portfolio, TRD Off-Road Upgrade Package<br>, Audio Multimedia Upgrade, Door Edge Guards[installed_msrp]",
+    "created_at": "2024-02-07 11:30:22"
   },
   {
     "dealer": "19021",
@@ -1556,8 +1596,8 @@
     "total_msrp": "45963.0",
     "availability_date": null,
     "total_packages": 5,
-    "packages": "50 State Emissions, Deck Rail + Cleats, All-Weather Floor Liners and Door Sill Protectors[installed_msrp], SR5 Upgrade + Cold Weather Package, Owner's Portfolio",
-    "created_at": "2024-02-06 11:31:00"
+    "packages": "Owner's Portfolio, Deck Rail + Cleats, 50 State Emissions, SR5 Upgrade + Cold Weather Package, All-Weather Floor Liners and Door Sill Protectors[installed_msrp]",
+    "created_at": "2024-02-07 11:30:25"
   },
   {
     "dealer": "45030",
@@ -1576,8 +1616,8 @@
     "total_msrp": "46103.0",
     "availability_date": null,
     "total_packages": 5,
-    "packages": "Door Edge Guards[installed_msrp], 50 State Emissions, All-Weather Floor Liners and Door Sill Protectors[installed_msrp], SR5 Upgrade + Cold Weather Package, Deck Rail + Cleats",
-    "created_at": "2024-02-06 11:31:06"
+    "packages": "All-Weather Floor Liners and Door Sill Protectors[installed_msrp], 50 State Emissions, Deck Rail + Cleats, Door Edge Guards[installed_msrp], SR5 Upgrade + Cold Weather Package",
+    "created_at": "2024-02-07 11:30:30"
   },
   {
     "dealer": "45095",
@@ -1596,8 +1636,8 @@
     "total_msrp": "46603.0",
     "availability_date": null,
     "total_packages": 7,
-    "packages": "Emblem Overlays - Black[installed_msrp], Tailgate Insert - Black[installed_msrp], SR5 Upgrade + Cold Weather Package, 50 State Emissions, Door Panel Scuff Protectors[installed_msrp], Deck Rail + Cleats, Spray On Bedliner[installed_msrp]",
-    "created_at": "2024-02-06 11:31:10"
+    "packages": "Deck Rail + Cleats, Spray On Bedliner[installed_msrp], 50 State Emissions, Tailgate Insert - Black[installed_msrp], Emblem Overlays - Black[installed_msrp], SR5 Upgrade + Cold Weather Package, Door Panel Scuff Protectors[installed_msrp]",
+    "created_at": "2024-02-07 11:30:33"
   },
   {
     "dealer": "19075",
@@ -1616,8 +1656,8 @@
     "total_msrp": "54108.0",
     "availability_date": null,
     "total_packages": 9,
-    "packages": "Door Edge Guards[installed_msrp], Premium Paint Charge, Spray On Bedliner[installed_msrp], TRD Sport Premium Package<br>, Emblem Overlays - Black[installed_msrp], Door Panel Scuff Protectors[installed_msrp], 50 State Emissions, Tailgate Insert - Black[installed_msrp], Owner's Portfolio",
-    "created_at": "2024-02-06 11:31:10"
+    "packages": "TRD Sport Premium Package<br>, 50 State Emissions, Tailgate Insert - Black[installed_msrp], Door Edge Guards[installed_msrp], Spray On Bedliner[installed_msrp], Emblem Overlays - Black[installed_msrp], Door Panel Scuff Protectors[installed_msrp], Premium Paint Charge, Owner's Portfolio",
+    "created_at": "2024-02-07 11:30:34"
   },
   {
     "dealer": "45036",
@@ -1636,8 +1676,28 @@
     "total_msrp": "55358.0",
     "availability_date": null,
     "total_packages": 11,
-    "packages": "Paint Protection Film - <br>Hood, Fenders, Mirror Backs and Door Cups[installed_msrp], Emblem Overlays - Black[installed_msrp], Emergency Assistance Kit[installed_msrp], Door Edge Guards[installed_msrp], Owner's Portfolio, Limited Package, Body Side Molding[installed_msrp], Spray On Bedliner[installed_msrp], Mud Guards, Door Panel Scuff Protectors[installed_msrp], 50 State Emissions",
-    "created_at": "2024-02-06 11:31:13"
+    "packages": "Spray On Bedliner[installed_msrp], 50 State Emissions, Emergency Assistance Kit[installed_msrp], Mud Guards, Paint Protection Film - <br>Hood, Fenders, Mirror Backs and Door Cups[installed_msrp], Owner's Portfolio, Limited Package, Door Panel Scuff Protectors[installed_msrp], Door Edge Guards[installed_msrp], Body Side Molding[installed_msrp], Emblem Overlays - Black[installed_msrp]",
+    "created_at": "2024-02-07 11:30:36"
+  },
+  {
+    "dealer": "45045",
+    "vin": "3TYLB5JN2RT000529",
+    "year": "2024",
+    "vehicle": "tacoma",
+    "model": "SR5",
+    "enginge": "i-FORCE 2.4L Turbocharged Engine",
+    "transmission": "8-Speed Automatic Transmission",
+    "drivetrain": "4-Wheel Drive",
+    "cab": "Double Cab",
+    "bed": "5-ft bed",
+    "color": "Black",
+    "interior": "Black Fabric",
+    "base_msrp": "40400",
+    "total_msrp": "46788.0",
+    "availability_date": null,
+    "total_packages": 11,
+    "packages": "Deck Rail + Cleats, Emblem Overlays - Black[installed_msrp], Mini Tie-Downs with Hooks[installed_msrp], 50 State Emissions, Ball Mount, Owner's Portfolio, Spray On Bedliner[installed_msrp], SR5 Upgrade + Cold Weather Package, Tailgate Insert - Black[installed_msrp], Quick Charging Cable Package[installed_msrp], Door Panel Scuff Protectors[installed_msrp]",
+    "created_at": "2024-02-07 11:30:37"
   },
   {
     "dealer": "37112",
@@ -1656,8 +1716,8 @@
     "total_msrp": "50119.0",
     "availability_date": null,
     "total_packages": 5,
-    "packages": "TRD Sport Upgrade Package, Spray On Bedliner[installed_msrp], Audio Multimedia Upgrade, Emblem Overlays - Black[installed_msrp], 50 State Emissions",
-    "created_at": "2024-02-06 11:31:27"
+    "packages": "Audio Multimedia Upgrade, 50 State Emissions, Spray On Bedliner[installed_msrp], TRD Sport Upgrade Package, Emblem Overlays - Black[installed_msrp]",
+    "created_at": "2024-02-07 11:30:48"
   },
   {
     "dealer": "37066",
@@ -1676,8 +1736,8 @@
     "total_msrp": "54220.0",
     "availability_date": null,
     "total_packages": 6,
-    "packages": "Mud Guards, Limited Package, Owner's Portfolio, Premium Paint Charge, Door Edge Guards[installed_msrp], 50 State Emissions",
-    "created_at": "2024-02-06 11:31:29"
+    "packages": "Owner's Portfolio, Limited Package, Premium Paint Charge, Mud Guards, Door Edge Guards[installed_msrp], 50 State Emissions",
+    "created_at": "2024-02-07 11:30:50"
   },
   {
     "dealer": "29099",
@@ -1696,8 +1756,8 @@
     "total_msrp": "46528.0",
     "availability_date": null,
     "total_packages": 8,
-    "packages": "Owner's Portfolio, Tailgate Insert - Black[installed_msrp], Deck Rail + Cleats, 50 State Emissions, Spray On Bedliner[installed_msrp], Emblem Overlays - Black[installed_msrp], SR5 Upgrade + Cold Weather Package, Mud Guards",
-    "created_at": "2024-02-06 11:31:30"
+    "packages": "Emblem Overlays - Black[installed_msrp], Tailgate Insert - Black[installed_msrp], Mud Guards, Deck Rail + Cleats, Spray On Bedliner[installed_msrp], SR5 Upgrade + Cold Weather Package, Owner's Portfolio, 50 State Emissions",
+    "created_at": "2024-02-07 11:30:51"
   },
   {
     "dealer": "37154",
@@ -1716,8 +1776,8 @@
     "total_msrp": "45915.0",
     "availability_date": null,
     "total_packages": 6,
-    "packages": "SR5 Upgrade + Cold Weather Package, Door Edge Guards[installed_msrp], Owner's Portfolio, Deck Rail + Cleats, Quick Charging Cable Package[installed_msrp], 50 State Emissions",
-    "created_at": "2024-02-06 11:31:33"
+    "packages": "Deck Rail + Cleats, Door Edge Guards[installed_msrp], Quick Charging Cable Package[installed_msrp], Owner's Portfolio, 50 State Emissions, SR5 Upgrade + Cold Weather Package",
+    "created_at": "2024-02-07 11:30:55"
   },
   {
     "dealer": "37101",
@@ -1736,8 +1796,8 @@
     "total_msrp": "45915.0",
     "availability_date": null,
     "total_packages": 6,
-    "packages": "SR5 Upgrade + Cold Weather Package, Quick Charging Cable Package[installed_msrp], Owner's Portfolio, Door Edge Guards[installed_msrp], 50 State Emissions, Deck Rail + Cleats",
-    "created_at": "2024-02-06 11:31:35"
+    "packages": "Quick Charging Cable Package[installed_msrp], Door Edge Guards[installed_msrp], Deck Rail + Cleats, 50 State Emissions, Owner's Portfolio, SR5 Upgrade + Cold Weather Package",
+    "created_at": "2024-02-07 11:30:56"
   },
   {
     "dealer": "37150",
@@ -1756,8 +1816,8 @@
     "total_msrp": "50465.0",
     "availability_date": null,
     "total_packages": 7,
-    "packages": "TRD Off-Road Upgrade Package<br>, Door Edge Guards[installed_msrp], 50 State Emissions, Long Bed with Inverter, Quick Charging Cable Package[installed_msrp], Owner's Portfolio, Audio Multimedia Upgrade",
-    "created_at": "2024-02-06 11:31:37"
+    "packages": "TRD Off-Road Upgrade Package<br>, Owner's Portfolio, 50 State Emissions, Door Edge Guards[installed_msrp], Quick Charging Cable Package[installed_msrp], Audio Multimedia Upgrade, Long Bed with Inverter",
+    "created_at": "2024-02-07 11:30:59"
   },
   {
     "dealer": "31171",
@@ -1776,8 +1836,8 @@
     "total_msrp": "46550.0",
     "availability_date": null,
     "total_packages": 8,
-    "packages": "Door Edge Guards[installed_msrp], SR5 Upgrade + Cold Weather Package, Deck Rail + Cleats, Ball Mount, 50 State Emissions, Mud Guards, Owner's Portfolio, Spray On Bedliner[installed_msrp]",
-    "created_at": "2024-02-06 11:32:10"
+    "packages": "Deck Rail + Cleats, SR5 Upgrade + Cold Weather Package, Door Edge Guards[installed_msrp], Mud Guards, Owner's Portfolio, Ball Mount, 50 State Emissions, Spray On Bedliner[installed_msrp]",
+    "created_at": "2024-02-07 11:31:29"
   },
   {
     "dealer": "31183",
@@ -1796,8 +1856,8 @@
     "total_msrp": "50814.0",
     "availability_date": null,
     "total_packages": 10,
-    "packages": "Emblem Overlays - Black[installed_msrp], TRD Sport Upgrade Package, Audio Multimedia Upgrade, Owner's Portfolio, Door Edge Guards[installed_msrp], Spray On Bedliner[installed_msrp], Mud Guards, Premium Paint Charge, Ball Mount, 50 State Emissions",
-    "created_at": "2024-02-06 11:32:11"
+    "packages": "Owner's Portfolio, Spray On Bedliner[installed_msrp], Door Edge Guards[installed_msrp], Ball Mount, TRD Sport Upgrade Package, 50 State Emissions, Premium Paint Charge, Emblem Overlays - Black[installed_msrp], Audio Multimedia Upgrade, Mud Guards",
+    "created_at": "2024-02-07 11:31:29"
   },
   {
     "dealer": "37036",
@@ -1816,8 +1876,8 @@
     "total_msrp": "47348.0",
     "availability_date": null,
     "total_packages": 9,
-    "packages": "Deck Rail + Cleats, Owner's Portfolio, SR5 Upgrade + Cold Weather Package, Quick Charging Cable Package[installed_msrp], Spray On Bedliner[installed_msrp], All-Weather Floor Liners and Door Sill Protectors[installed_msrp], 50 State Emissions, Door Edge Guards[installed_msrp], Tube Steps - Black<br><br>[installed_msrp]",
-    "created_at": "2024-02-06 11:32:14"
+    "packages": "Quick Charging Cable Package[installed_msrp], Spray On Bedliner[installed_msrp], Door Edge Guards[installed_msrp], Tube Steps - Black<br><br>[installed_msrp], Deck Rail + Cleats, SR5 Upgrade + Cold Weather Package, Owner's Portfolio, All-Weather Floor Liners and Door Sill Protectors[installed_msrp], 50 State Emissions",
+    "created_at": "2024-02-07 11:31:32"
   },
   {
     "dealer": "20123",
@@ -1836,8 +1896,8 @@
     "total_msrp": "53619.0",
     "availability_date": null,
     "total_packages": 6,
-    "packages": "50 State Emissions, Mud Guards, Door Panel Scuff Protectors[installed_msrp], Door Edge Guards[installed_msrp], Emblem Overlays - Black[installed_msrp], TRD Off-Road Premium Package<br>",
-    "created_at": "2024-02-06 11:32:20"
+    "packages": "Door Panel Scuff Protectors[installed_msrp], Door Edge Guards[installed_msrp], 50 State Emissions, Emblem Overlays - Black[installed_msrp], Mud Guards, TRD Off-Road Premium Package<br>",
+    "created_at": "2024-02-07 11:31:38"
   },
   {
     "dealer": "20133",
@@ -1856,28 +1916,48 @@
     "total_msrp": "54019.0",
     "availability_date": null,
     "total_packages": 6,
-    "packages": "Door Panel Scuff Protectors[installed_msrp], 50 State Emissions, Mud Guards, Limited Package, Door Edge Guards[installed_msrp], Emblem Overlays - Black[installed_msrp]",
-    "created_at": "2024-02-06 11:32:21"
+    "packages": "Limited Package, Mud Guards, Door Panel Scuff Protectors[installed_msrp], 50 State Emissions, Emblem Overlays - Black[installed_msrp], Door Edge Guards[installed_msrp]",
+    "created_at": "2024-02-07 11:31:39"
   },
   {
-    "dealer": "20142",
-    "vin": "3TYLB5JN7RT000879",
+    "dealer": "20144",
+    "vin": "3TYLB5JN7RT000364",
     "year": "2024",
     "vehicle": "tacoma",
-    "model": "SR5",
+    "model": "trdoffroad",
     "enginge": "i-FORCE 2.4L Turbocharged Engine",
     "transmission": "8-Speed Automatic Transmission",
     "drivetrain": "4-Wheel Drive",
     "cab": "Double Cab",
-    "bed": "6-ft bed",
-    "color": "Celestial Silver Metallic",
-    "interior": "Black Fabric",
-    "base_msrp": "40900",
-    "total_msrp": "48377.0",
+    "bed": "5-ft bed",
+    "color": "Bronze Oxide",
+    "interior": "Boulder/Black Fabric w/ Smoke Silver",
+    "base_msrp": "42900",
+    "total_msrp": "45315.0",
     "availability_date": null,
-    "total_packages": 9,
-    "packages": "Alloy Wheel Locks - Chrome[installed_msrp], All-Weather Floor Liners and Door Sill Protectors[installed_msrp], Cast Alumunium Running Boards[installed_msrp], Mud Guards, Long Bed, Spray On Bedliner[installed_msrp], Deck Rail + Cleats, SR5 Upgrade + Cold Weather Package, 50 State Emissions",
-    "created_at": "2024-02-06 11:32:25"
+    "total_packages": 8,
+    "packages": "TRD Off-Road Package, Door Edge Guards[installed_msrp], Owner's Portfolio, Spray On Bedliner[installed_msrp], Quick Charging Cable Package[installed_msrp], Mud Guards, Emergency Assistance Kit[installed_msrp], 50 State Emissions",
+    "created_at": "2024-02-07 11:31:45"
+  },
+  {
+    "dealer": "20058",
+    "vin": "3TYLB5JN4RT000354",
+    "year": "2024",
+    "vehicle": "tacoma",
+    "model": "limited",
+    "enginge": "i-FORCE 2.4L Turbocharged Engine",
+    "transmission": "8-Speed Automatic Transmission",
+    "drivetrain": "4-Wheel Drive",
+    "cab": "Double Cab",
+    "bed": "5-ft bed",
+    "color": "Bronze Oxide",
+    "interior": "Black SofTex",
+    "base_msrp": "52100",
+    "total_msrp": "54230.0",
+    "availability_date": null,
+    "total_packages": 4,
+    "packages": "Spray On Bedliner[installed_msrp], Limited Package, Mud Guards, 50 State Emissions",
+    "created_at": "2024-02-07 11:31:46"
   },
   {
     "dealer": "31178",
@@ -1896,8 +1976,28 @@
     "total_msrp": "46015.0",
     "availability_date": null,
     "total_packages": 5,
-    "packages": "Body Side Molding[installed_msrp], Mud Guards, Deck Rail + Cleats, 50 State Emissions, SR5 Upgrade + Cold Weather Package",
-    "created_at": "2024-02-06 11:32:32"
+    "packages": "Deck Rail + Cleats, Mud Guards, Body Side Molding[installed_msrp], SR5 Upgrade + Cold Weather Package, 50 State Emissions",
+    "created_at": "2024-02-07 11:31:49"
+  },
+  {
+    "dealer": "28012",
+    "vin": "3TYLB5JN5RT000444",
+    "year": "2024",
+    "vehicle": "tacoma",
+    "model": "SR5",
+    "enginge": "i-FORCE 2.4L Turbocharged Engine",
+    "transmission": "8-Speed Automatic Transmission",
+    "drivetrain": "4-Wheel Drive",
+    "cab": "Double Cab",
+    "bed": "5-ft bed",
+    "color": "Ice Cap",
+    "interior": "Black Fabric",
+    "base_msrp": "40400",
+    "total_msrp": "46023.0",
+    "availability_date": null,
+    "total_packages": 5,
+    "packages": "All-Weather Floor Liners and Door Sill Protectors[installed_msrp], 50 State Emissions, Mud Guards, SR5 Upgrade + Cold Weather Package, Deck Rail + Cleats",
+    "created_at": "2024-02-07 11:31:51"
   },
   {
     "dealer": "20006",
@@ -1916,8 +2016,8 @@
     "total_msrp": "50590.0",
     "availability_date": null,
     "total_packages": 7,
-    "packages": "Audio Multimedia Upgrade, Door Edge Guards[installed_msrp], Door Panel Scuff Protectors[installed_msrp], Mud Guards, 50 State Emissions, Long Bed with Inverter, TRD Off-Road Upgrade Package<br>",
-    "created_at": "2024-02-06 11:32:37"
+    "packages": "Long Bed with Inverter, Door Edge Guards[installed_msrp], Door Panel Scuff Protectors[installed_msrp], Mud Guards, Audio Multimedia Upgrade, 50 State Emissions, TRD Off-Road Upgrade Package<br>",
+    "created_at": "2024-02-07 11:31:54"
   },
   {
     "dealer": "18035",
@@ -1936,8 +2036,28 @@
     "total_msrp": "50624.0",
     "availability_date": null,
     "total_packages": 10,
-    "packages": "Mud Guards, Door Panel Scuff Protectors[installed_msrp], Audio Multimedia Upgrade, Premium Paint Charge, Emblem Overlays - Black[installed_msrp], Ball Mount, 50 State Emissions, Door Edge Guards[installed_msrp], TRD Sport Upgrade Package, Body Side Molding[installed_msrp]",
-    "created_at": "2024-02-06 11:32:39"
+    "packages": "Audio Multimedia Upgrade, TRD Sport Upgrade Package, Emblem Overlays - Black[installed_msrp], Ball Mount, Door Panel Scuff Protectors[installed_msrp], 50 State Emissions, Body Side Molding[installed_msrp], Premium Paint Charge, Door Edge Guards[installed_msrp], Mud Guards",
+    "created_at": "2024-02-07 11:31:55"
+  },
+  {
+    "dealer": "18010",
+    "vin": "3TYLB5JN9RT000771",
+    "year": "2024",
+    "vehicle": "tacoma",
+    "model": "SR5",
+    "enginge": "i-FORCE 2.4L Turbocharged Engine",
+    "transmission": "8-Speed Automatic Transmission",
+    "drivetrain": "4-Wheel Drive",
+    "cab": "Double Cab",
+    "bed": "5-ft bed",
+    "color": "Blue Crush Metallic",
+    "interior": "Black Fabric",
+    "base_msrp": "40400",
+    "total_msrp": "46023.0",
+    "availability_date": null,
+    "total_packages": 5,
+    "packages": "All-Weather Floor Liners and Door Sill Protectors[installed_msrp], 50 State Emissions, Mud Guards, Deck Rail + Cleats, SR5 Upgrade + Cold Weather Package",
+    "created_at": "2024-02-07 11:31:57"
   },
   {
     "dealer": "20134",
@@ -1956,8 +2076,8 @@
     "total_msrp": "46878.0",
     "availability_date": null,
     "total_packages": 9,
-    "packages": "Door Panel Scuff Protectors[installed_msrp], Deck Rail + Cleats, SR5 Upgrade + Cold Weather Package, All-Weather Floor Liners and Door Sill Protectors[installed_msrp], Mud Guards, Alloy Wheel Locks - Chrome[installed_msrp], Door Edge Guards[installed_msrp], 50 State Emissions, Long Bed",
-    "created_at": "2024-02-06 11:32:43"
+    "packages": "SR5 Upgrade + Cold Weather Package, 50 State Emissions, Mud Guards, All-Weather Floor Liners and Door Sill Protectors[installed_msrp], Alloy Wheel Locks - Chrome[installed_msrp], Door Panel Scuff Protectors[installed_msrp], Door Edge Guards[installed_msrp], Long Bed, Deck Rail + Cleats",
+    "created_at": "2024-02-07 11:31:58"
   },
   {
     "dealer": "31024",
@@ -1976,8 +2096,8 @@
     "total_msrp": "46550.0",
     "availability_date": null,
     "total_packages": 8,
-    "packages": "Door Edge Guards[installed_msrp], Ball Mount, Mud Guards, Deck Rail + Cleats, Spray On Bedliner[installed_msrp], Owner's Portfolio, 50 State Emissions, SR5 Upgrade + Cold Weather Package",
-    "created_at": "2024-02-06 11:32:44"
+    "packages": "Mud Guards, 50 State Emissions, Spray On Bedliner[installed_msrp], Ball Mount, Deck Rail + Cleats, Door Edge Guards[installed_msrp], SR5 Upgrade + Cold Weather Package, Owner's Portfolio",
+    "created_at": "2024-02-07 11:31:59"
   },
   {
     "dealer": "28029",
@@ -1996,8 +2116,8 @@
     "total_msrp": "50275.0",
     "availability_date": null,
     "total_packages": 7,
-    "packages": "Mini Tie-Downs with Hooks[installed_msrp], 50 State Emissions, Spray On Bedliner[installed_msrp], Audio Multimedia Upgrade, Door Edge Guards[installed_msrp], Mud Guards, TRD Sport Upgrade Package",
-    "created_at": "2024-02-06 11:32:47"
+    "packages": "Door Edge Guards[installed_msrp], 50 State Emissions, Mini Tie-Downs with Hooks[installed_msrp], Audio Multimedia Upgrade, Spray On Bedliner[installed_msrp], Mud Guards, TRD Sport Upgrade Package",
+    "created_at": "2024-02-07 11:32:02"
   },
   {
     "dealer": "20113",
@@ -2016,8 +2136,8 @@
     "total_msrp": "50090.0",
     "availability_date": null,
     "total_packages": 5,
-    "packages": "Spray On Bedliner[installed_msrp], Mud Guards, TRD Sport Upgrade Package, Audio Multimedia Upgrade, 50 State Emissions",
-    "created_at": "2024-02-06 11:32:51"
+    "packages": "Audio Multimedia Upgrade, TRD Sport Upgrade Package, Spray On Bedliner[installed_msrp], Mud Guards, 50 State Emissions",
+    "created_at": "2024-02-07 11:32:05"
   },
   {
     "dealer": "20019",
@@ -2036,8 +2156,8 @@
     "total_msrp": "47125.0",
     "availability_date": null,
     "total_packages": 9,
-    "packages": "Long Bed, 50 State Emissions, SR5 Upgrade + Cold Weather Package, Door Edge Guards[installed_msrp], Spray On Bedliner[installed_msrp], Quick Charging Cable Package[installed_msrp], Emergency Assistance Kit[installed_msrp], Mud Guards, Deck Rail + Cleats",
-    "created_at": "2024-02-06 11:32:52"
+    "packages": "50 State Emissions, Quick Charging Cable Package[installed_msrp], Mud Guards, Door Edge Guards[installed_msrp], Deck Rail + Cleats, Spray On Bedliner[installed_msrp], Emergency Assistance Kit[installed_msrp], SR5 Upgrade + Cold Weather Package, Long Bed",
+    "created_at": "2024-02-07 11:32:06"
   },
   {
     "dealer": "20127",
@@ -2056,28 +2176,8 @@
     "total_msrp": "54365.0",
     "availability_date": null,
     "total_packages": 8,
-    "packages": "Door Edge Guards[installed_msrp], Limited Package, Premium Paint Charge, Quick Charging Cable Package[installed_msrp], Emergency Assistance Kit[installed_msrp], Owner's Portfolio, Mud Guards, 50 State Emissions",
-    "created_at": "2024-02-06 11:32:54"
-  },
-  {
-    "dealer": "20093",
-    "vin": "3TYLB5JN7RT000364",
-    "year": "2024",
-    "vehicle": "tacoma",
-    "model": "trdoffroad",
-    "enginge": "i-FORCE 2.4L Turbocharged Engine",
-    "transmission": "8-Speed Automatic Transmission",
-    "drivetrain": "4-Wheel Drive",
-    "cab": "Double Cab",
-    "bed": "5-ft bed",
-    "color": "Bronze Oxide",
-    "interior": "Boulder/Black Fabric w/ Smoke Silver",
-    "base_msrp": "42900",
-    "total_msrp": "45315.0",
-    "availability_date": null,
-    "total_packages": 8,
-    "packages": "Emergency Assistance Kit[installed_msrp], TRD Off-Road Package, Spray On Bedliner[installed_msrp], Mud Guards, Owner's Portfolio, 50 State Emissions, Quick Charging Cable Package[installed_msrp], Door Edge Guards[installed_msrp]",
-    "created_at": "2024-02-06 11:32:55"
+    "packages": "Limited Package, Mud Guards, Premium Paint Charge, Owner's Portfolio, 50 State Emissions, Door Edge Guards[installed_msrp], Quick Charging Cable Package[installed_msrp], Emergency Assistance Kit[installed_msrp]",
+    "created_at": "2024-02-07 11:32:09"
   },
   {
     "dealer": "20122",
@@ -2096,8 +2196,8 @@
     "total_msrp": "54115.0",
     "availability_date": null,
     "total_packages": 8,
-    "packages": "Quick Charging Cable Package[installed_msrp], 50 State Emissions, Mud Guards, TRD Off-Road Premium Package<br>, Spray On Bedliner[installed_msrp], Premium Paint Charge, Door Edge Guards[installed_msrp], Emergency Assistance Kit[installed_msrp]",
-    "created_at": "2024-02-06 11:32:56"
+    "packages": "Mud Guards, Quick Charging Cable Package[installed_msrp], Spray On Bedliner[installed_msrp], TRD Off-Road Premium Package<br>, Premium Paint Charge, Door Edge Guards[installed_msrp], Emergency Assistance Kit[installed_msrp], 50 State Emissions",
+    "created_at": "2024-02-07 11:32:10"
   },
   {
     "dealer": "20096",
@@ -2116,8 +2216,8 @@
     "total_msrp": "50025.0",
     "availability_date": null,
     "total_packages": 6,
-    "packages": "TRD Off-Road Upgrade Package<br>, Ball Mount, Audio Multimedia Upgrade, Door Edge Guards[installed_msrp], 50 State Emissions, Mud Guards",
-    "created_at": "2024-02-06 11:32:58"
+    "packages": "50 State Emissions, Mud Guards, Ball Mount, Audio Multimedia Upgrade, Door Edge Guards[installed_msrp], TRD Off-Road Upgrade Package<br>",
+    "created_at": "2024-02-07 11:32:12"
   },
   {
     "dealer": "28037",
@@ -2136,8 +2236,28 @@
     "total_msrp": "46873.0",
     "availability_date": null,
     "total_packages": 8,
-    "packages": "50 State Emissions, SR5 Upgrade + Cold Weather Package, Spray On Bedliner[installed_msrp], Deck Rail + Cleats, Mud Guards, Door Panel Scuff Protectors[installed_msrp], All-Weather Floor Liners and Door Sill Protectors[installed_msrp], Door Edge Guards[installed_msrp]",
-    "created_at": "2024-02-06 11:33:01"
+    "packages": "50 State Emissions, Door Panel Scuff Protectors[installed_msrp], SR5 Upgrade + Cold Weather Package, Door Edge Guards[installed_msrp], Deck Rail + Cleats, Spray On Bedliner[installed_msrp], Mud Guards, All-Weather Floor Liners and Door Sill Protectors[installed_msrp]",
+    "created_at": "2024-02-07 11:32:14"
+  },
+  {
+    "dealer": "28039",
+    "vin": "3TYLB5JN4RT000466",
+    "year": "2024",
+    "vehicle": "tacoma",
+    "model": "SR5",
+    "enginge": "i-FORCE 2.4L Turbocharged Engine",
+    "transmission": "8-Speed Automatic Transmission",
+    "drivetrain": "4-Wheel Drive",
+    "cab": "Double Cab",
+    "bed": "5-ft bed",
+    "color": "Underground",
+    "interior": "Boulder Fabric",
+    "base_msrp": "40400",
+    "total_msrp": "46298.0",
+    "availability_date": null,
+    "total_packages": 7,
+    "packages": "Door Panel Scuff Protectors[installed_msrp], Door Edge Guards[installed_msrp], 50 State Emissions, Mud Guards, SR5 Upgrade + Cold Weather Package, Deck Rail + Cleats, All-Weather Floor Liners and Door Sill Protectors[installed_msrp]",
+    "created_at": "2024-02-07 11:32:15"
   },
   {
     "dealer": "44022",
@@ -2156,8 +2276,28 @@
     "total_msrp": "50229.0",
     "availability_date": null,
     "total_packages": 7,
-    "packages": "Premium Paint Charge, Bed Mat<br>[installed_msrp], Audio Multimedia Upgrade, TRD Sport Upgrade Package, 50 State Emissions, Mud Guards, Emblem Overlays - Black[installed_msrp]",
-    "created_at": "2024-02-06 11:33:03"
+    "packages": "Bed Mat<br>[installed_msrp], 50 State Emissions, Premium Paint Charge, Audio Multimedia Upgrade, Emblem Overlays - Black[installed_msrp], Mud Guards, TRD Sport Upgrade Package",
+    "created_at": "2024-02-07 11:32:16"
+  },
+  {
+    "dealer": "44020",
+    "vin": "3TYLB5JN3RT000684",
+    "year": "2024",
+    "vehicle": "tacoma",
+    "model": "trdsport",
+    "enginge": "i-FORCE 2.4L Turbocharged Engine",
+    "transmission": "8-Speed Automatic Transmission",
+    "drivetrain": "4-Wheel Drive",
+    "cab": "Double Cab",
+    "bed": "5-ft bed",
+    "color": "Wind Chill Pearl [extra_cost_color]",
+    "interior": "Boulder/Black Fabric w/ Smoke Silver",
+    "base_msrp": "42600",
+    "total_msrp": "50304.0",
+    "availability_date": null,
+    "total_packages": 8,
+    "packages": "Door Panel Scuff Protectors[installed_msrp], Premium Paint Charge, Audio Multimedia Upgrade, TRD Sport Upgrade Package, Door Edge Guards[installed_msrp], 50 State Emissions, Emblem Overlays - Black[installed_msrp], Mud Guards",
+    "created_at": "2024-02-07 11:32:16"
   },
   {
     "dealer": "31116",
@@ -2176,8 +2316,8 @@
     "total_msrp": "46550.0",
     "availability_date": null,
     "total_packages": 8,
-    "packages": "Mud Guards, Door Edge Guards[installed_msrp], SR5 Upgrade + Cold Weather Package, Owner's Portfolio, Ball Mount, Spray On Bedliner[installed_msrp], 50 State Emissions, Deck Rail + Cleats",
-    "created_at": "2024-02-06 11:33:05"
+    "packages": "Door Edge Guards[installed_msrp], Owner's Portfolio, Spray On Bedliner[installed_msrp], Deck Rail + Cleats, SR5 Upgrade + Cold Weather Package, Mud Guards, Ball Mount, 50 State Emissions",
+    "created_at": "2024-02-07 11:32:18"
   },
   {
     "dealer": "44014",
@@ -2196,28 +2336,8 @@
     "total_msrp": "45765.0",
     "availability_date": null,
     "total_packages": 5,
-    "packages": "Mud Guards, SR5 Upgrade + Cold Weather Package, Deck Rail + Cleats, Owner's Portfolio, 50 State Emissions",
-    "created_at": "2024-02-06 11:33:07"
-  },
-  {
-    "dealer": "31115",
-    "vin": "3TYLB5JN5RT000976",
-    "year": "2024",
-    "vehicle": "tacoma",
-    "model": "SR5",
-    "enginge": "i-FORCE 2.4L Turbocharged Engine",
-    "transmission": "8-Speed Automatic Transmission",
-    "drivetrain": "4-Wheel Drive",
-    "cab": "Double Cab",
-    "bed": "5-ft bed",
-    "color": "Ice Cap",
-    "interior": "Boulder Fabric",
-    "base_msrp": "40400",
-    "total_msrp": "45905.0",
-    "availability_date": null,
-    "total_packages": 6,
-    "packages": "50 State Emissions, Deck Rail + Cleats, SR5 Upgrade + Cold Weather Package, Door Edge Guards[installed_msrp], Mud Guards, Owner's Portfolio",
-    "created_at": "2024-02-06 11:33:08"
+    "packages": "Owner's Portfolio, SR5 Upgrade + Cold Weather Package, Deck Rail + Cleats, 50 State Emissions, Mud Guards",
+    "created_at": "2024-02-07 11:32:20"
   },
   {
     "dealer": "21112",
@@ -2236,8 +2356,8 @@
     "total_msrp": "46273.0",
     "availability_date": null,
     "total_packages": 6,
-    "packages": "50 State Emissions, SR5 Upgrade + Cold Weather Package, Deck Rail + Cleats, Body Side Molding[installed_msrp], All-Weather Floor Liners and Door Sill Protectors[installed_msrp], Mud Guards",
-    "created_at": "2024-02-06 11:33:21"
+    "packages": "All-Weather Floor Liners and Door Sill Protectors[installed_msrp], Body Side Molding[installed_msrp], Mud Guards, Deck Rail + Cleats, 50 State Emissions, SR5 Upgrade + Cold Weather Package",
+    "created_at": "2024-02-07 11:32:35"
   },
   {
     "dealer": "21065",
@@ -2256,8 +2376,8 @@
     "total_msrp": "47237.0",
     "availability_date": null,
     "total_packages": 10,
-    "packages": "All-Weather Floor Liners and Door Sill Protectors[installed_msrp], Tube Steps - Black<br><br>[installed_msrp], Door Edge Guards[installed_msrp], Emblem Overlays - Black[installed_msrp], Mud Guards, Door Panel Scuff Protectors[installed_msrp], SR5 Upgrade + Cold Weather Package, Deck Rail + Cleats, Body Side Molding[installed_msrp], 50 State Emissions",
-    "created_at": "2024-02-06 11:33:28"
+    "packages": "All-Weather Floor Liners and Door Sill Protectors[installed_msrp], Deck Rail + Cleats, Door Edge Guards[installed_msrp], Door Panel Scuff Protectors[installed_msrp], Emblem Overlays - Black[installed_msrp], Tube Steps - Black<br><br>[installed_msrp], Body Side Molding[installed_msrp], SR5 Upgrade + Cold Weather Package, Mud Guards, 50 State Emissions",
+    "created_at": "2024-02-07 11:32:42"
   },
   {
     "dealer": "21095",
@@ -2276,8 +2396,8 @@
     "total_msrp": "47053.0",
     "availability_date": null,
     "total_packages": 10,
-    "packages": "Door Edge Guards[installed_msrp], Mud Guards, Body Side Molding[installed_msrp], 50 State Emissions, Spray On Bedliner[installed_msrp], Door Panel Scuff Protectors[installed_msrp], SR5 Upgrade + Cold Weather Package, Tailgate Insert - Black[installed_msrp], Emblem Overlays - Black[installed_msrp], Deck Rail + Cleats",
-    "created_at": "2024-02-06 11:33:31"
+    "packages": "Mud Guards, Body Side Molding[installed_msrp], Emblem Overlays - Black[installed_msrp], Tailgate Insert - Black[installed_msrp], Door Panel Scuff Protectors[installed_msrp], Spray On Bedliner[installed_msrp], Door Edge Guards[installed_msrp], SR5 Upgrade + Cold Weather Package, Deck Rail + Cleats, 50 State Emissions",
+    "created_at": "2024-02-07 11:32:46"
   },
   {
     "dealer": "21074",
@@ -2296,8 +2416,128 @@
     "total_msrp": "53169.0",
     "availability_date": null,
     "total_packages": 5,
-    "packages": "50 State Emissions, Owner's Portfolio, Premium Paint Charge, Tailgate Insert - Black[installed_msrp], TRD Sport Premium Package<br>",
-    "created_at": "2024-02-06 11:33:32"
+    "packages": "Owner's Portfolio, 50 State Emissions, TRD Sport Premium Package<br>, Premium Paint Charge, Tailgate Insert - Black[installed_msrp]",
+    "created_at": "2024-02-07 11:32:47"
+  },
+  {
+    "dealer": "34131",
+    "vin": "3TYLB5JN9RT000544",
+    "year": "2024",
+    "vehicle": "tacoma",
+    "model": "SR5",
+    "enginge": "i-FORCE 2.4L Turbocharged Engine",
+    "transmission": "8-Speed Automatic Transmission",
+    "drivetrain": "4-Wheel Drive",
+    "cab": "Double Cab",
+    "bed": "5-ft bed",
+    "color": "Ice Cap",
+    "interior": "Black Fabric",
+    "base_msrp": "40400",
+    "total_msrp": "46293.0",
+    "availability_date": null,
+    "total_packages": 9,
+    "packages": "Tailgate Insert - Black[installed_msrp], Emblem Overlays - Black[installed_msrp], Deck Rail + Cleats, Owner's Portfolio, Mud Guards, Door Edge Guards[installed_msrp], 50 State Emissions, SR5 Upgrade + Cold Weather Package, Bed Mat<br>[installed_msrp]",
+    "created_at": "2024-02-07 11:32:52"
+  },
+  {
+    "dealer": "34131",
+    "vin": "3TYLB5JN6RT003465",
+    "year": "2024",
+    "vehicle": "tacoma",
+    "model": "trdoffroad",
+    "enginge": "i-FORCE 2.4L Turbocharged Engine",
+    "transmission": "8-Speed Automatic Transmission",
+    "drivetrain": "4-Wheel Drive",
+    "cab": "Double Cab",
+    "bed": "5-ft bed",
+    "color": "Supersonic Red [extra_cost_color]",
+    "interior": "Boulder/Black Fabric w/ Smoke Silver",
+    "base_msrp": "42900",
+    "total_msrp": "51405.0",
+    "availability_date": null,
+    "total_packages": 9,
+    "packages": "Door Edge Guards[installed_msrp], Owner's Portfolio, Audio Multimedia Upgrade, 50 State Emissions, Moonroof<br>, Mud Guards, Tube Steps - Black<br><br>[installed_msrp], TRD Off-Road Upgrade Package<br>, Premium Paint Charge",
+    "created_at": "2024-02-07 11:32:52"
+  },
+  {
+    "dealer": "34099",
+    "vin": "3TYLD5KN8RT000043",
+    "year": "2024",
+    "vehicle": "tacoma",
+    "model": "SR",
+    "enginge": "i-FORCE 2.4L Turbocharged Engine",
+    "transmission": "8-Speed Automatic Transmission",
+    "drivetrain": "4-Wheel Drive",
+    "cab": "Double Cab",
+    "bed": "5-ft bed",
+    "color": "Black",
+    "interior": "Black Fabric",
+    "base_msrp": "36900",
+    "total_msrp": "39778.0",
+    "availability_date": null,
+    "total_packages": 9,
+    "packages": "Spare Tire Lock[installed_msrp], Carpet Floor Mats and Door Sill Protectors[installed_msrp], 50 State Emissions, Owner's Portfolio, Tube Steps- Silver[installed_msrp], Mud Guards, Body Side Molding[installed_msrp], Deck Rail + Cleats, Quick Charging Cable Package[installed_msrp]",
+    "created_at": "2024-02-07 11:32:54"
+  },
+  {
+    "dealer": "34099",
+    "vin": "3TYLB5JN4RT003917",
+    "year": "2024",
+    "vehicle": "tacoma",
+    "model": "SR5",
+    "enginge": "i-FORCE 2.4L Turbocharged Engine",
+    "transmission": "8-Speed Automatic Transmission",
+    "drivetrain": "4-Wheel Drive",
+    "cab": "Double Cab",
+    "bed": "5-ft bed",
+    "color": "Blue Crush Metallic",
+    "interior": "Black Fabric",
+    "base_msrp": "40400",
+    "total_msrp": "46734.0",
+    "availability_date": null,
+    "total_packages": 11,
+    "packages": "Emergency Assistance Kit[installed_msrp], Door Edge Guards[installed_msrp], Deck Rail + Cleats, Bed Mat<br>[installed_msrp], Mud Guards, Quick Charging Cable Package[installed_msrp], SR5 Upgrade + Cold Weather Package, Paint Protection Film - <br>Hood, Fenders, Mirror Backs and Door Cups[installed_msrp], 50 State Emissions, Owner's Portfolio, Mini Tie-Downs with Hooks[installed_msrp]",
+    "created_at": "2024-02-07 11:32:54"
+  },
+  {
+    "dealer": "34099",
+    "vin": "3TYLB5JN5RT004378",
+    "year": "2024",
+    "vehicle": "tacoma",
+    "model": "trdsport",
+    "enginge": "i-FORCE 2.4L Turbocharged Engine",
+    "transmission": "8-Speed Automatic Transmission",
+    "drivetrain": "4-Wheel Drive",
+    "cab": "Double Cab",
+    "bed": "5-ft bed",
+    "color": "Ice Cap",
+    "interior": "Boulder/Black Fabric w/ Smoke Silver",
+    "base_msrp": "42600",
+    "total_msrp": "50850.0",
+    "availability_date": null,
+    "total_packages": 10,
+    "packages": "Emergency Assistance Kit[installed_msrp], Door Edge Guards[installed_msrp], Moonroof<br>, Quick Charging Cable Package[installed_msrp], Owner's Portfolio, Bed Mat<br>[installed_msrp], 50 State Emissions, Audio Multimedia Upgrade, Mud Guards, TRD Sport Upgrade Package",
+    "created_at": "2024-02-07 11:32:54"
+  },
+  {
+    "dealer": "34099",
+    "vin": "3TYLB5JN2RT004547",
+    "year": "2024",
+    "vehicle": "tacoma",
+    "model": "trdoffroad",
+    "enginge": "i-FORCE 2.4L Turbocharged Engine",
+    "transmission": "8-Speed Automatic Transmission",
+    "drivetrain": "4-Wheel Drive",
+    "cab": "Double Cab",
+    "bed": "5-ft bed",
+    "color": "Celestial Silver Metallic",
+    "interior": "Black SofTex",
+    "base_msrp": "42900",
+    "total_msrp": "54104.0",
+    "availability_date": null,
+    "total_packages": 8,
+    "packages": "TRD Off-Road Premium Package<br>, Owner's Portfolio, 50 State Emissions, Mud Guards, Bed Mat<br>[installed_msrp], Paint Protection Film - <br>Hood, Fenders, Mirror Backs and Door Cups[installed_msrp], Door Edge Guards[installed_msrp], Quick Charging Cable Package[installed_msrp]",
+    "created_at": "2024-02-07 11:32:54"
   },
   {
     "dealer": "34116",
@@ -2316,8 +2556,8 @@
     "total_msrp": "51104.0",
     "availability_date": null,
     "total_packages": 8,
-    "packages": "Long Bed with Inverter, Tailgate Insert - Black[installed_msrp], Audio Multimedia Upgrade, Mud Guards, 50 State Emissions, Moonroof<br>, TRD Sport Upgrade Package, Door Edge Guards[installed_msrp]",
-    "created_at": "2024-02-06 11:33:41"
+    "packages": "Audio Multimedia Upgrade, 50 State Emissions, Moonroof<br>, TRD Sport Upgrade Package, Door Edge Guards[installed_msrp], Tailgate Insert - Black[installed_msrp], Long Bed with Inverter, Mud Guards",
+    "created_at": "2024-02-07 11:32:55"
   },
   {
     "dealer": "34036",
@@ -2336,8 +2576,8 @@
     "total_msrp": "50965.0",
     "availability_date": null,
     "total_packages": 9,
-    "packages": "Mud Guards, Spray On Bedliner[installed_msrp], Predator Tube Steps[installed_msrp], Moonroof<br>, 50 State Emissions, TRD Sport Upgrade Package, Door Edge Guards[installed_msrp], Owner's Portfolio, Audio Multimedia Upgrade",
-    "created_at": "2024-02-06 11:33:46"
+    "packages": "Spray On Bedliner[installed_msrp], Mud Guards, Owner's Portfolio, Predator Tube Steps[installed_msrp], Moonroof<br>, Audio Multimedia Upgrade, TRD Sport Upgrade Package, Door Edge Guards[installed_msrp], 50 State Emissions",
+    "created_at": "2024-02-07 11:33:00"
   },
   {
     "dealer": "34090",
@@ -2356,8 +2596,8 @@
     "total_msrp": "51780.0",
     "availability_date": null,
     "total_packages": 9,
-    "packages": "50 State Emissions, TRD Sport Upgrade Package, Owner's Portfolio, Door Edge Guards[installed_msrp], Audio Multimedia Upgrade, Predator Tube Steps[installed_msrp], Spray On Bedliner[installed_msrp], Mud Guards, Moonroof<br>",
-    "created_at": "2024-02-06 11:33:47"
+    "packages": "Door Edge Guards[installed_msrp], Audio Multimedia Upgrade, Moonroof<br>, TRD Sport Upgrade Package, Owner's Portfolio, Spray On Bedliner[installed_msrp], 50 State Emissions, Mud Guards, Predator Tube Steps[installed_msrp]",
+    "created_at": "2024-02-07 11:33:00"
   },
   {
     "dealer": "12141",
@@ -2376,8 +2616,28 @@
     "total_msrp": "51782.0",
     "availability_date": null,
     "total_packages": 10,
-    "packages": "TRD Sport Upgrade Package, Door Panel Scuff Protectors[installed_msrp], Door Edge Guards[installed_msrp], Tailgate Insert - Black[installed_msrp], Spray On Bedliner[installed_msrp], Paint Protection Film - <br>Hood, Fenders, Mirror Backs and Door Cups[installed_msrp], Audio Multimedia Upgrade, Moonroof<br>, Emblem Overlays - Black[installed_msrp], 50 State Emissions",
-    "created_at": "2024-02-06 11:34:09"
+    "packages": "50 State Emissions, TRD Sport Upgrade Package, Tailgate Insert - Black[installed_msrp], Paint Protection Film - <br>Hood, Fenders, Mirror Backs and Door Cups[installed_msrp], Door Edge Guards[installed_msrp], Door Panel Scuff Protectors[installed_msrp], Emblem Overlays - Black[installed_msrp], Moonroof<br>, Spray On Bedliner[installed_msrp], Audio Multimedia Upgrade",
+    "created_at": "2024-02-07 11:33:19"
+  },
+  {
+    "dealer": "12077",
+    "vin": "3TYLB5JN7RT002924",
+    "year": "2024",
+    "vehicle": "tacoma",
+    "model": "limited",
+    "enginge": "i-FORCE 2.4L Turbocharged Engine",
+    "transmission": "8-Speed Automatic Transmission",
+    "drivetrain": "4-Wheel Drive",
+    "cab": "Double Cab",
+    "bed": "5-ft bed",
+    "color": "Underground",
+    "interior": "Boulder SofTex",
+    "base_msrp": "52100",
+    "total_msrp": "53595.0",
+    "availability_date": null,
+    "total_packages": 2,
+    "packages": "50 State Emissions, Limited Package",
+    "created_at": "2024-02-07 11:33:24"
   },
   {
     "dealer": "12134",
@@ -2396,8 +2656,8 @@
     "total_msrp": "51643.0",
     "availability_date": null,
     "total_packages": 9,
-    "packages": "Door Panel Scuff Protectors[installed_msrp], 50 State Emissions, Spray On Bedliner[installed_msrp], Emblem Overlays - Black[installed_msrp], Door Edge Guards[installed_msrp], Moonroof<br>, Tailgate Insert - Black[installed_msrp], Audio Multimedia Upgrade, TRD Off-Road Upgrade Package<br>",
-    "created_at": "2024-02-06 11:34:16"
+    "packages": "Door Panel Scuff Protectors[installed_msrp], Audio Multimedia Upgrade, Spray On Bedliner[installed_msrp], Emblem Overlays - Black[installed_msrp], 50 State Emissions, TRD Off-Road Upgrade Package<br>, Door Edge Guards[installed_msrp], Moonroof<br>, Tailgate Insert - Black[installed_msrp]",
+    "created_at": "2024-02-07 11:33:27"
   },
   {
     "dealer": "13057",
@@ -2416,7 +2676,7 @@
     "total_msrp": "46030.0",
     "availability_date": null,
     "total_packages": 5,
-    "packages": "Deck Rail + Cleats, 50 State Emissions, Emergency Assistance Kit[installed_msrp], Body Side Molding[installed_msrp], SR5 Upgrade + Cold Weather Package",
-    "created_at": "2024-02-06 11:34:30"
+    "packages": "50 State Emissions, Deck Rail + Cleats, Emergency Assistance Kit[installed_msrp], SR5 Upgrade + Cold Weather Package, Body Side Molding[installed_msrp]",
+    "created_at": "2024-02-07 11:33:43"
   }
 ]
