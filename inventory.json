@@ -16,8 +16,8 @@
     "total_msrp": "45965.0",
     "availability_date": null,
     "total_packages": 5,
-    "packages": "50 State Emissions, Deck Rail + Cleats, Bed Mat<br>[installed_msrp], Mudguards, SR5 Upgrade + Cold Weather Package",
-    "created_at": "2024-03-18 11:24:20"
+    "packages": "Mudguards, SR5 Upgrade + Cold Weather Package, Bed Mat<br>[installed_msrp], Deck Rail + Cleats, 50 State Emissions",
+    "created_at": "2024-03-19 11:24:14"
   },
   {
     "dealer": "27021",
@@ -36,8 +36,8 @@
     "total_msrp": "45905.0",
     "availability_date": null,
     "total_packages": 5,
-    "packages": "Mudguards, 50 State Emissions, SR5 Upgrade + Cold Weather Package, Door Edge Guards[installed_msrp], Deck Rail + Cleats",
-    "created_at": "2024-03-18 11:24:22"
+    "packages": "Deck Rail + Cleats, Mudguards, SR5 Upgrade + Cold Weather Package, Door Edge Guards[installed_msrp], 50 State Emissions",
+    "created_at": "2024-03-19 11:24:16"
   },
   {
     "dealer": "04739",
@@ -56,8 +56,8 @@
     "total_msrp": "45965.0",
     "availability_date": null,
     "total_packages": 5,
-    "packages": "Bed Mat<br>[installed_msrp], 50 State Emissions, Deck Rail + Cleats, SR5 Upgrade + Cold Weather Package, Mudguards",
-    "created_at": "2024-03-18 11:24:24"
+    "packages": "Bed Mat<br>[installed_msrp], Deck Rail + Cleats, 50 State Emissions, Mudguards, SR5 Upgrade + Cold Weather Package",
+    "created_at": "2024-03-19 11:24:18"
   },
   {
     "dealer": "04819",
@@ -76,8 +76,8 @@
     "total_msrp": "50490.0",
     "availability_date": null,
     "total_packages": 6,
-    "packages": "Audio Multimedia Upgrade, TRD Sport Upgrade Package, 50 State Emissions, Moonroof<br>, Mini Tie-Downs with Hooks[installed_msrp], Door Edge Guards[installed_msrp]",
-    "created_at": "2024-03-18 11:25:05"
+    "packages": "Moonroof<br>, 50 State Emissions, Mini Tie-Downs with Hooks[installed_msrp], Audio Multimedia Upgrade, TRD Sport Upgrade Package, Door Edge Guards[installed_msrp]",
+    "created_at": "2024-03-19 11:24:53"
   },
   {
     "dealer": "04221",
@@ -96,8 +96,8 @@
     "total_msrp": "46722.0",
     "availability_date": null,
     "total_packages": 8,
-    "packages": "SR5 Upgrade Package, Deck Rail + Cleats, Predator Tube Steps[installed_msrp], Tailgate Insert - Black[installed_msrp], 50 State Emissions, Spray On Bedliner[installed_msrp], Exhaust Tip - Dark Chrome[installed_msrp], All-Weather Floor Liners and Door Sill Protectors[installed_msrp]",
-    "created_at": "2024-03-18 11:25:19"
+    "packages": "Exhaust Tip - Dark Chrome[installed_msrp], Deck Rail + Cleats, 50 State Emissions, SR5 Upgrade Package, Predator Tube Steps[installed_msrp], All-Weather Floor Liners and Door Sill Protectors[installed_msrp], Tailgate Insert - Black[installed_msrp], Spray On Bedliner[installed_msrp]",
+    "created_at": "2024-03-19 11:25:03"
   },
   {
     "dealer": "04226",
@@ -116,8 +116,8 @@
     "total_msrp": "48834.0",
     "availability_date": null,
     "total_packages": 3,
-    "packages": "TRD Sport Upgrade Package, Tailgate Insert - Black[installed_msrp], 50 State Emissions",
-    "created_at": "2024-03-18 11:25:20"
+    "packages": "50 State Emissions, Tailgate Insert - Black[installed_msrp], TRD Sport Upgrade Package",
+    "created_at": "2024-03-19 11:25:04"
   },
   {
     "dealer": "24079",
@@ -136,8 +136,8 @@
     "total_msrp": "46280.0",
     "availability_date": null,
     "total_packages": 5,
-    "packages": "Owner's Portfolio, Spray On Bedliner[installed_msrp], SR5 Upgrade + Cold Weather Package, Deck Rail + Cleats, 50 State Emissions",
-    "created_at": "2024-03-18 11:27:51"
+    "packages": "50 State Emissions, Owner's Portfolio, SR5 Upgrade + Cold Weather Package, Deck Rail + Cleats, Spray On Bedliner[installed_msrp]",
+    "created_at": "2024-03-19 11:27:23"
   },
   {
     "dealer": "22041",
@@ -156,8 +156,68 @@
     "total_msrp": "39810.0",
     "availability_date": null,
     "total_packages": 6,
-    "packages": "Heated Front Seats, 50 State Emissions, Body Side Molding[installed_msrp], Door Edge Guards[installed_msrp], Quick Charging Cable Package[installed_msrp], Deck Rail + Cleats",
-    "created_at": "2024-03-18 11:29:01"
+    "packages": "Door Edge Guards[installed_msrp], Deck Rail + Cleats, Body Side Molding[installed_msrp], Heated Front Seats, 50 State Emissions, Quick Charging Cable Package[installed_msrp]",
+    "created_at": "2024-03-19 11:28:24"
+  },
+  {
+    "dealer": "01085",
+    "vin": "3TYLB5JN4RT006588",
+    "year": "2024",
+    "vehicle": "tacoma",
+    "model": "SR5",
+    "enginge": "i-FORCE 2.4L Turbocharged Engine",
+    "transmission": "8-Speed Automatic Transmission",
+    "drivetrain": "4-Wheel Drive",
+    "cab": "Double Cab",
+    "bed": "5-ft bed",
+    "color": "Celestial Silver Metallic",
+    "interior": "Black Fabric",
+    "base_msrp": "40400",
+    "total_msrp": "45013.5",
+    "availability_date": "Now",
+    "total_packages": 9,
+    "packages": "Predator Drop Step, TOYOGUARD Platinum [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], Exhaust Tip - Black Chrome, Phone Cable Charge Package [set_global_lio_disclaimer], Deck Rail and Cleats, 6-Gallons of Gas [set_global_lio_disclaimer], Southeast Toyota Distributor [set_global_lio_disclaimer], 50 State Emissions",
+    "created_at": "2024-03-19 11:28:45"
+  },
+  {
+    "dealer": "01085",
+    "vin": "3TYLB5JN7RT005905",
+    "year": "2024",
+    "vehicle": "tacoma",
+    "model": "SR5",
+    "enginge": "i-FORCE 2.4L Turbocharged Engine",
+    "transmission": "8-Speed Automatic Transmission",
+    "drivetrain": "4-Wheel Drive",
+    "cab": "Double Cab",
+    "bed": "5-ft bed",
+    "color": "Ice Cap",
+    "interior": "Black Fabric",
+    "base_msrp": "40400",
+    "total_msrp": "45013.5",
+    "availability_date": "Now",
+    "total_packages": 9,
+    "packages": "Predator Drop Step, TOYOGUARD Platinum [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], Exhaust Tip - Black Chrome, Phone Cable Charge Package [set_global_lio_disclaimer], Deck Rail and Cleats, 6-Gallons of Gas [set_global_lio_disclaimer], Southeast Toyota Distributor [set_global_lio_disclaimer], 50 State Emissions",
+    "created_at": "2024-03-19 11:28:45"
+  },
+  {
+    "dealer": "01085",
+    "vin": "3TYLB5JN9RT005145",
+    "year": "2024",
+    "vehicle": "tacoma",
+    "model": "SR5",
+    "enginge": "i-FORCE 2.4L Turbocharged Engine",
+    "transmission": "8-Speed Automatic Transmission",
+    "drivetrain": "4-Wheel Drive",
+    "cab": "Double Cab",
+    "bed": "5-ft bed",
+    "color": "Underground",
+    "interior": "Boulder Fabric",
+    "base_msrp": "40400",
+    "total_msrp": "46870.5",
+    "availability_date": "Now",
+    "total_packages": 8,
+    "packages": "SR5 Upgrade Package (Double Cab) - includi, TOYOGUARD Platinum [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], Phone Cable Charge Package [set_global_lio_disclaimer], Deck Rail and Cleats, 6-Gallons of Gas [set_global_lio_disclaimer], Southeast Toyota Distributor [set_global_lio_disclaimer], 50 State Emissions",
+    "created_at": "2024-03-19 11:28:45"
   },
   {
     "dealer": "01071",
@@ -177,7 +237,7 @@
     "availability_date": "Now",
     "total_packages": 10,
     "packages": "TRD Off-Road Upgrade Package (5ft bed) - i, Audio Multimedia Upgrade - includes, TOYOGUARD Platinum [set_global_lio_disclaimer], All Weather Floor Mats - Boxed [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], Phone Cable Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], Front & Rear Stabilizer, Southeast Toyota Distributor [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:29:26"
+    "created_at": "2024-03-19 11:28:46"
   },
   {
     "dealer": "01007",
@@ -197,27 +257,7 @@
     "availability_date": "Now",
     "total_packages": 8,
     "packages": "TOYOGUARD Platinum [set_global_lio_disclaimer], Long Bed, Multimedia Screen Protector [set_global_lio_disclaimer], Phone Cable Charge Package [set_global_lio_disclaimer], Deck Rail and Cleats, 6-Gallons of Gas [set_global_lio_disclaimer], Southeast Toyota Distributor [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:29:27"
-  },
-  {
-    "dealer": "01007",
-    "vin": "3TYLB5JN6RT006253",
-    "year": "2024",
-    "vehicle": "tacoma",
-    "model": "SR5",
-    "enginge": "i-FORCE 2.4L Turbocharged Engine",
-    "transmission": "8-Speed Automatic Transmission",
-    "drivetrain": "4-Wheel Drive",
-    "cab": "Double Cab",
-    "bed": "5-ft bed",
-    "color": "Supersonic Red [extra_cost_color]",
-    "interior": "Black Fabric",
-    "base_msrp": "40400",
-    "total_msrp": "47172.0",
-    "availability_date": "Now",
-    "total_packages": 8,
-    "packages": "SR5 Upgrade Package (Double Cab) - includi, TOYOGUARD Platinum [set_global_lio_disclaimer], Premium Paint Charge, Phone Cable Charge Package [set_global_lio_disclaimer], Deck Rail and Cleats, 6-Gallons of Gas [set_global_lio_disclaimer], Southeast Toyota Distributor [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:29:27"
+    "created_at": "2024-03-19 11:28:47"
   },
   {
     "dealer": "01007",
@@ -237,7 +277,7 @@
     "availability_date": "Now",
     "total_packages": 9,
     "packages": "TRD Sport Upgrade Package (2WD, 5ft Bed) -, Cast Aluminum Running Boards, Audio Multimedia Upgrade - includes, TOYOGUARD Platinum [set_global_lio_disclaimer], Exhaust Tip - Black Chrome, Phone Cable Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:29:27"
+    "created_at": "2024-03-19 11:28:47"
   },
   {
     "dealer": "01064",
@@ -257,7 +297,7 @@
     "availability_date": "Now",
     "total_packages": 9,
     "packages": "SR5 Upgrade Package (Double Cab) - includi, TOYOGUARD Platinum [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], Phone Cable Charge Package [set_global_lio_disclaimer], Deck Rail and Cleats, 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:29:29"
+    "created_at": "2024-03-19 11:28:49"
   },
   {
     "dealer": "01064",
@@ -277,7 +317,7 @@
     "availability_date": "Now",
     "total_packages": 9,
     "packages": "SR5 Upgrade Package (Double Cab) - includi, TOYOGUARD Platinum [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], Phone Cable Charge Package [set_global_lio_disclaimer], Deck Rail and Cleats, 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:29:29"
+    "created_at": "2024-03-19 11:28:49"
   },
   {
     "dealer": "01053",
@@ -297,47 +337,7 @@
     "availability_date": "Now",
     "total_packages": 7,
     "packages": "TRD Off-Road Premium Package (5ft bed) - i, TOYOGUARD Platinum [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], Phone Cable Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:29:30"
-  },
-  {
-    "dealer": "09189",
-    "vin": "3TYLE5JN0RT004828",
-    "year": "2024",
-    "vehicle": "tacoma",
-    "model": "trdsport",
-    "enginge": "i-FORCE 2.4L Turbocharged Engine",
-    "transmission": "6-Speed Manual Transmission",
-    "drivetrain": "4-Wheel Drive",
-    "cab": "Double Cab",
-    "bed": "5-ft bed",
-    "color": "Underground",
-    "interior": "Black SofTex",
-    "base_msrp": "41800",
-    "total_msrp": "53911.5",
-    "availability_date": "03/19/2024",
-    "total_packages": 7,
-    "packages": "TRD Sport Premium Package (4WD, 5ft Bed) -, TOYOGUARD Platinum [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], Phone Cable Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], Southeast Toyota Distributor [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:29:31"
-  },
-  {
-    "dealer": "01084",
-    "vin": "3TYLB5JN4RT006980",
-    "year": "2024",
-    "vehicle": "tacoma",
-    "model": "trdoffroad",
-    "enginge": "i-FORCE 2.4L Turbocharged Engine",
-    "transmission": "8-Speed Automatic Transmission",
-    "drivetrain": "4-Wheel Drive",
-    "cab": "Double Cab",
-    "bed": "5-ft bed",
-    "color": "Solar Octane [extra_cost_color]",
-    "interior": "Black SofTex",
-    "base_msrp": "42900",
-    "total_msrp": "56654.0",
-    "availability_date": "Now",
-    "total_packages": 10,
-    "packages": "TRD Off-Road Premium Package (5ft bed) - i, Predator Drop Step, Center Console Vault, Premium Paint Charge, All Weather Floor Mats - Boxed [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], Exhaust Tip - Black Chrome, 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:29:32"
+    "created_at": "2024-03-19 11:28:50"
   },
   {
     "dealer": "01073",
@@ -357,47 +357,7 @@
     "availability_date": "Now",
     "total_packages": 9,
     "packages": "Predator Drop Step, TOYOGUARD Platinum [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], Exhaust Tip - Black Chrome, Phone Cable Charge Package [set_global_lio_disclaimer], Deck Rail and Cleats, 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:29:33"
-  },
-  {
-    "dealer": "10131",
-    "vin": "3TYKB5FN8RT001382",
-    "year": "2024",
-    "vehicle": "tacoma",
-    "model": "SR5",
-    "enginge": "i-FORCE 2.4L Turbocharged Engine",
-    "transmission": "8-Speed Automatic Transmission",
-    "drivetrain": "Rear-Wheel Drive",
-    "cab": "Double Cab",
-    "bed": "5-ft bed",
-    "color": "Underground",
-    "interior": "Black Fabric",
-    "base_msrp": "37200",
-    "total_msrp": "44869.0",
-    "availability_date": "Now",
-    "total_packages": 9,
-    "packages": "SR5 Upgrade + Cold Weather Package, TOYOGUARD Platinum [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], Phone Cable Charge Package [set_global_lio_disclaimer], Deck Rail and Cleats, 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:29:36"
-  },
-  {
-    "dealer": "10131",
-    "vin": "3TYLB5JNXRT005641",
-    "year": "2024",
-    "vehicle": "tacoma",
-    "model": "SR5",
-    "enginge": "i-FORCE 2.4L Turbocharged Engine",
-    "transmission": "8-Speed Automatic Transmission",
-    "drivetrain": "4-Wheel Drive",
-    "cab": "Double Cab",
-    "bed": "5-ft bed",
-    "color": "Blue Crush Metallic",
-    "interior": "Boulder Fabric",
-    "base_msrp": "40400",
-    "total_msrp": "48143.0",
-    "availability_date": "Now",
-    "total_packages": 10,
-    "packages": "SR5 Upgrade Package (Double Cab) - includi, Predator Drop Step, TOYOGUARD Platinum [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], Exhaust Tip - Black Chrome, Phone Cable Charge Package [set_global_lio_disclaimer], Deck Rail and Cleats, 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:29:36"
+    "created_at": "2024-03-19 11:28:53"
   },
   {
     "dealer": "10094",
@@ -417,7 +377,27 @@
     "availability_date": "Now",
     "total_packages": 12,
     "packages": "TRD Off-Road Upgrade Package (5ft bed) - i, Predator Drop Step, Audio Multimedia Upgrade - includes, TOYOGUARD Platinum [set_global_lio_disclaimer], Center Console Vault, Dashcam [set_global_lio_disclaimer], All Weather Floor Mats - Boxed [set_global_lio_disclaimer], Exhaust Tip - Black Chrome, Phone Cable Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:29:38"
+    "created_at": "2024-03-19 11:28:57"
+  },
+  {
+    "dealer": "10032",
+    "vin": "3TYKB5FN0RT001568",
+    "year": "2024",
+    "vehicle": "tacoma",
+    "model": "trdsport",
+    "enginge": "i-FORCE 2.4L Turbocharged Engine",
+    "transmission": "8-Speed Automatic Transmission",
+    "drivetrain": "Rear-Wheel Drive",
+    "cab": "Double Cab",
+    "bed": "5-ft bed",
+    "color": "Ice Cap",
+    "interior": "Black Fabric w/ White",
+    "base_msrp": "39400",
+    "total_msrp": "48785.0",
+    "availability_date": "Now",
+    "total_packages": 10,
+    "packages": "TRD Sport Upgrade Package (2WD, 5ft Bed) -, Moon Roof, Audio Multimedia Upgrade - includes, TOYOGUARD Platinum [set_global_lio_disclaimer], All Weather Floor Mats - Boxed [set_global_lio_disclaimer], Gloss Black \"Tacoma\" Tailgate Inserts [set_global_lio_disclaimer], Phone Cable Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
+    "created_at": "2024-03-19 11:28:58"
   },
   {
     "dealer": "10104",
@@ -437,7 +417,7 @@
     "availability_date": "Now",
     "total_packages": 9,
     "packages": "TRD Off-Road Upgrade Package (5ft bed) - i, Predator Drop Step, Audio Multimedia Upgrade - includes, TOYOGUARD Platinum [set_global_lio_disclaimer], Center Console Vault, Exhaust Tip - Black Chrome, 6-Gallons of Gas [set_global_lio_disclaimer], Southeast Toyota Distributor [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:29:40"
+    "created_at": "2024-03-19 11:28:58"
   },
   {
     "dealer": "10090",
@@ -457,7 +437,7 @@
     "availability_date": "Now",
     "total_packages": 8,
     "packages": "TOYOGUARD Platinum [set_global_lio_disclaimer], Long Bed, All Weather Floor Mats [set_global_lio_disclaimer], Phone Cable Charge Package [set_global_lio_disclaimer], Deck Rail and Cleats, 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:29:42"
+    "created_at": "2024-03-19 11:29:01"
   },
   {
     "dealer": "10090",
@@ -477,107 +457,7 @@
     "availability_date": "Now",
     "total_packages": 11,
     "packages": "SR5 Upgrade Package (Double Cab) - includi, Predator Drop Step, TOYOGUARD Platinum [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], Exhaust Tip - Black Chrome, Multimedia Screen Protector [set_global_lio_disclaimer], Phone Cable Charge Package [set_global_lio_disclaimer], Deck Rail and Cleats, 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:29:42"
-  },
-  {
-    "dealer": "10108",
-    "vin": "3TYLB5JN4RT007059",
-    "year": "2024",
-    "vehicle": "tacoma",
-    "model": "SR5",
-    "enginge": "i-FORCE 2.4L Turbocharged Engine",
-    "transmission": "8-Speed Automatic Transmission",
-    "drivetrain": "4-Wheel Drive",
-    "cab": "Double Cab",
-    "bed": "5-ft bed",
-    "color": "Celestial Silver Metallic",
-    "interior": "Black Fabric",
-    "base_msrp": "40400",
-    "total_msrp": "46126.0",
-    "availability_date": "Now",
-    "total_packages": 9,
-    "packages": "SR5 Upgrade Package (Double Cab) - includi, TOYOGUARD Platinum [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], Multimedia Screen Protector [set_global_lio_disclaimer], Phone Cable Charge Package [set_global_lio_disclaimer], Deck Rail and Cleats, 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:29:43"
-  },
-  {
-    "dealer": "10108",
-    "vin": "3TYLB5JN5RT004879",
-    "year": "2024",
-    "vehicle": "tacoma",
-    "model": "SR5",
-    "enginge": "i-FORCE 2.4L Turbocharged Engine",
-    "transmission": "8-Speed Automatic Transmission",
-    "drivetrain": "4-Wheel Drive",
-    "cab": "Double Cab",
-    "bed": "5-ft bed",
-    "color": "Black",
-    "interior": "Boulder Fabric",
-    "base_msrp": "40400",
-    "total_msrp": "48009.0",
-    "availability_date": "Now",
-    "total_packages": 11,
-    "packages": "SR5 Upgrade + Cold Weather Package, Predator Drop Step, TOYOGUARD Platinum [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], Exhaust Tip - Black Chrome, Multimedia Screen Protector [set_global_lio_disclaimer], Phone Cable Charge Package [set_global_lio_disclaimer], Deck Rail and Cleats, 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:29:43"
-  },
-  {
-    "dealer": "10017",
-    "vin": "3TYKD5HN1RT000324",
-    "year": "2024",
-    "vehicle": "tacoma",
-    "model": "SR",
-    "enginge": "i-FORCE 2.4L Turbocharged Engine",
-    "transmission": "8-Speed Automatic Transmission",
-    "drivetrain": "Rear-Wheel Drive",
-    "cab": "Double Cab",
-    "bed": "5-ft bed",
-    "color": "Celestial Silver Metallic",
-    "interior": "Black Fabric",
-    "base_msrp": "33700",
-    "total_msrp": "37110.0",
-    "availability_date": "Now",
-    "total_packages": 8,
-    "packages": "TOYOGUARD Platinum [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], Multimedia Screen Protector [set_global_lio_disclaimer], Phone Cable Charge Package [set_global_lio_disclaimer], Deck Rail and Cleats, 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:29:43"
-  },
-  {
-    "dealer": "10017",
-    "vin": "3TYKB5FN3RT000995",
-    "year": "2024",
-    "vehicle": "tacoma",
-    "model": "SR5",
-    "enginge": "i-FORCE 2.4L Turbocharged Engine",
-    "transmission": "8-Speed Automatic Transmission",
-    "drivetrain": "Rear-Wheel Drive",
-    "cab": "Double Cab",
-    "bed": "5-ft bed",
-    "color": "Black",
-    "interior": "Black Fabric",
-    "base_msrp": "37200",
-    "total_msrp": "40610.0",
-    "availability_date": "Now",
-    "total_packages": 8,
-    "packages": "TOYOGUARD Platinum [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], Multimedia Screen Protector [set_global_lio_disclaimer], Phone Cable Charge Package [set_global_lio_disclaimer], Deck Rail and Cleats, 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:29:43"
-  },
-  {
-    "dealer": "10017",
-    "vin": "3TYKB5FNXRT001674",
-    "year": "2024",
-    "vehicle": "tacoma",
-    "model": "SR5",
-    "enginge": "i-FORCE 2.4L Turbocharged Engine",
-    "transmission": "8-Speed Automatic Transmission",
-    "drivetrain": "Rear-Wheel Drive",
-    "cab": "Double Cab",
-    "bed": "5-ft bed",
-    "color": "Ice Cap",
-    "interior": "Black Fabric",
-    "base_msrp": "37200",
-    "total_msrp": "44649.0",
-    "availability_date": "Now",
-    "total_packages": 10,
-    "packages": "SR5 Upgrade + Cold Weather Package, TOYOGUARD Platinum [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], Gloss Black Overlays and Tailgate Insert Package [set_global_lio_disclaimer], Multimedia Screen Protector [set_global_lio_disclaimer], Phone Cable Charge Package [set_global_lio_disclaimer], Deck Rail and Cleats, 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:29:43"
+    "created_at": "2024-03-19 11:29:01"
   },
   {
     "dealer": "10096",
@@ -597,7 +477,7 @@
     "availability_date": "Now",
     "total_packages": 11,
     "packages": "SR5 Upgrade + Cold Weather Package, TOYOGUARD Platinum [set_global_lio_disclaimer], Long Bed, All Weather Floor Mats [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], Multimedia Screen Protector [set_global_lio_disclaimer], Phone Cable Charge Package [set_global_lio_disclaimer], Deck Rail and Cleats, 6-Gallons of Gas [set_global_lio_disclaimer], Southeast Toyota Distributor [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:29:44"
+    "created_at": "2024-03-19 11:29:03"
   },
   {
     "dealer": "10041",
@@ -617,7 +497,7 @@
     "availability_date": "Now",
     "total_packages": 9,
     "packages": "XP [set_global_lio_disclaimer], Audio Multimedia Upgrade - includes, All Weather Floor Mats - Boxed [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], 18\" TRD Wheel, Exhaust Tip, Predator Running Board, 6-Gallons of Gas [set_global_lio_disclaimer], TRD Sport Package:, SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:29:46"
+    "created_at": "2024-03-19 11:29:04"
   },
   {
     "dealer": "10039",
@@ -637,27 +517,7 @@
     "availability_date": "Now",
     "total_packages": 6,
     "packages": "SR5 Upgrade + Cold Weather Package, TOYOGUARD Platinum [set_global_lio_disclaimer], Deck Rail and Cleats, 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:29:47"
-  },
-  {
-    "dealer": "10015",
-    "vin": "3TYKB5FN6RT001705",
-    "year": "2024",
-    "vehicle": "tacoma",
-    "model": "trdsport",
-    "enginge": "i-FORCE 2.4L Turbocharged Engine",
-    "transmission": "8-Speed Automatic Transmission",
-    "drivetrain": "Rear-Wheel Drive",
-    "cab": "Double Cab",
-    "bed": "5-ft bed",
-    "color": "Underground",
-    "interior": "Black Fabric w/ White",
-    "base_msrp": "39400",
-    "total_msrp": "46404.0",
-    "availability_date": "Now",
-    "total_packages": 11,
-    "packages": "XP [set_global_lio_disclaimer], Audio Multimedia Upgrade - includes, TOYOGUARD Platinum [set_global_lio_disclaimer], All Weather Floor Mats - Boxed [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], Phone Cable Charge Package [set_global_lio_disclaimer], 18\" TRD Wheel, Exhaust Tip, Predator Running Board, 6-Gallons of Gas [set_global_lio_disclaimer], TRD Sport Package:, SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:29:48"
+    "created_at": "2024-03-19 11:29:05"
   },
   {
     "dealer": "10087",
@@ -677,7 +537,7 @@
     "availability_date": "Now",
     "total_packages": 8,
     "packages": "TOYOGUARD Platinum [set_global_lio_disclaimer], All Weather Floor Mats - Boxed [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], Phone Cable Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Sport Package:, SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:29:50"
+    "created_at": "2024-03-19 11:29:07"
   },
   {
     "dealer": "10087",
@@ -697,7 +557,7 @@
     "availability_date": "Now",
     "total_packages": 10,
     "packages": "SR5 Upgrade Package (Double Cab) - includi, TOYOGUARD Platinum [set_global_lio_disclaimer], Carpet Floor Mats [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], Multimedia Screen Protector [set_global_lio_disclaimer], Phone Cable Charge Package [set_global_lio_disclaimer], Deck Rail and Cleats, 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:29:50"
+    "created_at": "2024-03-19 11:29:07"
   },
   {
     "dealer": "10087",
@@ -717,7 +577,7 @@
     "availability_date": "Now",
     "total_packages": 11,
     "packages": "TRD Sport Upgrade Package (2WD, 5ft Bed) -, Cast Aluminum Running Boards, Audio Multimedia Upgrade - includes, TOYOGUARD Platinum [set_global_lio_disclaimer], All Weather Floor Mats - Boxed [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], Exhaust Tip - Black Chrome, Phone Cable Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:29:50"
+    "created_at": "2024-03-19 11:29:07"
   },
   {
     "dealer": "10035",
@@ -737,7 +597,7 @@
     "availability_date": "Now",
     "total_packages": 7,
     "packages": "SR5 Upgrade Package (Double Cab) - includi, Premium Paint Charge, All Weather Floor Mats [set_global_lio_disclaimer], Deck Rail and Cleats, 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:29:50"
+    "created_at": "2024-03-19 11:29:08"
   },
   {
     "dealer": "10035",
@@ -754,10 +614,10 @@
     "interior": "Black Fabric w/ White",
     "base_msrp": "39400",
     "total_msrp": "47231.0",
-    "availability_date": "03/19/2024",
+    "availability_date": "03/21/2024",
     "total_packages": 7,
     "packages": "TRD Sport Upgrade Package (2WD, 5ft Bed) -, Audio Multimedia Upgrade - includes, Premium Paint Charge, All Weather Floor Mats - Boxed [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:29:50"
+    "created_at": "2024-03-19 11:29:08"
   },
   {
     "dealer": "10046",
@@ -777,7 +637,7 @@
     "availability_date": "Now",
     "total_packages": 10,
     "packages": "TRD Sport Upgrade Package (2WD, 5ft Bed) -, Cast Aluminum Running Boards, Audio Multimedia Upgrade - includes, TOYOGUARD Platinum [set_global_lio_disclaimer], Premium Paint Charge, All Weather Floor Mats - Boxed [set_global_lio_disclaimer], Exhaust Tip - Black Chrome, 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:29:51"
+    "created_at": "2024-03-19 11:29:08"
   },
   {
     "dealer": "10121",
@@ -797,7 +657,7 @@
     "availability_date": "Now",
     "total_packages": 11,
     "packages": "TRD Off-Road Upgrade Package (6ft bed) - i, Moon Roof, Audio Multimedia Upgrade - includes, TOYOGUARD Platinum [set_global_lio_disclaimer], All Weather Floor Mats - Boxed [set_global_lio_disclaimer], 120V/400W AC Power Inverter, Clear Paint Protection - Door Package [set_global_lio_disclaimer], Phone Cable Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], Southeast Toyota Distributor [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:29:51"
+    "created_at": "2024-03-19 11:29:09"
   },
   {
     "dealer": "10040",
@@ -817,7 +677,7 @@
     "availability_date": "Now",
     "total_packages": 8,
     "packages": "TOYOGUARD Platinum [set_global_lio_disclaimer], Carpet Floor Mats [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], Phone Cable Charge Package [set_global_lio_disclaimer], Deck Rail and Cleats, 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:29:52"
+    "created_at": "2024-03-19 11:29:10"
   },
   {
     "dealer": "10078",
@@ -837,7 +697,7 @@
     "availability_date": "Now",
     "total_packages": 7,
     "packages": "TOYOGUARD Platinum [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], Phone Cable Charge Package [set_global_lio_disclaimer], Deck Rail and Cleats, 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:29:53"
+    "created_at": "2024-03-19 11:29:11"
   },
   {
     "dealer": "10078",
@@ -857,7 +717,7 @@
     "availability_date": "Now",
     "total_packages": 10,
     "packages": "SR5 Upgrade Package (Double Cab) - includi, TOYOGUARD Platinum [set_global_lio_disclaimer], Dashcam [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], Multimedia Screen Protector [set_global_lio_disclaimer], Phone Cable Charge Package [set_global_lio_disclaimer], Deck Rail and Cleats, 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:29:53"
+    "created_at": "2024-03-19 11:29:11"
   },
   {
     "dealer": "10078",
@@ -877,7 +737,7 @@
     "availability_date": "Now",
     "total_packages": 11,
     "packages": "TRD Sport Upgrade Package (2WD, 5ft Bed) -, XP [set_global_lio_disclaimer], Moon Roof, Audio Multimedia Upgrade - includes, TOYOGUARD Platinum [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], Phone Cable Charge Package [set_global_lio_disclaimer], 18\" TRD Wheel, Exhaust Tip, Predator Running Board, 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:29:53"
+    "created_at": "2024-03-19 11:29:11"
   },
   {
     "dealer": "10112",
@@ -897,67 +757,27 @@
     "availability_date": "Now",
     "total_packages": 11,
     "packages": "TRD Sport Upgrade Package (2WD, 5ft Bed) -, Cast Aluminum Running Boards, Audio Multimedia Upgrade - includes, TOYOGUARD Platinum [set_global_lio_disclaimer], All Weather Floor Mats - Boxed [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], Exhaust Tip - Black Chrome, Phone Cable Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:29:54"
+    "created_at": "2024-03-19 11:29:12"
   },
   {
-    "dealer": "10112",
-    "vin": "3TYLB5JN7RT005614",
+    "dealer": "39055",
+    "vin": "3TYLE5JN4RT002936",
     "year": "2024",
     "vehicle": "tacoma",
     "model": "trdsport",
     "enginge": "i-FORCE 2.4L Turbocharged Engine",
-    "transmission": "8-Speed Automatic Transmission",
-    "drivetrain": "4-Wheel Drive",
-    "cab": "Double Cab",
-    "bed": "5-ft bed",
-    "color": "Blue Crush Metallic",
-    "interior": "Black Fabric w/ White",
-    "base_msrp": "42600",
-    "total_msrp": "54118.5",
-    "availability_date": "Now",
-    "total_packages": 12,
-    "packages": "TRD Sport Upgrade Package (4WD, 5ft Bed) -, Cast Aluminum Running Boards, Moon Roof, Audio Multimedia Upgrade - includes, TOYOGUARD Platinum [set_global_lio_disclaimer], All Weather Floor Mats - Boxed [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], Exhaust Tip - Black Chrome, Phone Cable Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:29:54"
-  },
-  {
-    "dealer": "39055",
-    "vin": "3TYLB5JN3RT007084",
-    "year": "2024",
-    "vehicle": "tacoma",
-    "model": "SR5",
-    "enginge": "i-FORCE 2.4L Turbocharged Engine",
-    "transmission": "8-Speed Automatic Transmission",
-    "drivetrain": "4-Wheel Drive",
-    "cab": "Double Cab",
-    "bed": "5-ft bed",
-    "color": "Celestial Silver Metallic",
-    "interior": "Boulder Fabric",
-    "base_msrp": "40400",
-    "total_msrp": "46882.0",
-    "availability_date": "Now",
-    "total_packages": 7,
-    "packages": "SR5 Upgrade + Cold Weather Package, TOYOGUARD Platinum [set_global_lio_disclaimer], Phone Cable Charge Package [set_global_lio_disclaimer], Deck Rail and Cleats, 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:29:55"
-  },
-  {
-    "dealer": "10133",
-    "vin": "3TYLB5JN6RT001554",
-    "year": "2024",
-    "vehicle": "tacoma",
-    "model": "SR5",
-    "enginge": "i-FORCE 2.4L Turbocharged Engine",
-    "transmission": "8-Speed Automatic Transmission",
+    "transmission": "6-Speed Manual Transmission",
     "drivetrain": "4-Wheel Drive",
     "cab": "Double Cab",
     "bed": "5-ft bed",
     "color": "Underground",
-    "interior": "Black Fabric",
-    "base_msrp": "40400",
-    "total_msrp": "47025.0",
-    "availability_date": "Now",
-    "total_packages": 9,
-    "packages": "SR5 Upgrade Package (Double Cab) - includi, TOYOGUARD Platinum [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], Multimedia Screen Protector [set_global_lio_disclaimer], Phone Cable Charge Package [set_global_lio_disclaimer], Deck Rail and Cleats, 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:29:57"
+    "interior": "Black SofTex",
+    "base_msrp": "41800",
+    "total_msrp": "54000.0",
+    "availability_date": "03/25/2024",
+    "total_packages": 8,
+    "packages": "TRD Sport Premium Package (4WD, 5ft Bed) -, TOYOGUARD Platinum [set_global_lio_disclaimer], Dashcam [set_global_lio_disclaimer], All Weather Floor Mats - Boxed [set_global_lio_disclaimer], Phone Cable Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
+    "created_at": "2024-03-19 11:29:12"
   },
   {
     "dealer": "09205",
@@ -977,7 +797,7 @@
     "availability_date": "Now",
     "total_packages": 8,
     "packages": "Center Console Vault, Bed Step (Non-Powered), Premium Paint Charge, Multimedia Screen Protector [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], Limited Package, SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:30:07"
+    "created_at": "2024-03-19 11:29:23"
   },
   {
     "dealer": "09208",
@@ -997,27 +817,7 @@
     "availability_date": "Now",
     "total_packages": 5,
     "packages": "TOYOGUARD Platinum [set_global_lio_disclaimer], Deck Rail and Cleats, 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:30:08"
-  },
-  {
-    "dealer": "09208",
-    "vin": "3TYLB5JN7RT006049",
-    "year": "2024",
-    "vehicle": "tacoma",
-    "model": "trdoffroad",
-    "enginge": "i-FORCE 2.4L Turbocharged Engine",
-    "transmission": "8-Speed Automatic Transmission",
-    "drivetrain": "4-Wheel Drive",
-    "cab": "Double Cab",
-    "bed": "5-ft bed",
-    "color": "Underground",
-    "interior": "Boulder/Black Fabric w/ Anodized Blue",
-    "base_msrp": "42900",
-    "total_msrp": "48464.0",
-    "availability_date": "Now",
-    "total_packages": 10,
-    "packages": "Predator Drop Step, Audio Multimedia Upgrade - includes, TOYOGUARD Platinum [set_global_lio_disclaimer], Center Console Vault, Exhaust Tip - Black Chrome, Phone Cable Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Off Road Package:, Southeast Toyota Distributor [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:30:08"
+    "created_at": "2024-03-19 11:29:23"
   },
   {
     "dealer": "09096",
@@ -1037,27 +837,7 @@
     "availability_date": "Now",
     "total_packages": 10,
     "packages": "SR5 Upgrade Package (Double Cab) - includi, Predator Drop Step, TOYOGUARD Platinum [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], Exhaust Tip - Black Chrome, Phone Cable Charge Package [set_global_lio_disclaimer], Deck Rail and Cleats, 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:30:09"
-  },
-  {
-    "dealer": "09096",
-    "vin": "3TYLB5JN5RT005997",
-    "year": "2024",
-    "vehicle": "tacoma",
-    "model": "SR5",
-    "enginge": "i-FORCE 2.4L Turbocharged Engine",
-    "transmission": "8-Speed Automatic Transmission",
-    "drivetrain": "4-Wheel Drive",
-    "cab": "Double Cab",
-    "bed": "5-ft bed",
-    "color": "Ice Cap",
-    "interior": "Black Fabric",
-    "base_msrp": "40400",
-    "total_msrp": "48674.0",
-    "availability_date": "Now",
-    "total_packages": 10,
-    "packages": "SR5 Upgrade + Cold Weather Package, Predator Drop Step, TOYOGUARD Platinum [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], Exhaust Tip - Black Chrome, Phone Cable Charge Package [set_global_lio_disclaimer], Deck Rail and Cleats, 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:30:09"
+    "created_at": "2024-03-19 11:29:25"
   },
   {
     "dealer": "09096",
@@ -1077,7 +857,7 @@
     "availability_date": "Now",
     "total_packages": 8,
     "packages": "TRD Off-Road Upgrade Package (5ft bed) - i, Audio Multimedia Upgrade - includes, TOYOGUARD Platinum [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], Phone Cable Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:30:09"
+    "created_at": "2024-03-19 11:29:25"
   },
   {
     "dealer": "09178",
@@ -1097,87 +877,7 @@
     "availability_date": "Now",
     "total_packages": 7,
     "packages": "SR5 Upgrade + Cold Weather Package, TOYOGUARD Platinum [set_global_lio_disclaimer], Carpet Floor Mats [set_global_lio_disclaimer], Deck Rail and Cleats, 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:30:10"
-  },
-  {
-    "dealer": "09178",
-    "vin": "3TYLB5JN1RT005933",
-    "year": "2024",
-    "vehicle": "tacoma",
-    "model": "SR5",
-    "enginge": "i-FORCE 2.4L Turbocharged Engine",
-    "transmission": "8-Speed Automatic Transmission",
-    "drivetrain": "4-Wheel Drive",
-    "cab": "Double Cab",
-    "bed": "5-ft bed",
-    "color": "Celestial Silver Metallic",
-    "interior": "Black Fabric",
-    "base_msrp": "40400",
-    "total_msrp": "47752.9",
-    "availability_date": "Now",
-    "total_packages": 7,
-    "packages": "SR5 Upgrade + Cold Weather Package, Predator Drop Step, Exhaust Tip - Black Chrome, Deck Rail and Cleats, 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:30:10"
-  },
-  {
-    "dealer": "09178",
-    "vin": "3TYLB5JNXRT006112",
-    "year": "2024",
-    "vehicle": "tacoma",
-    "model": "trdsport",
-    "enginge": "i-FORCE 2.4L Turbocharged Engine",
-    "transmission": "8-Speed Automatic Transmission",
-    "drivetrain": "4-Wheel Drive",
-    "cab": "Double Cab",
-    "bed": "5-ft bed",
-    "color": "Underground",
-    "interior": "Black Fabric w/ White",
-    "base_msrp": "42600",
-    "total_msrp": "48525.9",
-    "availability_date": "Now",
-    "total_packages": 9,
-    "packages": "Cast Aluminum Running Boards, Audio Multimedia Upgrade - includes, TOYOGUARD Platinum [set_global_lio_disclaimer], All Weather Floor Mats - Boxed [set_global_lio_disclaimer], Exhaust Tip - Black Chrome, 6-Gallons of Gas [set_global_lio_disclaimer], TRD Sport Package:, SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:30:10"
-  },
-  {
-    "dealer": "09178",
-    "vin": "3TYLB5JN2RT005262",
-    "year": "2024",
-    "vehicle": "tacoma",
-    "model": "trdsport",
-    "enginge": "i-FORCE 2.4L Turbocharged Engine",
-    "transmission": "8-Speed Automatic Transmission",
-    "drivetrain": "4-Wheel Drive",
-    "cab": "Double Cab",
-    "bed": "5-ft bed",
-    "color": "Solar Octane [extra_cost_color]",
-    "interior": "Boulder/Black Fabric w/ Smoke Silver",
-    "base_msrp": "42600",
-    "total_msrp": "52145.9",
-    "availability_date": "Now",
-    "total_packages": 10,
-    "packages": "TRD Sport Upgrade Package (4WD, 5ft Bed) -, Audio Multimedia Upgrade - includes, TOYOGUARD Platinum [set_global_lio_disclaimer], Premium Paint Charge, All Weather Floor Mats - Boxed [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], Phone Cable Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], Southeast Toyota Distributor [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:30:10"
-  },
-  {
-    "dealer": "09178",
-    "vin": "3TYLB5JN6RT005605",
-    "year": "2024",
-    "vehicle": "tacoma",
-    "model": "trdsport",
-    "enginge": "i-FORCE 2.4L Turbocharged Engine",
-    "transmission": "8-Speed Automatic Transmission",
-    "drivetrain": "4-Wheel Drive",
-    "cab": "Double Cab",
-    "bed": "5-ft bed",
-    "color": "Blue Crush Metallic",
-    "interior": "Black SofTex",
-    "base_msrp": "42600",
-    "total_msrp": "57381.9",
-    "availability_date": "03/19/2024",
-    "total_packages": 8,
-    "packages": "TRD Sport Premium Package (4WD, 5ft Bed) -, XP [set_global_lio_disclaimer], TOYOGUARD Platinum [set_global_lio_disclaimer], All Weather Floor Mats - Boxed [set_global_lio_disclaimer], 18\" TRD Wheel, Exhaust Tip, Predator Running Board, 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:30:10"
+    "created_at": "2024-03-19 11:29:25"
   },
   {
     "dealer": "09212",
@@ -1197,7 +897,7 @@
     "availability_date": "Now",
     "total_packages": 9,
     "packages": "SR5 Upgrade + Cold Weather Package, TOYOGUARD Platinum [set_global_lio_disclaimer], Carpet Floor Mats [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], Phone Cable Charge Package [set_global_lio_disclaimer], Deck Rail and Cleats, 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:30:10"
+    "created_at": "2024-03-19 11:29:26"
   },
   {
     "dealer": "09212",
@@ -1217,67 +917,7 @@
     "availability_date": "Now",
     "total_packages": 10,
     "packages": "TOYOGUARD Platinum [set_global_lio_disclaimer], Long Bed, Premium Paint Charge, All Weather Floor Mats [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], Phone Cable Charge Package [set_global_lio_disclaimer], Deck Rail and Cleats, 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:30:10"
-  },
-  {
-    "dealer": "09210",
-    "vin": "3TYKB5FN4RT001590",
-    "year": "2024",
-    "vehicle": "tacoma",
-    "model": "trdsport",
-    "enginge": "i-FORCE 2.4L Turbocharged Engine",
-    "transmission": "8-Speed Automatic Transmission",
-    "drivetrain": "Rear-Wheel Drive",
-    "cab": "Double Cab",
-    "bed": "5-ft bed",
-    "color": "Blue Crush Metallic",
-    "interior": "Boulder/Black Fabric w/ Smoke Silver",
-    "base_msrp": "39400",
-    "total_msrp": "43677.0",
-    "availability_date": "Now",
-    "total_packages": 7,
-    "packages": "Audio Multimedia Upgrade - includes, TOYOGUARD Platinum [set_global_lio_disclaimer], All Weather Floor Mats - Boxed [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Sport Package:, SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:30:12"
-  },
-  {
-    "dealer": "09210",
-    "vin": "3TYKB5FN7RT000658",
-    "year": "2024",
-    "vehicle": "tacoma",
-    "model": "SR5",
-    "enginge": "i-FORCE 2.4L Turbocharged Engine",
-    "transmission": "8-Speed Automatic Transmission",
-    "drivetrain": "Rear-Wheel Drive",
-    "cab": "Double Cab",
-    "bed": "5-ft bed",
-    "color": "Ice Cap",
-    "interior": "Boulder Fabric",
-    "base_msrp": "37200",
-    "total_msrp": "43707.0",
-    "availability_date": "Now",
-    "total_packages": 7,
-    "packages": "SR5 Upgrade Package (Double Cab) - includi, TOYOGUARD Platinum [set_global_lio_disclaimer], Carpet Floor Mats [set_global_lio_disclaimer], Deck Rail and Cleats, 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:30:12"
-  },
-  {
-    "dealer": "09210",
-    "vin": "3TYLB5JN9RT006991",
-    "year": "2024",
-    "vehicle": "tacoma",
-    "model": "SR5",
-    "enginge": "i-FORCE 2.4L Turbocharged Engine",
-    "transmission": "8-Speed Automatic Transmission",
-    "drivetrain": "4-Wheel Drive",
-    "cab": "Double Cab",
-    "bed": "5-ft bed",
-    "color": "Black",
-    "interior": "Black Fabric",
-    "base_msrp": "40400",
-    "total_msrp": "43902.0",
-    "availability_date": "Now",
-    "total_packages": 6,
-    "packages": "TOYOGUARD Platinum [set_global_lio_disclaimer], Carpet Floor Mats [set_global_lio_disclaimer], Deck Rail and Cleats, 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:30:12"
+    "created_at": "2024-03-19 11:29:26"
   },
   {
     "dealer": "09183",
@@ -1297,7 +937,7 @@
     "availability_date": "Now",
     "total_packages": 6,
     "packages": "SR5 Upgrade Package (Double Cab) - includi, All Weather Floor Mats [set_global_lio_disclaimer], Deck Rail and Cleats, 6-Gallons of Gas [set_global_lio_disclaimer], Southeast Toyota Distributor [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:30:13"
+    "created_at": "2024-03-19 11:29:28"
   },
   {
     "dealer": "09183",
@@ -1317,7 +957,7 @@
     "availability_date": "Now",
     "total_packages": 5,
     "packages": "All Weather Floor Mats [set_global_lio_disclaimer], Deck Rail and Cleats, 6-Gallons of Gas [set_global_lio_disclaimer], Southeast Toyota Distributor [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:30:13"
+    "created_at": "2024-03-19 11:29:28"
   },
   {
     "dealer": "09183",
@@ -1337,47 +977,7 @@
     "availability_date": "Now",
     "total_packages": 8,
     "packages": "SR5 Upgrade Package (Double Cab) - includi, Predator Drop Step, All Weather Floor Mats [set_global_lio_disclaimer], Exhaust Tip - Black Chrome, Deck Rail and Cleats, 6-Gallons of Gas [set_global_lio_disclaimer], Southeast Toyota Distributor [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:30:13"
-  },
-  {
-    "dealer": "09183",
-    "vin": "3TYLB5JN4RT004825",
-    "year": "2024",
-    "vehicle": "tacoma",
-    "model": "limited",
-    "enginge": "i-FORCE 2.4L Turbocharged Engine",
-    "transmission": "8-Speed Automatic Transmission",
-    "drivetrain": "4-Wheel Drive",
-    "cab": "Double Cab",
-    "bed": "5-ft bed",
-    "color": "Black",
-    "interior": "Black SofTex",
-    "base_msrp": "52100",
-    "total_msrp": "54732.5",
-    "availability_date": "Now",
-    "total_packages": 5,
-    "packages": "All Weather Floor Mats - Boxed [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], Limited Package, Southeast Toyota Distributor [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:30:13"
-  },
-  {
-    "dealer": "09183",
-    "vin": "3TYLB5JN7RT003314",
-    "year": "2024",
-    "vehicle": "tacoma",
-    "model": "limited",
-    "enginge": "i-FORCE 2.4L Turbocharged Engine",
-    "transmission": "8-Speed Automatic Transmission",
-    "drivetrain": "4-Wheel Drive",
-    "cab": "Double Cab",
-    "bed": "5-ft bed",
-    "color": "Celestial Silver Metallic",
-    "interior": "Black SofTex",
-    "base_msrp": "52100",
-    "total_msrp": "55730.5",
-    "availability_date": "Now",
-    "total_packages": 7,
-    "packages": "Center Console Vault, Bed Step (Non-Powered), All Weather Floor Mats - Boxed [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], Limited Package, Southeast Toyota Distributor [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:30:13"
+    "created_at": "2024-03-19 11:29:28"
   },
   {
     "dealer": "09232",
@@ -1397,7 +997,7 @@
     "availability_date": "Now",
     "total_packages": 5,
     "packages": "Audio Multimedia Upgrade - includes, 6-Gallons of Gas [set_global_lio_disclaimer], TRD Off Road Package:, Southeast Toyota Distributor [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:30:14"
+    "created_at": "2024-03-19 11:29:29"
   },
   {
     "dealer": "09232",
@@ -1414,10 +1014,10 @@
     "interior": "Black Fabric",
     "base_msrp": "40400",
     "total_msrp": "46503.5",
-    "availability_date": "03/19/2024",
+    "availability_date": "Now",
     "total_packages": 5,
     "packages": "SR5 Upgrade + Cold Weather Package, Deck Rail and Cleats, 6-Gallons of Gas [set_global_lio_disclaimer], Southeast Toyota Distributor [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:30:14"
+    "created_at": "2024-03-19 11:29:29"
   },
   {
     "dealer": "09232",
@@ -1437,7 +1037,7 @@
     "availability_date": "Now",
     "total_packages": 5,
     "packages": "TRD Off-Road Upgrade Package (5ft bed) - i, Audio Multimedia Upgrade - includes, 6-Gallons of Gas [set_global_lio_disclaimer], Southeast Toyota Distributor [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:30:14"
+    "created_at": "2024-03-19 11:29:29"
   },
   {
     "dealer": "09218",
@@ -1457,7 +1057,7 @@
     "availability_date": "Now",
     "total_packages": 9,
     "packages": "Cast Aluminum Running Boards, TOYOGUARD Platinum [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], Exhaust Tip - Black Chrome, Phone Cable Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Sport Package:, SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:30:15"
+    "created_at": "2024-03-19 11:29:30"
   },
   {
     "dealer": "09202",
@@ -1477,7 +1077,7 @@
     "availability_date": "Now",
     "total_packages": 9,
     "packages": "SR5 Upgrade Package (Double Cab) - includi, TOYOGUARD Platinum [set_global_lio_disclaimer], Gloss Black Overlays and Tailgate Insert Package [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], Multimedia Screen Protector [set_global_lio_disclaimer], Deck Rail and Cleats, 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:30:16"
+    "created_at": "2024-03-19 11:29:31"
   },
   {
     "dealer": "09202",
@@ -1497,7 +1097,7 @@
     "availability_date": "Now",
     "total_packages": 11,
     "packages": "Oval Step Tube - Black, TOYOGUARD Platinum [set_global_lio_disclaimer], Dashcam [set_global_lio_disclaimer], Bed Step (Non-Powered), All Weather Floor Liners, Exhaust Tip - Black Chrome, Phone Cable Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], TRD Sport Package:, SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:30:16"
+    "created_at": "2024-03-19 11:29:31"
   },
   {
     "dealer": "09202",
@@ -1517,7 +1117,7 @@
     "availability_date": "Now",
     "total_packages": 11,
     "packages": "SR5 Upgrade Package (Double Cab) - includi, Predator Drop Step, TOYOGUARD Platinum [set_global_lio_disclaimer], Gloss Black Overlays and Tailgate Insert Package [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], Exhaust Tip - Black Chrome, Multimedia Screen Protector [set_global_lio_disclaimer], Deck Rail and Cleats, 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:30:16"
+    "created_at": "2024-03-19 11:29:31"
   },
   {
     "dealer": "09240",
@@ -1537,7 +1137,7 @@
     "availability_date": "Now",
     "total_packages": 9,
     "packages": "Oval Step Tube - Black, TOYOGUARD Platinum [set_global_lio_disclaimer], Carpet Floor Mats [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], Exhaust Tip - Black Chrome, Deck Rail and Cleats, 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:30:18"
+    "created_at": "2024-03-19 11:29:33"
   },
   {
     "dealer": "09240",
@@ -1557,67 +1157,7 @@
     "availability_date": "Now",
     "total_packages": 8,
     "packages": "SR5 Upgrade + Cold Weather Package, TOYOGUARD Platinum [set_global_lio_disclaimer], Premium Paint Charge, Clear Paint Protection - Door Package [set_global_lio_disclaimer], Deck Rail and Cleats, 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:30:18"
-  },
-  {
-    "dealer": "09043",
-    "vin": "3TYLB5JN8RT005167",
-    "year": "2024",
-    "vehicle": "tacoma",
-    "model": "limited",
-    "enginge": "i-FORCE 2.4L Turbocharged Engine",
-    "transmission": "8-Speed Automatic Transmission",
-    "drivetrain": "4-Wheel Drive",
-    "cab": "Double Cab",
-    "bed": "5-ft bed",
-    "color": "Wind Chill Pearl [extra_cost_color]",
-    "interior": "Black SofTex",
-    "base_msrp": "52100",
-    "total_msrp": "55019.0",
-    "availability_date": "03/19/2024",
-    "total_packages": 5,
-    "packages": "Premium Paint Charge, 6-Gallons of Gas [set_global_lio_disclaimer], Limited Package, Southeast Toyota Distributor [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:30:20"
-  },
-  {
-    "dealer": "09163",
-    "vin": "3TYLB5JNXRT005347",
-    "year": "2024",
-    "vehicle": "tacoma",
-    "model": "trdoffroad",
-    "enginge": "i-FORCE 2.4L Turbocharged Engine",
-    "transmission": "8-Speed Automatic Transmission",
-    "drivetrain": "4-Wheel Drive",
-    "cab": "Double Cab",
-    "bed": "5-ft bed",
-    "color": "Ice Cap",
-    "interior": "Black SofTex",
-    "base_msrp": "42900",
-    "total_msrp": "54793.0",
-    "availability_date": "Now",
-    "total_packages": 5,
-    "packages": "TRD Off-Road Premium Package (5ft bed) - i, TOYOGUARD Platinum [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], Southeast Toyota Distributor [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:30:20"
-  },
-  {
-    "dealer": "09214",
-    "vin": "3TYKB5FN1RT001675",
-    "year": "2024",
-    "vehicle": "tacoma",
-    "model": "trdsport",
-    "enginge": "i-FORCE 2.4L Turbocharged Engine",
-    "transmission": "8-Speed Automatic Transmission",
-    "drivetrain": "Rear-Wheel Drive",
-    "cab": "Double Cab",
-    "bed": "5-ft bed",
-    "color": "Solar Octane [extra_cost_color]",
-    "interior": "Black Fabric w/ White",
-    "base_msrp": "39400",
-    "total_msrp": "48093.0",
-    "availability_date": "Now",
-    "total_packages": 7,
-    "packages": "TRD Sport Upgrade Package (2WD, 5ft Bed) -, Audio Multimedia Upgrade - includes, TOYOGUARD Platinum [set_global_lio_disclaimer], Premium Paint Charge, 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:30:21"
+    "created_at": "2024-03-19 11:29:33"
   },
   {
     "dealer": "09214",
@@ -1637,7 +1177,7 @@
     "availability_date": "Now",
     "total_packages": 8,
     "packages": "SR5 Upgrade + Cold Weather Package, Predator Drop Step, TOYOGUARD Platinum [set_global_lio_disclaimer], Exhaust Tip - Black Chrome, Deck Rail and Cleats, 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:30:21"
+    "created_at": "2024-03-19 11:29:35"
   },
   {
     "dealer": "09206",
@@ -1657,27 +1197,7 @@
     "availability_date": "Now",
     "total_packages": 7,
     "packages": "SR5 Upgrade Package (Double Cab) - includi, TOYOGUARD Platinum [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], Deck Rail and Cleats, 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:30:21"
-  },
-  {
-    "dealer": "09206",
-    "vin": "3TYLB5JN0RT003039",
-    "year": "2024",
-    "vehicle": "tacoma",
-    "model": "trdoffroad",
-    "enginge": "i-FORCE 2.4L Turbocharged Engine",
-    "transmission": "8-Speed Automatic Transmission",
-    "drivetrain": "4-Wheel Drive",
-    "cab": "Double Cab",
-    "bed": "5-ft bed",
-    "color": "Underground",
-    "interior": "Black SofTex",
-    "base_msrp": "42900",
-    "total_msrp": "56689.0",
-    "availability_date": "03/19/2024",
-    "total_packages": 9,
-    "packages": "TRD Off-Road Premium Package (5ft bed) - i, Predator Drop Step, TOYOGUARD Platinum [set_global_lio_disclaimer], Center Console Vault, Clear Paint Protection - Door Package [set_global_lio_disclaimer], Exhaust Tip - Black Chrome, 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:30:21"
+    "created_at": "2024-03-19 11:29:36"
   },
   {
     "dealer": "09206",
@@ -1697,14 +1217,14 @@
     "availability_date": "Now",
     "total_packages": 8,
     "packages": "TRD Sport Premium Package (4WD, 5ft Bed) -, XP [set_global_lio_disclaimer], TOYOGUARD Platinum [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], 18\" TRD Wheel, Exhaust Tip, Predator Running Board, 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:30:21"
+    "created_at": "2024-03-19 11:29:36"
   },
   {
-    "dealer": "09156",
-    "vin": "3TYLB5JN3RT004752",
+    "dealer": "09227",
+    "vin": "3TYLB5JN3RT004699",
     "year": "2024",
     "vehicle": "tacoma",
-    "model": "limited",
+    "model": "trdoffroad",
     "enginge": "i-FORCE 2.4L Turbocharged Engine",
     "transmission": "8-Speed Automatic Transmission",
     "drivetrain": "4-Wheel Drive",
@@ -1712,32 +1232,12 @@
     "bed": "5-ft bed",
     "color": "Celestial Silver Metallic",
     "interior": "Black SofTex",
-    "base_msrp": "52100",
-    "total_msrp": "55372.0",
-    "availability_date": "Now",
-    "total_packages": 6,
-    "packages": "TOYOGUARD Platinum [set_global_lio_disclaimer], Phone Cable Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], Limited Package, SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:30:24"
-  },
-  {
-    "dealer": "09076",
-    "vin": "3TYKB5FNXRT001657",
-    "year": "2024",
-    "vehicle": "tacoma",
-    "model": "SR5",
-    "enginge": "i-FORCE 2.4L Turbocharged Engine",
-    "transmission": "8-Speed Automatic Transmission",
-    "drivetrain": "Rear-Wheel Drive",
-    "cab": "Double Cab",
-    "bed": "6-ft bed",
-    "color": "Underground",
-    "interior": "Black Fabric",
-    "base_msrp": "37700",
-    "total_msrp": "43208.0",
+    "base_msrp": "42900",
+    "total_msrp": "55117.0",
     "availability_date": "Now",
     "total_packages": 7,
-    "packages": "SR5 Upgrade Package (Double Cab) - includi, Long Bed, All Weather Floor Mats [set_global_lio_disclaimer], Deck Rail and Cleats, 6-Gallons of Gas [set_global_lio_disclaimer], Southeast Toyota Distributor [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:30:26"
+    "packages": "TRD Off-Road Premium Package (5ft bed) - i, TOYOGUARD Platinum [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], Phone Cable Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
+    "created_at": "2024-03-19 11:29:38"
   },
   {
     "dealer": "09217",
@@ -1757,7 +1257,7 @@
     "availability_date": "Now",
     "total_packages": 9,
     "packages": "SR5 Upgrade + Cold Weather Package, TOYOGUARD Platinum [set_global_lio_disclaimer], Premium Paint Charge, Clear Paint Protection - Door Package [set_global_lio_disclaimer], Phone Cable Charge Package [set_global_lio_disclaimer], Deck Rail and Cleats, 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:30:28"
+    "created_at": "2024-03-19 11:29:43"
   },
   {
     "dealer": "09217",
@@ -1777,11 +1277,11 @@
     "availability_date": "Now",
     "total_packages": 10,
     "packages": "SR5 Upgrade Package (Double Cab) - includi, Predator Drop Step, TOYOGUARD Platinum [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], Exhaust Tip - Black Chrome, Phone Cable Charge Package [set_global_lio_disclaimer], Deck Rail and Cleats, 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:30:28"
+    "created_at": "2024-03-19 11:29:43"
   },
   {
     "dealer": "09196",
-    "vin": "3TYKB5FN0RT001599",
+    "vin": "3TYKB5FNXRT001562",
     "year": "2024",
     "vehicle": "tacoma",
     "model": "SR5",
@@ -1790,14 +1290,14 @@
     "drivetrain": "Rear-Wheel Drive",
     "cab": "Double Cab",
     "bed": "5-ft bed",
-    "color": "Blue Crush Metallic",
+    "color": "Black",
     "interior": "Black Fabric",
     "base_msrp": "37200",
     "total_msrp": "44103.0",
     "availability_date": "Now",
     "total_packages": 6,
     "packages": "SR5 Upgrade + Cold Weather Package, TOYOGUARD Platinum [set_global_lio_disclaimer], Deck Rail and Cleats, 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:30:30"
+    "created_at": "2024-03-19 11:29:44"
   },
   {
     "dealer": "09196",
@@ -1817,7 +1317,7 @@
     "availability_date": "Now",
     "total_packages": 8,
     "packages": "SR5 Upgrade + Cold Weather Package, Oval Step Tube - Black, TOYOGUARD Platinum [set_global_lio_disclaimer], Exhaust Tip - Black Chrome, Deck Rail and Cleats, 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:30:30"
+    "created_at": "2024-03-19 11:29:44"
   },
   {
     "dealer": "09196",
@@ -1837,67 +1337,7 @@
     "availability_date": "Now",
     "total_packages": 7,
     "packages": "SR5 Upgrade Package (Double Cab) - includi, Predator Drop Step, Exhaust Tip - Black Chrome, Deck Rail and Cleats, 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:30:30"
-  },
-  {
-    "dealer": "09196",
-    "vin": "3TYKB5FN9RT001827",
-    "year": "2024",
-    "vehicle": "tacoma",
-    "model": "trdsport",
-    "enginge": "i-FORCE 2.4L Turbocharged Engine",
-    "transmission": "8-Speed Automatic Transmission",
-    "drivetrain": "Rear-Wheel Drive",
-    "cab": "Double Cab",
-    "bed": "5-ft bed",
-    "color": "Celestial Silver Metallic",
-    "interior": "Boulder/Black Fabric w/ Anodized Blue",
-    "base_msrp": "39400",
-    "total_msrp": "47568.0",
-    "availability_date": "Now",
-    "total_packages": 6,
-    "packages": "TRD Sport Upgrade Package (2WD, 5ft Bed) -, Audio Multimedia Upgrade - includes, TOYOGUARD Platinum [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:30:30"
-  },
-  {
-    "dealer": "09242",
-    "vin": "3TYKB5FN0RT001621",
-    "year": "2024",
-    "vehicle": "tacoma",
-    "model": "trdsport",
-    "enginge": "i-FORCE 2.4L Turbocharged Engine",
-    "transmission": "8-Speed Automatic Transmission",
-    "drivetrain": "Rear-Wheel Drive",
-    "cab": "Double Cab",
-    "bed": "5-ft bed",
-    "color": "Underground",
-    "interior": "Black Fabric w/ White",
-    "base_msrp": "39400",
-    "total_msrp": "49644.0",
-    "availability_date": "Now",
-    "total_packages": 10,
-    "packages": "TRD Sport Upgrade Package (2WD, 5ft Bed) -, Cast Aluminum Running Boards, Audio Multimedia Upgrade - includes, TOYOGUARD Platinum [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], Exhaust Tip - Black Chrome, Phone Cable Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:30:31"
-  },
-  {
-    "dealer": "09242",
-    "vin": "3TYKB5FN5RT000237",
-    "year": "2024",
-    "vehicle": "tacoma",
-    "model": "trdsport",
-    "enginge": "i-FORCE 2.4L Turbocharged Engine",
-    "transmission": "8-Speed Automatic Transmission",
-    "drivetrain": "Rear-Wheel Drive",
-    "cab": "Double Cab",
-    "bed": "5-ft bed",
-    "color": "Blue Crush Metallic",
-    "interior": "Black Fabric w/ White",
-    "base_msrp": "39400",
-    "total_msrp": "50233.0",
-    "availability_date": "Now",
-    "total_packages": 12,
-    "packages": "TRD Sport Upgrade Package (2WD, 5ft Bed) -, Oval Step Tube - Black, Moon Roof, Audio Multimedia Upgrade - includes, TOYOGUARD Platinum [set_global_lio_disclaimer], All Weather Floor Liners, Clear Paint Protection - Door Package [set_global_lio_disclaimer], Exhaust Tip - Black Chrome, Phone Cable Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:30:31"
+    "created_at": "2024-03-19 11:29:44"
   },
   {
     "dealer": "09242",
@@ -1914,30 +1354,10 @@
     "interior": "Black SofTex",
     "base_msrp": "42600",
     "total_msrp": "57470.0",
-    "availability_date": "03/19/2024",
+    "availability_date": "Now",
     "total_packages": 9,
     "packages": "TRD Sport Premium Package (4WD, 5ft Bed) -, XP [set_global_lio_disclaimer], TOYOGUARD Platinum [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], Phone Cable Charge Package [set_global_lio_disclaimer], 18\" TRD Wheel, Exhaust Tip, Predator Running Board, 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:30:31"
-  },
-  {
-    "dealer": "09079",
-    "vin": "3TYLB5JN1RT007407",
-    "year": "2024",
-    "vehicle": "tacoma",
-    "model": "SR5",
-    "enginge": "i-FORCE 2.4L Turbocharged Engine",
-    "transmission": "8-Speed Automatic Transmission",
-    "drivetrain": "4-Wheel Drive",
-    "cab": "Double Cab",
-    "bed": "5-ft bed",
-    "color": "Supersonic Red [extra_cost_color]",
-    "interior": "Black Fabric",
-    "base_msrp": "40400",
-    "total_msrp": "47092.0",
-    "availability_date": "Now",
-    "total_packages": 7,
-    "packages": "SR5 Upgrade Package (Double Cab) - includi, TOYOGUARD Platinum [set_global_lio_disclaimer], Premium Paint Charge, Deck Rail and Cleats, 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:30:31"
+    "created_at": "2024-03-19 11:29:45"
   },
   {
     "dealer": "09079",
@@ -1957,7 +1377,7 @@
     "availability_date": "Now",
     "total_packages": 8,
     "packages": "TRD Sport Upgrade Package (2WD, 5ft Bed) -, Cast Aluminum Running Boards, Audio Multimedia Upgrade - includes, TOYOGUARD Platinum [set_global_lio_disclaimer], Exhaust Tip - Black Chrome, 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:30:31"
+    "created_at": "2024-03-19 11:29:45"
   },
   {
     "dealer": "09198",
@@ -1977,7 +1397,27 @@
     "availability_date": "Now",
     "total_packages": 7,
     "packages": "SR5 Upgrade Package (Double Cab) - includi, TOYOGUARD Platinum [set_global_lio_disclaimer], Phone Cable Charge Package [set_global_lio_disclaimer], Deck Rail and Cleats, 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:30:32"
+    "created_at": "2024-03-19 11:29:46"
+  },
+  {
+    "dealer": "09198",
+    "vin": "3TYLB5JN9RT005419",
+    "year": "2024",
+    "vehicle": "tacoma",
+    "model": "limited",
+    "enginge": "i-FORCE 2.4L Turbocharged Engine",
+    "transmission": "8-Speed Automatic Transmission",
+    "drivetrain": "4-Wheel Drive",
+    "cab": "Double Cab",
+    "bed": "5-ft bed",
+    "color": "Wind Chill Pearl [extra_cost_color]",
+    "interior": "Boulder SofTex",
+    "base_msrp": "52100",
+    "total_msrp": "56385.0",
+    "availability_date": "Now",
+    "total_packages": 9,
+    "packages": "TOYOGUARD Platinum [set_global_lio_disclaimer], Premium Paint Charge, All Weather Floor Mats - Boxed [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], Phone Cable Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], Limited Package, SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
+    "created_at": "2024-03-19 11:29:46"
   },
   {
     "dealer": "09168",
@@ -1997,7 +1437,7 @@
     "availability_date": "Now",
     "total_packages": 8,
     "packages": "SR Upgrade Package - includes Blind Spot, TOYOGUARD Platinum [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], Phone Cable Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], Southeast Toyota Distributor [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:30:32"
+    "created_at": "2024-03-19 11:29:47"
   },
   {
     "dealer": "09168",
@@ -2014,10 +1454,10 @@
     "interior": "Boulder/Black Fabric w/ Smoke Silver",
     "base_msrp": "42900",
     "total_msrp": "51971.0",
-    "availability_date": "03/19/2024",
+    "availability_date": "Now",
     "total_packages": 8,
     "packages": "TRD Off-Road Upgrade Package (5ft bed) - i, Audio Multimedia Upgrade - includes, TOYOGUARD Platinum [set_global_lio_disclaimer], All Weather Floor Mats - Boxed [set_global_lio_disclaimer], Phone Cable Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], Southeast Toyota Distributor [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:30:32"
+    "created_at": "2024-03-19 11:29:47"
   },
   {
     "dealer": "09168",
@@ -2037,7 +1477,47 @@
     "availability_date": "Now",
     "total_packages": 9,
     "packages": "TRD Sport Premium Package (4WD, 5ft Bed) -, XP [set_global_lio_disclaimer], TOYOGUARD Platinum [set_global_lio_disclaimer], All Weather Floor Mats - Boxed [set_global_lio_disclaimer], Phone Cable Charge Package [set_global_lio_disclaimer], 18\" TRD Wheel, Exhaust Tip, Predator Running Board, 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:30:32"
+    "created_at": "2024-03-19 11:29:47"
+  },
+  {
+    "dealer": "09112",
+    "vin": "3TYLB5JN6RT004261",
+    "year": "2024",
+    "vehicle": "tacoma",
+    "model": "limited",
+    "enginge": "i-FORCE 2.4L Turbocharged Engine",
+    "transmission": "8-Speed Automatic Transmission",
+    "drivetrain": "4-Wheel Drive",
+    "cab": "Double Cab",
+    "bed": "5-ft bed",
+    "color": "Celestial Silver Metallic",
+    "interior": "Black SofTex",
+    "base_msrp": "52100",
+    "total_msrp": "56858.5",
+    "availability_date": "Now",
+    "total_packages": 10,
+    "packages": "TOYOGUARD Platinum [set_global_lio_disclaimer], Center Console Vault, Bed Step (Non-Powered), All Weather Floor Mats - Boxed [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], Phone Cable Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], Limited Package, SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
+    "created_at": "2024-03-19 11:29:48"
+  },
+  {
+    "dealer": "09112",
+    "vin": "3TYLB5JN7RT002115",
+    "year": "2024",
+    "vehicle": "tacoma",
+    "model": "trdoffroad",
+    "enginge": "i-FORCE 2.4L Turbocharged Engine",
+    "transmission": "8-Speed Automatic Transmission",
+    "drivetrain": "4-Wheel Drive",
+    "cab": "Double Cab",
+    "bed": "5-ft bed",
+    "color": "Underground",
+    "interior": "Black SofTex",
+    "base_msrp": "42900",
+    "total_msrp": "57028.5",
+    "availability_date": "Now",
+    "total_packages": 10,
+    "packages": "TRD Off-Road Premium Package (5ft bed) - i, Predator Drop Step, TOYOGUARD Platinum [set_global_lio_disclaimer], Center Console Vault, All Weather Floor Mats - Boxed [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], Exhaust Tip - Black Chrome, 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
+    "created_at": "2024-03-19 11:29:48"
   },
   {
     "dealer": "09234",
@@ -2054,10 +1534,10 @@
     "interior": "Black SofTex",
     "base_msrp": "42900",
     "total_msrp": "55396.0",
-    "availability_date": "03/19/2024",
+    "availability_date": "Now",
     "total_packages": 7,
     "packages": "TRD Off-Road Premium Package (5ft bed) - i, TOYOGUARD Platinum [set_global_lio_disclaimer], Premium Paint Charge, Phone Cable Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], Southeast Toyota Distributor [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:30:34"
+    "created_at": "2024-03-19 11:29:49"
   },
   {
     "dealer": "09095",
@@ -2077,7 +1557,7 @@
     "availability_date": "Now",
     "total_packages": 10,
     "packages": "SR5 Upgrade Package (Double Cab) - includi, TOYOGUARD Platinum [set_global_lio_disclaimer], Premium Paint Charge, Clear Paint Protection - Door Package [set_global_lio_disclaimer], Multimedia Screen Protector [set_global_lio_disclaimer], Phone Cable Charge Package [set_global_lio_disclaimer], Deck Rail and Cleats, 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:30:34"
+    "created_at": "2024-03-19 11:29:49"
   },
   {
     "dealer": "09095",
@@ -2097,7 +1577,7 @@
     "availability_date": "Now",
     "total_packages": 10,
     "packages": "TRD Sport Upgrade Package (2WD, 5ft Bed) -, Moon Roof, Audio Multimedia Upgrade - includes, TOYOGUARD Platinum [set_global_lio_disclaimer], Premium Paint Charge, Clear Paint Protection - Door Package [set_global_lio_disclaimer], Phone Cable Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:30:34"
+    "created_at": "2024-03-19 11:29:49"
   },
   {
     "dealer": "09095",
@@ -2117,7 +1597,7 @@
     "availability_date": "Now",
     "total_packages": 10,
     "packages": "TRD Sport Upgrade Package (2WD, 5ft Bed) -, Cast Aluminum Running Boards, Audio Multimedia Upgrade - includes, TOYOGUARD Platinum [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], Exhaust Tip - Black Chrome, Phone Cable Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:30:34"
+    "created_at": "2024-03-19 11:29:49"
   },
   {
     "dealer": "09194",
@@ -2137,7 +1617,7 @@
     "availability_date": "Now",
     "total_packages": 4,
     "packages": "Deck Rail and Cleats, 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:30:35"
+    "created_at": "2024-03-19 11:29:50"
   },
   {
     "dealer": "09194",
@@ -2157,7 +1637,7 @@
     "availability_date": "Now",
     "total_packages": 7,
     "packages": "Predator Drop Step, TOYOGUARD Platinum [set_global_lio_disclaimer], Exhaust Tip - Black Chrome, Deck Rail and Cleats, 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:30:35"
+    "created_at": "2024-03-19 11:29:50"
   },
   {
     "dealer": "09194",
@@ -2177,27 +1657,7 @@
     "availability_date": "Now",
     "total_packages": 8,
     "packages": "TOYOGUARD Platinum [set_global_lio_disclaimer], Center Console Vault, Bed Step (Non-Powered), Premium Paint Charge, 6-Gallons of Gas [set_global_lio_disclaimer], Limited Package, Southeast Toyota Distributor [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:30:35"
-  },
-  {
-    "dealer": "09140",
-    "vin": "3TYLB5JNXRT004120",
-    "year": "2024",
-    "vehicle": "tacoma",
-    "model": "trdsport",
-    "enginge": "i-FORCE 2.4L Turbocharged Engine",
-    "transmission": "8-Speed Automatic Transmission",
-    "drivetrain": "4-Wheel Drive",
-    "cab": "Double Cab",
-    "bed": "5-ft bed",
-    "color": "Ice Cap",
-    "interior": "Black SofTex",
-    "base_msrp": "42600",
-    "total_msrp": "58009.5",
-    "availability_date": "03/19/2024",
-    "total_packages": 10,
-    "packages": "TRD Sport Premium Package (4WD, 5ft Bed) -, XP [set_global_lio_disclaimer], TOYOGUARD Platinum [set_global_lio_disclaimer], Dashcam [set_global_lio_disclaimer], All Weather Floor Mats - Boxed [set_global_lio_disclaimer], Multimedia Screen Protector [set_global_lio_disclaimer], 18\" TRD Wheel, Exhaust Tip, Predator Running Board, 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:30:37"
+    "created_at": "2024-03-19 11:29:50"
   },
   {
     "dealer": "32111",
@@ -2217,7 +1677,7 @@
     "availability_date": "Now",
     "total_packages": 6,
     "packages": "SR Upgrade Package - includes Blind Spot, All Weather Floor Mats [set_global_lio_disclaimer], Phone Cable Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], Southeast Toyota Distributor [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:30:39"
+    "created_at": "2024-03-19 11:29:52"
   },
   {
     "dealer": "32111",
@@ -2237,7 +1697,7 @@
     "availability_date": "Now",
     "total_packages": 8,
     "packages": "SR5 Upgrade Package (Double Cab) - includi, TOYOGUARD Platinum [set_global_lio_disclaimer], Carpet Floor Mats [set_global_lio_disclaimer], Phone Cable Charge Package [set_global_lio_disclaimer], Deck Rail and Cleats, 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:30:39"
+    "created_at": "2024-03-19 11:29:52"
   },
   {
     "dealer": "32001",
@@ -2257,7 +1717,7 @@
     "availability_date": "Now",
     "total_packages": 8,
     "packages": "SR5 Upgrade + Cold Weather Package, TOYOGUARD Platinum [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], Phone Cable Charge Package [set_global_lio_disclaimer], Deck Rail and Cleats, 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:30:40"
+    "created_at": "2024-03-19 11:29:54"
   },
   {
     "dealer": "32001",
@@ -2277,7 +1737,7 @@
     "availability_date": "Now",
     "total_packages": 9,
     "packages": "Predator Drop Step, TOYOGUARD Platinum [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], Exhaust Tip - Black Chrome, Phone Cable Charge Package [set_global_lio_disclaimer], Deck Rail and Cleats, 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:30:40"
+    "created_at": "2024-03-19 11:29:54"
   },
   {
     "dealer": "32001",
@@ -2297,7 +1757,7 @@
     "availability_date": "Now",
     "total_packages": 8,
     "packages": "SR5 Upgrade Package (Double Cab) - includi, TOYOGUARD Platinum [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], Phone Cable Charge Package [set_global_lio_disclaimer], Deck Rail and Cleats, 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:30:40"
+    "created_at": "2024-03-19 11:29:54"
   },
   {
     "dealer": "32015",
@@ -2317,7 +1777,7 @@
     "availability_date": "Now",
     "total_packages": 9,
     "packages": "SR5 Upgrade Package (Double Cab) - includi, TOYOGUARD Platinum [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], Multimedia Screen Protector [set_global_lio_disclaimer], Phone Cable Charge Package [set_global_lio_disclaimer], Deck Rail and Cleats, 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:30:41"
+    "created_at": "2024-03-19 11:29:55"
   },
   {
     "dealer": "32097",
@@ -2337,7 +1797,7 @@
     "availability_date": "Now",
     "total_packages": 7,
     "packages": "Predator Drop Step, TOYOGUARD Platinum [set_global_lio_disclaimer], Exhaust Tip - Black Chrome, Deck Rail and Cleats, 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:30:43"
+    "created_at": "2024-03-19 11:29:57"
   },
   {
     "dealer": "32145",
@@ -2357,7 +1817,7 @@
     "availability_date": "Now",
     "total_packages": 8,
     "packages": "SR5 Upgrade + Cold Weather Package, TOYOGUARD Platinum [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], Phone Cable Charge Package [set_global_lio_disclaimer], Deck Rail and Cleats, 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:30:44"
+    "created_at": "2024-03-19 11:29:58"
   },
   {
     "dealer": "32136",
@@ -2377,7 +1837,7 @@
     "availability_date": "Now",
     "total_packages": 9,
     "packages": "TRD Sport Upgrade Package (2WD, 5ft Bed) -, Audio Multimedia Upgrade - includes, TOYOGUARD Platinum [set_global_lio_disclaimer], All Weather Floor Mats - Boxed [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], Phone Cable Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:30:45"
+    "created_at": "2024-03-19 11:29:59"
   },
   {
     "dealer": "32110",
@@ -2397,7 +1857,7 @@
     "availability_date": "Now",
     "total_packages": 8,
     "packages": "SR5 Upgrade Package (Double Cab) - includi, All Weather Floor Mats [set_global_lio_disclaimer], Gloss Black Overlays and Tailgate Insert Package [set_global_lio_disclaimer], Phone Cable Charge Package [set_global_lio_disclaimer], Deck Rail and Cleats, 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:30:46"
+    "created_at": "2024-03-19 11:30:00"
   },
   {
     "dealer": "32106",
@@ -2417,7 +1877,27 @@
     "availability_date": "Now",
     "total_packages": 9,
     "packages": "SR Upgrade Package - includes Blind Spot, TOYOGUARD Platinum [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], Multimedia Screen Protector [set_global_lio_disclaimer], Phone Cable Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], Southeast Toyota Distributor [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:30:47"
+    "created_at": "2024-03-19 11:30:00"
+  },
+  {
+    "dealer": "32096",
+    "vin": "3TYKE5JN4RT005850",
+    "year": "2024",
+    "vehicle": "tacoma",
+    "model": "SR",
+    "enginge": "i-FORCE 2.4L Turbocharged Engine",
+    "transmission": "6-Speed Manual Transmission",
+    "drivetrain": "4-Wheel Drive",
+    "cab": "Double Cab",
+    "bed": "5-ft bed",
+    "color": "Supersonic Red [extra_cost_color]",
+    "interior": "Black Fabric",
+    "base_msrp": "36900",
+    "total_msrp": "40488.0",
+    "availability_date": "Now",
+    "total_packages": 6,
+    "packages": "TOYOGUARD Platinum [set_global_lio_disclaimer], Premium Paint Charge, Deck Rail and Cleats, 6-Gallons of Gas [set_global_lio_disclaimer], Southeast Toyota Distributor [set_global_lio_disclaimer], 50 State Emissions",
+    "created_at": "2024-03-19 11:30:01"
   },
   {
     "dealer": "32137",
@@ -2437,7 +1917,7 @@
     "availability_date": "Now",
     "total_packages": 4,
     "packages": "SR Upgrade Package - includes Blind Spot, 6-Gallons of Gas [set_global_lio_disclaimer], Southeast Toyota Distributor [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:30:49"
+    "created_at": "2024-03-19 11:30:02"
   },
   {
     "dealer": "32126",
@@ -2457,27 +1937,7 @@
     "availability_date": "Now",
     "total_packages": 6,
     "packages": "SR Upgrade Package - includes Blind Spot, Premium Paint Charge, Clear Paint Protection - Door Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:30:49"
-  },
-  {
-    "dealer": "32126",
-    "vin": "3TYLB5JN5RT006387",
-    "year": "2024",
-    "vehicle": "tacoma",
-    "model": "trdsport",
-    "enginge": "i-FORCE 2.4L Turbocharged Engine",
-    "transmission": "8-Speed Automatic Transmission",
-    "drivetrain": "4-Wheel Drive",
-    "cab": "Double Cab",
-    "bed": "5-ft bed",
-    "color": "Celestial Silver Metallic",
-    "interior": "Boulder/Black Fabric w/ Anodized Blue",
-    "base_msrp": "42600",
-    "total_msrp": "52742.0",
-    "availability_date": "Now",
-    "total_packages": 8,
-    "packages": "TRD Sport Upgrade Package (4WD, 5ft Bed) -, Cast Aluminum Running Boards, Moon Roof, Audio Multimedia Upgrade - includes, Exhaust Tip - Black Chrome, 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:30:49"
+    "created_at": "2024-03-19 11:30:03"
   },
   {
     "dealer": "32125",
@@ -2497,47 +1957,27 @@
     "availability_date": "Now",
     "total_packages": 10,
     "packages": "Predator Drop Step, TOYOGUARD Platinum [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], Exhaust Tip - Black Chrome, Phone Cable Charge Package [set_global_lio_disclaimer], Deck Rail and Cleats, 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:30:51"
+    "created_at": "2024-03-19 11:30:05"
   },
   {
-    "dealer": "32139",
-    "vin": "3TYKE5JN1RT006941",
+    "dealer": "39058",
+    "vin": "3TYLB5JN7RT005144",
     "year": "2024",
     "vehicle": "tacoma",
-    "model": "SR",
-    "enginge": "i-FORCE 2.4L Turbocharged Engine",
-    "transmission": "6-Speed Manual Transmission",
-    "drivetrain": "4-Wheel Drive",
-    "cab": "Double Cab",
-    "bed": "5-ft bed",
-    "color": "Celestial Silver Metallic",
-    "interior": "Black Fabric",
-    "base_msrp": "36900",
-    "total_msrp": "41817.0",
-    "availability_date": "Now",
-    "total_packages": 6,
-    "packages": "SR Upgrade Package - includes Blind Spot, TOYOGUARD Platinum [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:30:51"
-  },
-  {
-    "dealer": "32139",
-    "vin": "3TYLB5JNXRT006742",
-    "year": "2024",
-    "vehicle": "tacoma",
-    "model": "SR5",
+    "model": "limited",
     "enginge": "i-FORCE 2.4L Turbocharged Engine",
     "transmission": "8-Speed Automatic Transmission",
     "drivetrain": "4-Wheel Drive",
     "cab": "Double Cab",
     "bed": "5-ft bed",
-    "color": "Black",
-    "interior": "Black Fabric",
-    "base_msrp": "40400",
-    "total_msrp": "47899.0",
+    "color": "Wind Chill Pearl [extra_cost_color]",
+    "interior": "Boulder SofTex",
+    "base_msrp": "52100",
+    "total_msrp": "57012.0",
     "availability_date": "Now",
-    "total_packages": 10,
-    "packages": "SR5 Upgrade + Cold Weather Package, TOYOGUARD Platinum [set_global_lio_disclaimer], Carpet Floor Mats [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], Multimedia Screen Protector [set_global_lio_disclaimer], Phone Cable Charge Package [set_global_lio_disclaimer], Deck Rail and Cleats, 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:30:51"
+    "total_packages": 11,
+    "packages": "TOYOGUARD Platinum [set_global_lio_disclaimer], Center Console Vault, Dashcam [set_global_lio_disclaimer], Bed Step (Non-Powered), Premium Paint Charge, All Weather Floor Mats - Boxed [set_global_lio_disclaimer], Phone Cable Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], Limited Package, SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
+    "created_at": "2024-03-19 11:30:06"
   },
   {
     "dealer": "32118",
@@ -2557,47 +1997,7 @@
     "availability_date": "Now",
     "total_packages": 8,
     "packages": "XP [set_global_lio_disclaimer], Audio Multimedia Upgrade - includes, All Weather Floor Mats - Boxed [set_global_lio_disclaimer], 18\" TRD Wheel, Exhaust Tip, Predator Running Board, 6-Gallons of Gas [set_global_lio_disclaimer], TRD Sport Package:, SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:30:54"
-  },
-  {
-    "dealer": "32129",
-    "vin": "3TYKB5FN5RT001744",
-    "year": "2024",
-    "vehicle": "tacoma",
-    "model": "SR5",
-    "enginge": "i-FORCE 2.4L Turbocharged Engine",
-    "transmission": "8-Speed Automatic Transmission",
-    "drivetrain": "Rear-Wheel Drive",
-    "cab": "Double Cab",
-    "bed": "5-ft bed",
-    "color": "Underground",
-    "interior": "Black Fabric",
-    "base_msrp": "37200",
-    "total_msrp": "43497.0",
-    "availability_date": "Now",
-    "total_packages": 8,
-    "packages": "SR5 Upgrade Package (Double Cab) - includi, TOYOGUARD Platinum [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], Phone Cable Charge Package [set_global_lio_disclaimer], Deck Rail and Cleats, 6-Gallons of Gas [set_global_lio_disclaimer], Southeast Toyota Distributor [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:30:55"
-  },
-  {
-    "dealer": "32129",
-    "vin": "3TYLB5JNXRT001508",
-    "year": "2024",
-    "vehicle": "tacoma",
-    "model": "SR5",
-    "enginge": "i-FORCE 2.4L Turbocharged Engine",
-    "transmission": "8-Speed Automatic Transmission",
-    "drivetrain": "4-Wheel Drive",
-    "cab": "Double Cab",
-    "bed": "6-ft bed",
-    "color": "Ice Cap",
-    "interior": "Black Fabric",
-    "base_msrp": "40900",
-    "total_msrp": "48531.0",
-    "availability_date": "Now",
-    "total_packages": 9,
-    "packages": "SR5 Upgrade + Cold Weather Package, TOYOGUARD Platinum [set_global_lio_disclaimer], Long Bed, Clear Paint Protection - Door Package [set_global_lio_disclaimer], Phone Cable Charge Package [set_global_lio_disclaimer], Deck Rail and Cleats, 6-Gallons of Gas [set_global_lio_disclaimer], Southeast Toyota Distributor [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:30:55"
+    "created_at": "2024-03-19 11:30:09"
   },
   {
     "dealer": "32129",
@@ -2617,7 +2017,7 @@
     "availability_date": "Now",
     "total_packages": 10,
     "packages": "SR5 Upgrade + Cold Weather Package, TOYOGUARD Platinum [set_global_lio_disclaimer], Long Bed, Clear Paint Protection - Door Package [set_global_lio_disclaimer], Multimedia Screen Protector [set_global_lio_disclaimer], Phone Cable Charge Package [set_global_lio_disclaimer], Deck Rail and Cleats, 6-Gallons of Gas [set_global_lio_disclaimer], Southeast Toyota Distributor [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:30:55"
+    "created_at": "2024-03-19 11:30:10"
   },
   {
     "dealer": "32148",
@@ -2637,7 +2037,7 @@
     "availability_date": "Now",
     "total_packages": 8,
     "packages": "SR5 Upgrade + Cold Weather Package, TOYOGUARD Platinum [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], Phone Cable Charge Package [set_global_lio_disclaimer], Deck Rail and Cleats, 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:30:55"
+    "created_at": "2024-03-19 11:30:10"
   },
   {
     "dealer": "32113",
@@ -2657,7 +2057,7 @@
     "availability_date": "Now",
     "total_packages": 7,
     "packages": "SR Upgrade Package - includes Blind Spot, TOYOGUARD Platinum [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], Phone Cable Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:30:56"
+    "created_at": "2024-03-19 11:30:11"
   },
   {
     "dealer": "32113",
@@ -2677,7 +2077,7 @@
     "availability_date": "Now",
     "total_packages": 8,
     "packages": "SR5 Upgrade Package (Double Cab) - includi, TOYOGUARD Platinum [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], Phone Cable Charge Package [set_global_lio_disclaimer], Deck Rail and Cleats, 6-Gallons of Gas [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:30:56"
+    "created_at": "2024-03-19 11:30:11"
   },
   {
     "dealer": "39052",
@@ -2694,10 +2094,10 @@
     "interior": "Black SofTex",
     "base_msrp": "52100",
     "total_msrp": "55691.0",
-    "availability_date": "03/19/2024",
+    "availability_date": "03/20/2024",
     "total_packages": 7,
     "packages": "TOYOGUARD Platinum [set_global_lio_disclaimer], Center Console Vault, Bed Step (Non-Powered), 6-Gallons of Gas [set_global_lio_disclaimer], Limited Package, Southeast Toyota Distributor [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:30:59"
+    "created_at": "2024-03-19 11:30:15"
   },
   {
     "dealer": "39061",
@@ -2717,7 +2117,7 @@
     "availability_date": "Now",
     "total_packages": 12,
     "packages": "TRD Sport Upgrade Package (4WD, 5ft Bed) -, XP [set_global_lio_disclaimer], Audio Multimedia Upgrade - includes, TOYOGUARD Platinum [set_global_lio_disclaimer], Premium Paint Charge, All Weather Floor Mats - Boxed [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], Phone Cable Charge Package [set_global_lio_disclaimer], 18\" TRD Wheel, Exhaust Tip, Predator Running Board, 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:31:01"
+    "created_at": "2024-03-19 11:30:16"
   },
   {
     "dealer": "39061",
@@ -2737,7 +2137,7 @@
     "availability_date": "Now",
     "total_packages": 11,
     "packages": "TRD Off-Road Premium Package (5ft bed) - i, Predator Drop Step, TOYOGUARD Platinum [set_global_lio_disclaimer], Center Console Vault, All Weather Floor Mats - Boxed [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], Exhaust Tip - Black Chrome, Phone Cable Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:31:01"
+    "created_at": "2024-03-19 11:30:16"
   },
   {
     "dealer": "39059",
@@ -2757,27 +2157,7 @@
     "availability_date": "Now",
     "total_packages": 7,
     "packages": "TOYOGUARD Platinum [set_global_lio_disclaimer], Carpet Floor Mats [set_global_lio_disclaimer], Phone Cable Charge Package [set_global_lio_disclaimer], Deck Rail and Cleats, 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:31:02"
-  },
-  {
-    "dealer": "39059",
-    "vin": "3TYLB5JNXRT003369",
-    "year": "2024",
-    "vehicle": "tacoma",
-    "model": "trdoffroad",
-    "enginge": "i-FORCE 2.4L Turbocharged Engine",
-    "transmission": "8-Speed Automatic Transmission",
-    "drivetrain": "4-Wheel Drive",
-    "cab": "Double Cab",
-    "bed": "5-ft bed",
-    "color": "Underground",
-    "interior": "Black SofTex",
-    "base_msrp": "42900",
-    "total_msrp": "56714.0",
-    "availability_date": "03/20/2024",
-    "total_packages": 11,
-    "packages": "TRD Off-Road Premium Package (5ft bed) - i, Predator Drop Step, TOYOGUARD Platinum [set_global_lio_disclaimer], Center Console Vault, All Weather Floor Mats - Boxed [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], Exhaust Tip - Black Chrome, Phone Cable Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:31:02"
+    "created_at": "2024-03-19 11:30:17"
   },
   {
     "dealer": "39060",
@@ -2797,7 +2177,7 @@
     "availability_date": "Now",
     "total_packages": 7,
     "packages": "TOYOGUARD Platinum [set_global_lio_disclaimer], Carpet Floor Mats [set_global_lio_disclaimer], Phone Cable Charge Package [set_global_lio_disclaimer], Deck Rail and Cleats, 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:31:03"
+    "created_at": "2024-03-19 11:30:18"
   },
   {
     "dealer": "39060",
@@ -2817,7 +2197,7 @@
     "availability_date": "Now",
     "total_packages": 8,
     "packages": "Predator Drop Step, TOYOGUARD Platinum [set_global_lio_disclaimer], Exhaust Tip - Black Chrome, Phone Cable Charge Package [set_global_lio_disclaimer], Deck Rail and Cleats, 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:31:03"
+    "created_at": "2024-03-19 11:30:18"
   },
   {
     "dealer": "39040",
@@ -2837,7 +2217,7 @@
     "availability_date": "Now",
     "total_packages": 9,
     "packages": "SR5 Upgrade Package (Double Cab) - includi, TOYOGUARD Platinum [set_global_lio_disclaimer], Gloss Black Overlays and Tailgate Insert Package [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], Phone Cable Charge Package [set_global_lio_disclaimer], Deck Rail and Cleats, 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:31:04"
+    "created_at": "2024-03-19 11:30:19"
   },
   {
     "dealer": "41085",
@@ -2856,8 +2236,8 @@
     "total_msrp": "46829.0",
     "availability_date": null,
     "total_packages": 8,
-    "packages": "50 State Emissions, Body Side Molding[installed_msrp], SR5 Upgrade + Cold Weather Package, Mudguards, Door Edge Guards[installed_msrp], Spray On Bedliner[installed_msrp], Tailgate Insert - Black[installed_msrp], Deck Rail + Cleats",
-    "created_at": "2024-03-18 11:31:32"
+    "packages": "Body Side Molding[installed_msrp], SR5 Upgrade + Cold Weather Package, Door Edge Guards[installed_msrp], Tailgate Insert - Black[installed_msrp], Spray On Bedliner[installed_msrp], Deck Rail + Cleats, 50 State Emissions, Mudguards",
+    "created_at": "2024-03-19 11:30:44"
   },
   {
     "dealer": "45092",
@@ -2876,8 +2256,8 @@
     "total_msrp": "49915.0",
     "availability_date": null,
     "total_packages": 6,
-    "packages": "Audio Multimedia Upgrade, 50 State Emissions, Quick Charging Cable Package[installed_msrp], TRD Sport Upgrade Package, Body Side Molding[installed_msrp], Door Edge Guards[installed_msrp]",
-    "created_at": "2024-03-18 11:32:04"
+    "packages": "Body Side Molding[installed_msrp], Door Edge Guards[installed_msrp], 50 State Emissions, Audio Multimedia Upgrade, Quick Charging Cable Package[installed_msrp], TRD Sport Upgrade Package",
+    "created_at": "2024-03-19 11:31:10"
   },
   {
     "dealer": "19059",
@@ -2896,8 +2276,8 @@
     "total_msrp": "42550.0",
     "availability_date": null,
     "total_packages": 4,
-    "packages": "Heated Front Seats, Deck Rail + Cleats, 50 State Emissions, Owner's Portfolio",
-    "created_at": "2024-03-18 11:32:08"
+    "packages": "50 State Emissions, Deck Rail + Cleats, Heated Front Seats, Owner's Portfolio",
+    "created_at": "2024-03-19 11:31:12"
   },
   {
     "dealer": "45094",
@@ -2916,8 +2296,8 @@
     "total_msrp": "37663.0",
     "availability_date": null,
     "total_packages": 5,
-    "packages": "Spray On Bedliner[installed_msrp], 50 State Emissions, SR Upgrade Package, All-Weather Floor Liners and Door Sill Protectors[installed_msrp], Door Panel Scuff Protectors[installed_msrp]",
-    "created_at": "2024-03-18 11:32:14"
+    "packages": "50 State Emissions, Door Panel Scuff Protectors[installed_msrp], Spray On Bedliner[installed_msrp], All-Weather Floor Liners and Door Sill Protectors[installed_msrp], SR Upgrade Package",
+    "created_at": "2024-03-19 11:31:18"
   },
   {
     "dealer": "45077",
@@ -2936,8 +2316,8 @@
     "total_msrp": "49131.0",
     "availability_date": null,
     "total_packages": 16,
-    "packages": "Door Panel Scuff Protectors[installed_msrp], Spray On Bedliner[installed_msrp], Exhaust Tip - Dark Chrome[installed_msrp], BedStep®[installed_msrp], Door Edge Guards[installed_msrp], SR5 Upgrade + Cold Weather Package, Tailgate Insert - Black[installed_msrp], Alloy Wheel Locks - Chrome[installed_msrp], Body Side Molding[installed_msrp], 50 State Emissions, Cast Alumunium Running Boards[installed_msrp], Mini Tie-Downs with Hooks[installed_msrp], Deck Rail + Cleats, Owner's Portfolio, All-Weather Floor Liners and Door Sill Protectors[installed_msrp], Quick Charging Cable Package[installed_msrp]",
-    "created_at": "2024-03-18 11:32:21"
+    "packages": "Deck Rail + Cleats, Spray On Bedliner[installed_msrp], Tailgate Insert - Black[installed_msrp], Alloy Wheel Locks - Chrome[installed_msrp], Body Side Molding[installed_msrp], All-Weather Floor Liners and Door Sill Protectors[installed_msrp], Cast Alumunium Running Boards[installed_msrp], SR5 Upgrade + Cold Weather Package, Door Panel Scuff Protectors[installed_msrp], Quick Charging Cable Package[installed_msrp], Mini Tie-Downs with Hooks[installed_msrp], Owner's Portfolio, Exhaust Tip - Dark Chrome[installed_msrp], 50 State Emissions, BedStep®[installed_msrp], Door Edge Guards[installed_msrp]",
+    "created_at": "2024-03-19 11:31:23"
   },
   {
     "dealer": "32144",
@@ -2957,7 +2337,7 @@
     "availability_date": "Now",
     "total_packages": 10,
     "packages": "SR5 Upgrade + Cold Weather Package, Predator Drop Step, TOYOGUARD Platinum [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], Exhaust Tip - Black Chrome, Phone Cable Charge Package [set_global_lio_disclaimer], Deck Rail and Cleats, 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-03-18 11:32:25"
+    "created_at": "2024-03-19 11:31:27"
   },
   {
     "dealer": "47023",
@@ -2976,8 +2356,8 @@
     "total_msrp": "37528.0",
     "availability_date": null,
     "total_packages": 5,
-    "packages": "Owner's Portfolio, SR Upgrade Package, All-Weather Floor Liners and Door Sill Protectors[installed_msrp], Spray On Bedliner[installed_msrp], 50 State Emissions",
-    "created_at": "2024-03-18 11:32:31"
+    "packages": "All-Weather Floor Liners and Door Sill Protectors[installed_msrp], Owner's Portfolio, Spray On Bedliner[installed_msrp], 50 State Emissions, SR Upgrade Package",
+    "created_at": "2024-03-19 11:31:33"
   },
   {
     "dealer": "37154",
@@ -2996,8 +2376,8 @@
     "total_msrp": "35453.0",
     "availability_date": null,
     "total_packages": 4,
-    "packages": "All-Weather Floor Liners and Door Sill Protectors[installed_msrp], PREMIUM PAINT CHARGE, Owner's Portfolio, 50 State Emissions",
-    "created_at": "2024-03-18 11:32:44"
+    "packages": "PREMIUM PAINT CHARGE, All-Weather Floor Liners and Door Sill Protectors[installed_msrp], 50 State Emissions, Owner's Portfolio",
+    "created_at": "2024-03-19 11:31:46"
   },
   {
     "dealer": "37150",
@@ -3016,8 +2396,8 @@
     "total_msrp": "50465.0",
     "availability_date": null,
     "total_packages": 7,
-    "packages": "Owner's Portfolio, Quick Charging Cable Package[installed_msrp], 50 State Emissions, Audio Multimedia Upgrade, TRD Off-Road Upgrade Package<br>, Door Edge Guards[installed_msrp], AC power inverter",
-    "created_at": "2024-03-18 11:32:50"
+    "packages": "Quick Charging Cable Package[installed_msrp], 50 State Emissions, TRD Off-Road Upgrade Package<br>, Door Edge Guards[installed_msrp], Owner's Portfolio, Audio Multimedia Upgrade, AC power inverter",
+    "created_at": "2024-03-19 11:31:51"
   },
   {
     "dealer": "37149",
@@ -3036,8 +2416,8 @@
     "total_msrp": "35453.0",
     "availability_date": null,
     "total_packages": 3,
-    "packages": "50 State Emissions, Owner's Portfolio, All-Weather Floor Liners and Door Sill Protectors[installed_msrp]",
-    "created_at": "2024-03-18 11:32:55"
+    "packages": "All-Weather Floor Liners and Door Sill Protectors[installed_msrp], 50 State Emissions, Owner's Portfolio",
+    "created_at": "2024-03-19 11:31:55"
   },
   {
     "dealer": "31171",
@@ -3056,8 +2436,8 @@
     "total_msrp": "46550.0",
     "availability_date": null,
     "total_packages": 8,
-    "packages": "Mudguards, Owner's Portfolio, Spray On Bedliner[installed_msrp], Door Edge Guards[installed_msrp], Ball Mount, 50 State Emissions, Deck Rail + Cleats, SR5 Upgrade + Cold Weather Package",
-    "created_at": "2024-03-18 11:33:30"
+    "packages": "Spray On Bedliner[installed_msrp], 50 State Emissions, Mudguards, Deck Rail + Cleats, Owner's Portfolio, Door Edge Guards[installed_msrp], Ball Mount, SR5 Upgrade + Cold Weather Package",
+    "created_at": "2024-03-19 11:32:28"
   },
   {
     "dealer": "20134",
@@ -3076,8 +2456,8 @@
     "total_msrp": "46878.0",
     "availability_date": null,
     "total_packages": 9,
-    "packages": "Alloy Wheel Locks - Chrome[installed_msrp], Mudguards, All-Weather Floor Liners and Door Sill Protectors[installed_msrp], Deck Rail + Cleats, Door Panel Scuff Protectors[installed_msrp], Long Bed, SR5 Upgrade + Cold Weather Package, Door Edge Guards[installed_msrp], 50 State Emissions",
-    "created_at": "2024-03-18 11:34:13"
+    "packages": "Long Bed, Mudguards, Deck Rail + Cleats, SR5 Upgrade + Cold Weather Package, Door Edge Guards[installed_msrp], Door Panel Scuff Protectors[installed_msrp], 50 State Emissions, Alloy Wheel Locks - Chrome[installed_msrp], All-Weather Floor Liners and Door Sill Protectors[installed_msrp]",
+    "created_at": "2024-03-19 11:33:03"
   },
   {
     "dealer": "20102",
@@ -3096,28 +2476,8 @@
     "total_msrp": "47907.0",
     "availability_date": null,
     "total_packages": 11,
-    "packages": "Mudguards, All-Weather Floor Liners and Door Sill Protectors[installed_msrp], 50 State Emissions, Tube Steps - Black<br><br>[installed_msrp], Door Edge Guards[installed_msrp], Deck Rail + Cleats, Paint Protection Film - <br>Hood, Fenders, Mirror Backs and Door Cups[installed_msrp], SR5 Upgrade + Cold Weather Package, BedStep®[installed_msrp], Body Side Molding[installed_msrp], Owner's Portfolio",
-    "created_at": "2024-03-18 11:34:21"
-  },
-  {
-    "dealer": "20126",
-    "vin": "3TYLB5JN1RT001977",
-    "year": "2024",
-    "vehicle": "tacoma",
-    "model": "SR5",
-    "enginge": "i-FORCE 2.4L Turbocharged Engine",
-    "transmission": "8-Speed Automatic Transmission",
-    "drivetrain": "4-Wheel Drive",
-    "cab": "Double Cab",
-    "bed": "5-ft bed",
-    "color": "Underground",
-    "interior": "Black Fabric",
-    "base_msrp": "40400",
-    "total_msrp": "47593.0",
-    "availability_date": null,
-    "total_packages": 11,
-    "packages": "Alloy Wheel Locks - Chrome[installed_msrp], Predator Tube Steps[installed_msrp], Door Edge Guards[installed_msrp], SR5 Upgrade + Cold Weather Package, 50 State Emissions, Spray On Bedliner[installed_msrp], Mudguards, Emergency Assistance Kit[installed_msrp], All-Weather Floor Liners and Door Sill Protectors[installed_msrp], Owner's Portfolio, Deck Rail + Cleats",
-    "created_at": "2024-03-18 11:34:24"
+    "packages": "SR5 Upgrade + Cold Weather Package, BedStep®[installed_msrp], Door Edge Guards[installed_msrp], Deck Rail + Cleats, Mudguards, Owner's Portfolio, All-Weather Floor Liners and Door Sill Protectors[installed_msrp], Paint Protection Film - <br>Hood, Fenders, Mirror Backs and Door Cups[installed_msrp], Tube Steps - Black<br><br>[installed_msrp], Body Side Molding[installed_msrp], 50 State Emissions",
+    "created_at": "2024-03-19 11:33:12"
   },
   {
     "dealer": "28037",
@@ -3136,8 +2496,8 @@
     "total_msrp": "46873.0",
     "availability_date": null,
     "total_packages": 8,
-    "packages": "Spray On Bedliner[installed_msrp], 50 State Emissions, Door Panel Scuff Protectors[installed_msrp], Deck Rail + Cleats, SR5 Upgrade + Cold Weather Package, Door Edge Guards[installed_msrp], Mudguards, All-Weather Floor Liners and Door Sill Protectors[installed_msrp]",
-    "created_at": "2024-03-18 11:34:34"
+    "packages": "Spray On Bedliner[installed_msrp], SR5 Upgrade + Cold Weather Package, Door Panel Scuff Protectors[installed_msrp], Deck Rail + Cleats, Door Edge Guards[installed_msrp], Mudguards, 50 State Emissions, All-Weather Floor Liners and Door Sill Protectors[installed_msrp]",
+    "created_at": "2024-03-19 11:33:23"
   },
   {
     "dealer": "37096",
@@ -3156,8 +2516,8 @@
     "total_msrp": "35453.0",
     "availability_date": null,
     "total_packages": 2,
-    "packages": "50 State Emissions, All-Weather Floor Liners and Door Sill Protectors[installed_msrp]",
-    "created_at": "2024-03-18 11:35:40"
+    "packages": "All-Weather Floor Liners and Door Sill Protectors[installed_msrp], 50 State Emissions",
+    "created_at": "2024-03-19 11:34:26"
   },
   {
     "dealer": "37189",
@@ -3176,27 +2536,7 @@
     "total_msrp": "46537.0",
     "availability_date": null,
     "total_packages": 6,
-    "packages": "50 State Emissions, SR5 Upgrade + Cold Weather Package, Door Panel Scuff Protectors[installed_msrp], Paint Protection Film - <br>Hood, Fenders, Mirror Backs and Door Cups[installed_msrp], Deck Rail + Cleats, All-Weather Floor Liners and Door Sill Protectors[installed_msrp]",
-    "created_at": "2024-03-18 11:35:43"
-  },
-  {
-    "dealer": "37191",
-    "vin": "3TYKD5HN8RT000210",
-    "year": "2024",
-    "vehicle": "tacoma",
-    "model": "SR",
-    "enginge": "i-FORCE 2.4L Turbocharged Engine",
-    "transmission": "8-Speed Automatic Transmission",
-    "drivetrain": "Rear-Wheel Drive",
-    "cab": "Double Cab",
-    "bed": "5-ft bed",
-    "color": "Underground",
-    "interior": "Black Fabric",
-    "base_msrp": "33700",
-    "total_msrp": "36098.0",
-    "availability_date": null,
-    "total_packages": 5,
-    "packages": "Quick Charging Cable Package[installed_msrp], All-Weather Floor Liners and Door Sill Protectors[installed_msrp], Spray On Bedliner[installed_msrp], 50 State Emissions, Owner's Portfolio",
-    "created_at": "2024-03-18 11:35:48"
+    "packages": "50 State Emissions, Paint Protection Film - <br>Hood, Fenders, Mirror Backs and Door Cups[installed_msrp], All-Weather Floor Liners and Door Sill Protectors[installed_msrp], Door Panel Scuff Protectors[installed_msrp], Deck Rail + Cleats, SR5 Upgrade + Cold Weather Package",
+    "created_at": "2024-03-19 11:34:29"
   }
 ]
